@@ -10,22 +10,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "<3",
-    "stream_viewer_count": 1230,
+    "stream_viewer_count": 1316,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 195326003,
-    "user_login": "meowko",
-    "user_display_name": "Meowko",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9db76faf-c41a-4a01-8b5c-f6a9e8ab80ea-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39502733019,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[JP/EN] Speed Run Shopping 🧡 !Sub ",
-    "stream_viewer_count": 713,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
   },
   {
     "user_id": 663877711,
@@ -38,7 +24,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦🍑 RITA IN A TUB 💦 - Come for bikini stay for singing.❤️ 💦  !socials",
-    "stream_viewer_count": 709,
+    "stream_viewer_count": 721,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ritaglitch-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[LIVE] CRAZY GIRLS [ENG only]",
-    "stream_viewer_count": 703,
+    "stream_viewer_count": 698,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lina_asmr-{width}x{height}.jpg"
   },
   {
@@ -66,22 +52,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💕  [UK/GER] 🌞 Sunny Hot Tub 🌞 ❤️🧡💛💚💙💜 !vpn !socials",
-    "stream_viewer_count": 698,
+    "stream_viewer_count": 608,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 257497060,
-    "user_login": "niva",
-    "user_display_name": "Niva",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/965afa42-dfa7-4795-b4e0-bd98fa761e0f-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39502083291,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "IRL OSLO W/!FROGNERFRUE ",
-    "stream_viewer_count": 422,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niva-{width}x{height}.jpg"
   },
   {
     "user_id": 214948771,
@@ -93,8 +65,8 @@
     "stream_id": 42338913245,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "금방갈거라서 고데기안함",
-    "stream_viewer_count": 404,
+    "stream_title": "의문의 제로투챌린지",
+    "stream_viewer_count": 588,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
   },
   {
@@ -108,8 +80,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "E3 with Candy! <3 !discord !socials ",
-    "stream_viewer_count": 341,
+    "stream_viewer_count": 410,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 257497060,
+    "user_login": "niva",
+    "user_display_name": "Niva",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/965afa42-dfa7-4795-b4e0-bd98fa761e0f-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39502083291,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "IRL OSLO W/!FROGNERFRUE ",
+    "stream_viewer_count": 359,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niva-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 635001460,
+    "user_login": "littleaznchat",
+    "user_display_name": "LittleAznChat",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/26220bea-ed00-44fb-ad46-5d6a1622a43f-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39503067403,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": " 💜 KITTY-KINI, COME HANG MEOW💜",
+    "stream_viewer_count": 320,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
     "user_id": 190140376,
@@ -119,11 +119,25 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb3d0528-effa-40c1-867c-eeba3c928c63-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e972f8b4-5d6e-4d8f-81eb-eaec9ac0b639-channel_offline_image-1920x1080.png",
     "stream_id": 42333959532,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "💦🍑HOT TUB🍑💦BIKINI TRY ON💦BITS ARE BACK! PARTNER HYPE! 4K💦!instagram 💦!socials",
-    "stream_viewer_count": 291,
+    "stream_game_id": "516575",
+    "stream_game_name": "VALORANT",
+    "stream_title": "💦🍑HOT TUB STREAMER LEARNS FPS🍑💦!instagram 💦!socials",
+    "stream_viewer_count": 315,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_connie4u-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 215968422,
+    "user_login": "jadethejaguar",
+    "user_display_name": "JadetheJaguar",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86b22ec-d203-40e9-b994-fba8d798a432-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/707fd048-3a0d-4f51-9c7d-7e386c457877-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39503117227,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🔥YOU choose our topic🔥| !Patreon for more💦",
+    "stream_viewer_count": 290,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jadethejaguar-{width}x{height}.jpg"
   },
   {
     "user_id": 600275018,
@@ -136,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "IT'S MY BIRTHDAY 🎉🥳 CATWOMAN COSPLAY 😻!socials !spin !snapchat",
-    "stream_viewer_count": 148,
+    "stream_viewer_count": 250,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milliesmayhem-{width}x{height}.jpg"
   },
   {
@@ -150,22 +164,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "[18+] 🍑💦 just dance! [BR/ENG]",
-    "stream_viewer_count": 139,
+    "stream_viewer_count": 120,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marinamamede-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 49953078,
-    "user_login": "tinycowgirl",
-    "user_display_name": "tinycowgirl",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e43fe4e-212f-475f-a1c1-d472d8d9d92e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa9a8ee-3866-43e5-89c5-9f803a63c330-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42339871389,
-    "stream_game_id": "516575",
-    "stream_game_name": "VALORANT",
-    "stream_title": "Packing my suitcase! !name !pobox !socials !subs",
-    "stream_viewer_count": 116,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tinycowgirl-{width}x{height}.jpg"
   },
   {
     "user_id": 658070925,
@@ -178,8 +178,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "❤️ SATURDAY POOL PARTY - COME CHILL & DRAW ❤️ !discord ",
-    "stream_viewer_count": 96,
+    "stream_viewer_count": 112,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 187881090,
+    "user_login": "livilu",
+    "user_display_name": "Livilu",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76e5bc43-622b-43f8-9033-f3955a41a5e5-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/806233ac-2a32-4e2b-aafa-7ba7f13406f3-channel_offline_image-1920x1080.png",
+    "stream_id": 39503071003,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Game-a-thon Time!!!! 12 Hr Cap..",
+    "stream_viewer_count": 100,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livilu-{width}x{height}.jpg"
   },
   {
     "user_id": 257140862,
@@ -192,22 +206,8 @@
     "stream_game_id": "512709",
     "stream_game_name": "Call of Duty: Black Ops Cold War",
     "stream_title": "TOMORROW IS NATIONALS :O !NM !socials",
-    "stream_viewer_count": 92,
+    "stream_viewer_count": 97,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 635001460,
-    "user_login": "littleaznchat",
-    "user_display_name": "LittleAznChat",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/26220bea-ed00-44fb-ad46-5d6a1622a43f-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39503067403,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": " 💜 KITTY-KINI, COME HANG MEOW💜",
-    "stream_viewer_count": 88,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
     "user_id": 234992096,
@@ -220,8 +220,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Подкаст с Onutich и Lankapooh 👄 !кто !sub 👄",
-    "stream_viewer_count": 87,
+    "stream_viewer_count": 91,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nomadi_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 544274301,
+    "user_login": "cybabyyy",
+    "user_display_name": "cybabyyy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/def85ab1-7a2d-4ef2-9b78-27dab4416df7-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/56c465f1-3009-4d7b-8b4a-6fba88615e0a-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42339964797,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "woman attacked by a croc in Oaxaca, Mexico. //  NEW awards on ABOUT ME page - !ig !discord",
+    "stream_viewer_count": 75,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cybabyyy-{width}x{height}.jpg"
   },
   {
     "user_id": 530821239,
@@ -238,31 +252,17 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_simmykenz-{width}x{height}.jpg"
   },
   {
-    "user_id": 544274301,
-    "user_login": "cybabyyy",
-    "user_display_name": "cybabyyy",
+    "user_id": 183342190,
+    "user_login": "nana_kuronoma",
+    "user_display_name": "nana_kuronoma",
     "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/def85ab1-7a2d-4ef2-9b78-27dab4416df7-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/56c465f1-3009-4d7b-8b4a-6fba88615e0a-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42339964797,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4b7a27fd-7766-41b3-9a49-bd4869c4f7ea-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d660fa8b-6bff-4630-9ea1-bc08189cefeb-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42336285932,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "woman attacked by a croc in Oaxaca, Mexico. //  NEW awards on ABOUT ME page - !ig !discord",
-    "stream_viewer_count": 68,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cybabyyy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 187881090,
-    "user_login": "livilu",
-    "user_display_name": "Livilu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76e5bc43-622b-43f8-9033-f3955a41a5e5-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/806233ac-2a32-4e2b-aafa-7ba7f13406f3-channel_offline_image-1920x1080.png",
-    "stream_id": 39503071003,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Game-a-thon Time!!!! 12 Hr Cap..",
-    "stream_viewer_count": 64,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livilu-{width}x{height}.jpg"
+    "stream_title": "Team Rikku First Day E3 Stream Ubisoft Forward !!",
+    "stream_viewer_count": 22,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nana_kuronoma-{width}x{height}.jpg"
   }
 ]
