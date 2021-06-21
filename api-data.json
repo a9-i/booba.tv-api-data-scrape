@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 409624608,
-    "user_login": "melina",
-    "user_display_name": "melina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42482741165,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "very chill, a little hangover, come make me smile   | insta: melina.goransson",
-    "stream_viewer_count": 5175,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
-  },
-  {
     "user_id": 252393390,
     "user_login": "imviolet_",
     "user_display_name": "imviolet_",
@@ -24,36 +10,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR 👄 RELAX WITH ME 💗 !logitech !blue !foto",
-    "stream_viewer_count": 3999,
+    "stream_viewer_count": 4112,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imviolet_-{width}x{height}.jpg"
   },
   {
-    "user_id": 469348555,
-    "user_login": "taylor_jevaux",
-    "user_display_name": "Taylor_Jevaux",
+    "user_id": 409624608,
+    "user_login": "melina",
+    "user_display_name": "melina",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a571012-8dc4-41c2-a850-244a33e3b900-profile_image-300x300.png",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
     "user_offline_image_url": "",
-    "stream_id": 42481538061,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "LARA CROFT WORKOUT+TRY ON 🔥 !socials",
-    "stream_viewer_count": 2397,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 268488937,
-    "user_login": "lucyl3in",
-    "user_display_name": "LucyL3in",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/be10eb8a-d4dd-4ec4-a53f-84088bb61ae8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9991cabe-5687-43f6-9461-dead4ff23d52-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42483640493,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "CHILL & RELAX",
-    "stream_viewer_count": 1855,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucyl3in-{width}x{height}.jpg"
+    "stream_id": 42482741165,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "very chill, a little hangover, come make me smile   | insta: melina.goransson",
+    "stream_viewer_count": 4096,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
   },
   {
     "user_id": 544502795,
@@ -66,8 +38,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "in rainbows life",
-    "stream_viewer_count": 1742,
+    "stream_viewer_count": 2178,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 268488937,
+    "user_login": "lucyl3in",
+    "user_display_name": "LucyL3in",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/be10eb8a-d4dd-4ec4-a53f-84088bb61ae8-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9991cabe-5687-43f6-9461-dead4ff23d52-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42483640493,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "CHILL & RELAX",
+    "stream_viewer_count": 2047,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucyl3in-{width}x{height}.jpg"
   },
   {
     "user_id": 197406569,
@@ -79,8 +65,8 @@
     "stream_id": 39545838667,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "Cooking Rib Eye Steaks and Artichokes !socials !kim",
-    "stream_viewer_count": 1708,
+    "stream_title": "Cooking Rib Eye Steaks and Artichokes !socials !kim !wicked",
+    "stream_viewer_count": 1769,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
@@ -94,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️‍🔥WorkOut Angel❤️‍🔥시청자 400가자! Let's go 500viewers!",
-    "stream_viewer_count": 867,
+    "stream_viewer_count": 1100,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seoahtv-{width}x{height}.jpg"
   },
   {
@@ -108,36 +94,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR RELAX WITH ME 4K | !sub !youtube !prime",
-    "stream_viewer_count": 476,
+    "stream_viewer_count": 952,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 445080375,
-    "user_login": "carabeanz",
-    "user_display_name": "carabeanz",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5321f28-1733-4a17-8a0f-11c63ef68676-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/145b8180-c41e-42a0-bcc0-50f5cff69ba2-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42414714892,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "warzone & chatting lets go baby !SUB !PERKS !SOCIAL !IG",
-    "stream_viewer_count": 346,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carabeanz-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 10180554,
-    "user_login": "victorias",
-    "user_display_name": "Victorias",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7abf2d7-b1dd-4b2d-be7f-2a6a253b5a3b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3148712-8f0d-4d28-a7a8-fa189e727da2-channel_offline_image-1920x1080.png",
-    "stream_id": 42483245245,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "🌴🌙 POOLSIDE WORKOUT & JUMPS! !squats | !socials | amazon.com/shop/seriousgaming",
-    "stream_viewer_count": 336,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
   },
   {
     "user_id": 653843888,
@@ -150,8 +108,50 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "HOT TUB + misuriamo il mio quoziente intellettivo !sub !prime !telegram !altezza",
-    "stream_viewer_count": 330,
+    "stream_viewer_count": 598,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krippymami-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 10180554,
+    "user_login": "victorias",
+    "user_display_name": "Victorias",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7abf2d7-b1dd-4b2d-be7f-2a6a253b5a3b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3148712-8f0d-4d28-a7a8-fa189e727da2-channel_offline_image-1920x1080.png",
+    "stream_id": 42483245245,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "🌴🌙 POOLSIDE WORKOUT & JUMPS! !squats | !socials | amazon.com/shop/seriousgaming",
+    "stream_viewer_count": 485,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 445080375,
+    "user_login": "carabeanz",
+    "user_display_name": "carabeanz",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5321f28-1733-4a17-8a0f-11c63ef68676-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/145b8180-c41e-42a0-bcc0-50f5cff69ba2-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42414714892,
+    "stream_game_id": "1614555304",
+    "stream_game_name": "Call Of Duty: Modern Warfare",
+    "stream_title": "MP DUBS b4 WARZONE! lets go baby !SUB !PERKS !SOCIAL !IG",
+    "stream_viewer_count": 336,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carabeanz-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 650815299,
+    "user_login": "nutellows",
+    "user_display_name": "nutellows",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6d8ae3c-c19c-472c-b4db-01e37c9c8d6f-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42414502652,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💜Relaх💜NEW SHAKEE🔥--> !new !69 !commands",
+    "stream_viewer_count": 291,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nutellows-{width}x{height}.jpg"
   },
   {
     "user_id": 173319589,
@@ -164,50 +164,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "이만큼 늦었으면 3모 하겠읍니다.🎀",
-    "stream_viewer_count": 289,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jjolbi1987-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 549965632,
-    "user_login": "notmami_",
-    "user_display_name": "NotMami_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c55d6409-187d-4748-a4c4-491bb714d704-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49864021-e05a-4dfd-826b-11ba1bde26b9-channel_offline_image-1920x1080.png",
-    "stream_id": 42413825836,
-    "stream_game_id": "518017",
-    "stream_game_name": "Resident Evil Village",
-    "stream_title": "Holiii❤️Empezando el Residente del mal 8❤️!redes",
-    "stream_viewer_count": 286,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notmami_-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 650815299,
-    "user_login": "nutellows",
-    "user_display_name": "nutellows",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6d8ae3c-c19c-472c-b4db-01e37c9c8d6f-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42414502652,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💜RelaXXX/SLEEPING💜NEW SHAKEE🔥--> !new !69 !commands",
     "stream_viewer_count": 260,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nutellows-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 499133068,
-    "user_login": "shulyyyyyy",
-    "user_display_name": "shulyyyyyy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/14011d14-6f36-4975-a191-5fee17f0728c-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42412975212,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "ЧТО МОЖЕТ БЫТЬ ХУЖЕ, ЧЕМ БОЛЕТЬ ЛЕТОМ?  !tg !inst",
-    "stream_viewer_count": 236,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shulyyyyyy-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jjolbi1987-{width}x{height}.jpg"
   },
   {
     "user_id": 70933080,
@@ -220,8 +178,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "New Bikinis are here!! Try ons and Wheel Spins! | 💦-> !s for links<-👀 ",
-    "stream_viewer_count": 212,
+    "stream_viewer_count": 203,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorastarr-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 499133068,
+    "user_login": "shulyyyyyy",
+    "user_display_name": "shulyyyyyy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/14011d14-6f36-4975-a191-5fee17f0728c-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42412975212,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "ЧТО МОЖЕТ БЫТЬ ХУЖЕ, ЧЕМ БОЛЕТЬ ЛЕТОМ?  !tg !inst",
+    "stream_viewer_count": 174,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shulyyyyyy-{width}x{height}.jpg"
   },
   {
     "user_id": 584625730,
@@ -234,7 +206,7 @@
     "stream_game_id": "1136229010",
     "stream_game_name": "Necromunda: Hired Gun",
     "stream_title": "Let's see what this is about then ❤️ !socials !merch",
-    "stream_viewer_count": 128,
+    "stream_viewer_count": 116,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivanahyde-{width}x{height}.jpg"
   },
   {
@@ -248,8 +220,22 @@
     "stream_game_id": "512710",
     "stream_game_name": "Call of Duty: Warzone",
     "stream_title": "Work-Out, Just Dance, & More !socials\n",
-    "stream_viewer_count": 105,
+    "stream_viewer_count": 98,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emmalayne-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 187881090,
+    "user_login": "livilu",
+    "user_display_name": "Livilu",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76e5bc43-622b-43f8-9033-f3955a41a5e5-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9de7a86a-96e0-4d24-847f-ed4640b08e33-channel_offline_image-1920x1080.png",
+    "stream_id": 39546200539,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I'm Late What A Surprise.. Happy Monday!!",
+    "stream_viewer_count": 91,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livilu-{width}x{height}.jpg"
   },
   {
     "user_id": 596486414,
@@ -262,7 +248,7 @@
     "stream_game_id": "512710",
     "stream_game_name": "Call of Duty: Warzone",
     "stream_title": "I‘M back WARZONE Wins",
-    "stream_viewer_count": 74,
+    "stream_viewer_count": 67,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsclaraduh-{width}x{height}.jpg"
   },
   {
@@ -276,7 +262,35 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "CHillin with the girlies 🍒🌟 !amanda !bethany !links !Reddit !twitter !backup",
-    "stream_viewer_count": 46,
+    "stream_viewer_count": 59,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 78985277,
+    "user_login": "alittlekay",
+    "user_display_name": "alittlekay",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce2e435d-c294-4693-8f38-9a8c2c3bb1fa-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71c3954e-c93f-4f72-bd28-45030ea921bf-channel_offline_image-1920x1080.png",
+    "stream_id": 42415078028,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❤️ DANCING ❤️  !SOCIALS ",
+    "stream_viewer_count": 42,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alittlekay-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 499548905,
+    "user_login": "paintedxlady",
+    "user_display_name": "paintedxlady",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/08045b11-e73b-4ca1-8050-765f7340dbab-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42415099276,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "♡💥Get Sweaty - Schoolgirl Cosplay - Yoga and Pool later? 💥 ♡ !linktree !cancer !poster ",
+    "stream_viewer_count": 6,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paintedxlady-{width}x{height}.jpg"
   }
 ]
