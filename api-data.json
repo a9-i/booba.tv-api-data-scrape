@@ -7,10 +7,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24a63d64-79e0-4eb8-b725-a18ad2033f9d-channel_offline_image-1920x1080.png",
     "stream_id": 42435395372,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
+    "stream_game_id": "32982",
+    "stream_game_name": "Grand Theft Auto V",
     "stream_title": "hi  / !inst",
-    "stream_viewer_count": 688,
+    "stream_viewer_count": 469,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
   },
   {
@@ -24,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔥YOGA AND STRETCHING🔥 !  !exclusive !instagram !language ",
-    "stream_viewer_count": 324,
+    "stream_viewer_count": 420,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_missvittoria-{width}x{height}.jpg"
   },
   {
@@ -38,8 +38,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Watching Muy Thai training with Yoffe (Subs get Snapchat)",
-    "stream_viewer_count": 147,
+    "stream_viewer_count": 261,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jyoffe143-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 568694723,
+    "user_login": "candycatcris",
+    "user_display_name": "candycatcris",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64994cb9-cbdd-423f-8294-ed48681042aa-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0f0888-2672-437c-83b1-98edc72e550e-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42522802941,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "let's swim🍦 🍑 💦",
+    "stream_viewer_count": 123,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_candycatcris-{width}x{height}.jpg"
   },
   {
     "user_id": 456648120,
@@ -52,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Daddy helps me with my YOGA !juicy !tip !socials",
-    "stream_viewer_count": 84,
+    "stream_viewer_count": 93,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inannastorm-{width}x{height}.jpg"
   }
 ]
