@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 419795496,
-    "user_login": "sooflower",
-    "user_display_name": "수련수련",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/447f51d0-7f8f-4489-958f-35323161ca92-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
-    "stream_id": 42539707101,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "백리스 스웨터 련",
-    "stream_viewer_count": 2853,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
-  },
-  {
     "user_id": 188614162,
     "user_login": "gloriamatvien",
     "user_display_name": "GloriaMatvien",
@@ -24,22 +10,50 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "  💗DANCE TIME 💗have a nice day 💗 !IG !dance !roulette",
-    "stream_viewer_count": 2120,
+    "stream_viewer_count": 2584,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
-    "user_id": 572687874,
-    "user_login": "milliemiless",
-    "user_display_name": "MillieMiless",
+    "user_id": 419795496,
+    "user_login": "sooflower",
+    "user_display_name": "수련수련",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa35c0b2-abfa-412b-85f4-7155aa0c1ab3-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6eb7da8-df96-4026-85c0-0382d75e89df-channel_offline_image-1920x1080.png",
-    "stream_id": 42539616797,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/447f51d0-7f8f-4489-958f-35323161ca92-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
+    "stream_id": 42539707101,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "ATTEMPTING A HIPHOP ROUTINE DONT WATCH  !incent !socials !Vodra !VPN",
-    "stream_viewer_count": 717,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milliemiless-{width}x{height}.jpg"
+    "stream_title": "백리스 스웨터 련",
+    "stream_viewer_count": 2113,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 112907244,
+    "user_login": "anastasia_lexmur",
+    "user_display_name": "Anastasia_Lexmur",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42445954172,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "NEW PLACE +YOGA Just chilling <3 !boosty !of !inst",
+    "stream_viewer_count": 547,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 631918609,
+    "user_login": "kristagray",
+    "user_display_name": "KristaGray",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7085cb76-c402-405c-a543-d8b61cc4f293-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42540261549,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "lets be friends 💕 !twitter",
+    "stream_viewer_count": 151,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristagray-{width}x{height}.jpg"
   },
   {
     "user_id": 567652081,
@@ -52,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "bedtime birthday sesh 🤩 !links !reddit !twitter",
-    "stream_viewer_count": 110,
+    "stream_viewer_count": 136,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
   },
   {
@@ -66,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "\"worst type of streamer\" and bioshock",
-    "stream_viewer_count": 36,
+    "stream_viewer_count": 34,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tatumleaminx-{width}x{height}.jpg"
   }
 ]
