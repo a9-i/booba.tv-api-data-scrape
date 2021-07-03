@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 160538649,
-    "user_login": "faith",
-    "user_display_name": "Faith",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/531d7c1b-471d-4d1e-89e2-a72372cf8deb-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
-    "stream_id": 42524239468,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "💧💗 HOT TUB VIBIN 💗👀 | !s !socials",
-    "stream_viewer_count": 6516,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
-  },
-  {
     "user_id": 457124238,
     "user_login": "adrianachechik_",
     "user_display_name": "AdrianaChechik_",
@@ -21,10 +7,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
     "stream_id": 42662751805,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
+    "stream_game_id": "518017",
+    "stream_game_name": "Resident Evil Village",
     "stream_title": "FINISHING THE JOB...",
-    "stream_viewer_count": 4565,
+    "stream_viewer_count": 4362,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "여름 룩북",
-    "stream_viewer_count": 3132,
+    "stream_viewer_count": 4279,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "  💗hiii lets dance💗 !IG !dance !roulette",
-    "stream_viewer_count": 1654,
+    "stream_viewer_count": 2256,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
@@ -66,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[JP/EN] Amsterdam explore オランダ旅行🧡  !Sub !event",
-    "stream_viewer_count": 826,
+    "stream_viewer_count": 810,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
   },
   {
@@ -80,22 +66,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[ENG/RU] 🔥YOGA AND STRETCHING ON THE BED! NEW LEGGINGS🔥 \n!exclusive !instagram !eng",
-    "stream_viewer_count": 647,
+    "stream_viewer_count": 729,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_missvittoria-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 531990402,
-    "user_login": "popazik",
-    "user_display_name": "popazik",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24a63d64-79e0-4eb8-b725-a18ad2033f9d-channel_offline_image-1920x1080.png",
-    "stream_id": 42524537692,
-    "stream_game_id": "32982",
-    "stream_game_name": "Grand Theft Auto V",
-    "stream_title": "шпилимся в ГТА / !inst !tg",
-    "stream_viewer_count": 222,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
   },
   {
     "user_id": 525495244,
@@ -108,7 +80,49 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "[18+]🍑💦 COME GRAB MMPOINTS AND CHAT! [BR/ENG]",
-    "stream_viewer_count": 99,
+    "stream_viewer_count": 219,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marinamamede-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 531990402,
+    "user_login": "popazik",
+    "user_display_name": "popazik",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/24a63d64-79e0-4eb8-b725-a18ad2033f9d-channel_offline_image-1920x1080.png",
+    "stream_id": 42524537692,
+    "stream_game_id": "32982",
+    "stream_game_name": "Grand Theft Auto V",
+    "stream_title": "шпилимся в ГТА / !inst !tg",
+    "stream_viewer_count": 214,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 237238176,
+    "user_login": "seolyihyeon",
+    "user_display_name": "설이현",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30592033-c8fa-4620-86f5-cf7b0457e6fd-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7db72ec2-eedc-4902-b167-f09fe5bd190c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42666984317,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "9시 메이드복빵 내기 4인조 ✧٩(ˊωˋ*)و✧",
+    "stream_viewer_count": 101,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 610369395,
+    "user_login": "katiabang",
+    "user_display_name": "KatiaBang",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d4adc2e-c38d-4762-a485-db1d9a97aceb-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42667048493,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "hello! welcome back to my cooking stream !links !new",
+    "stream_viewer_count": 27,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_katiabang-{width}x{height}.jpg"
   }
 ]
