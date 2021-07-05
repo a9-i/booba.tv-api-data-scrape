@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 125387632,
-    "user_login": "amouranth",
-    "user_display_name": "Amouranth",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8af1f4e-43bc-41c8-85c4-14e07bd1450f-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2509e087-402b-4d18-a813-d9bd478b92c1-channel_offline_image-1920x1080.png",
-    "stream_id": 42543364076,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "IRL 4TH OF JULY🍑!downbad !s !social💦!instagram: @amouranth💦",
-    "stream_viewer_count": 6329,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
-  },
-  {
     "user_id": 544502795,
     "user_login": "ibabyrainbow",
     "user_display_name": "ibabyrainbow",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "fireworks @ 9pm PST",
-    "stream_viewer_count": 2496,
+    "stream_viewer_count": 2528,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
   },
   {
@@ -38,36 +24,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR RELAX WITH ME ❤️ 4K✨| !sub !youtube !prime",
-    "stream_viewer_count": 2139,
+    "stream_viewer_count": 2321,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 10180554,
-    "user_login": "victorias",
-    "user_display_name": "Victorias",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7abf2d7-b1dd-4b2d-be7f-2a6a253b5a3b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3148712-8f0d-4d28-a7a8-fa189e727da2-channel_offline_image-1920x1080.png",
-    "stream_id": 42686042029,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🦅🥳4th of July PARTY! !socials | !squats | amazon.com/shop/seriousgaming",
-    "stream_viewer_count": 366,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 498702559,
-    "user_login": "kamelliableu",
-    "user_display_name": "KamelliaBleu",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/58394e0a-147c-4fe4-a1ca-9340e2323963-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f62adfd8-6560-4a67-8aba-322d6c86ca51-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42542186252,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Painting rocks Happy 4th ❤️ 110 degrees = bathing suit party ",
-    "stream_viewer_count": 278,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kamelliableu-{width}x{height}.jpg"
   },
   {
     "user_id": 132563423,
@@ -80,8 +38,36 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💕 LATE NIGHT HOT TUB STREAM 💕 HAPPY FOURTH!! 💕 !socials 💕 !tiktok 💕",
-    "stream_viewer_count": 276,
+    "stream_viewer_count": 655,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firedancer-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 10180554,
+    "user_login": "victorias",
+    "user_display_name": "Victorias",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7abf2d7-b1dd-4b2d-be7f-2a6a253b5a3b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3148712-8f0d-4d28-a7a8-fa189e727da2-channel_offline_image-1920x1080.png",
+    "stream_id": 42686042029,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🦅🥳4th of July PARTY! !socials | !squats | amazon.com/shop/seriousgaming",
+    "stream_viewer_count": 347,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 270759648,
+    "user_login": "ju10506",
+    "user_display_name": "총야_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84aedd8c-6dab-4295-ade7-1c2efdbd4da8-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c376171-6947-4940-923e-c2057d9f6f92-channel_offline_image-1920x1080.png",
+    "stream_id": 42690023549,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "En/한💕99금 ㅗㅜㅑ..💕-.영도만 보내기",
+    "stream_viewer_count": 342,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ju10506-{width}x{height}.jpg"
   },
   {
     "user_id": 410322055,
@@ -94,22 +80,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Rating Tinder profiles🥰✨ Happy 4th of July american fam!",
-    "stream_viewer_count": 230,
+    "stream_viewer_count": 252,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_madisongordonx-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 250350524,
-    "user_login": "hottea",
-    "user_display_name": "HotTea",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cecc3b5-dd37-46b6-8cd6-e5d1d4b9920c-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42543278956,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💥 FIREWORK SHOW 💥 𝗖𝗘𝗟𝗘𝗕𝗥𝗔𝗧𝗜𝗡𝗚 𝗙𝗥𝗘𝗘𝗗𝗢𝗠 !sub !socials !swag",
-    "stream_viewer_count": 168,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hottea-{width}x{height}.jpg"
   },
   {
     "user_id": 530821239,
@@ -122,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "AMERICAN HISTORY STREAM",
-    "stream_viewer_count": 113,
+    "stream_viewer_count": 129,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_simmykenz-{width}x{height}.jpg"
   },
   {
@@ -136,21 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔥 Latina Dancing 💦 // New !tiktok post IG: alterielle",
-    "stream_viewer_count": 76,
+    "stream_viewer_count": 83,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alterielle-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 270759648,
-    "user_login": "ju10506",
-    "user_display_name": "총야_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84aedd8c-6dab-4295-ade7-1c2efdbd4da8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c376171-6947-4940-923e-c2057d9f6f92-channel_offline_image-1920x1080.png",
-    "stream_id": 42690023549,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "En/한💕99금 ㅗㅜㅑ..💕-.영도만 보내기",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ju10506-{width}x{height}.jpg"
   }
 ]
