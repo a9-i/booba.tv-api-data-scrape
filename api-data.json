@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 544502795,
-    "user_login": "ibabyrainbow",
-    "user_display_name": "ibabyrainbow",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71204832-58f1-47e1-af54-affd7d27def2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ad58853-b5d9-4b39-a018-e84fc36eb2fa-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42771292445,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "bubblegum",
-    "stream_viewer_count": 2153,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
-  },
-  {
     "user_id": 405208912,
     "user_login": "gonsabellla",
     "user_display_name": "gonsabellla",
@@ -24,8 +10,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "3 HORAS AMPLIABLE/ SUB O 500 BITS= 3 MIN",
-    "stream_viewer_count": 1553,
+    "stream_viewer_count": 2435,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 544502795,
+    "user_login": "ibabyrainbow",
+    "user_display_name": "ibabyrainbow",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71204832-58f1-47e1-af54-affd7d27def2-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ad58853-b5d9-4b39-a018-e84fc36eb2fa-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42771292445,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "bubblegum",
+    "stream_viewer_count": 1798,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
   },
   {
     "user_id": 576540233,
@@ -37,23 +37,9 @@
     "stream_id": 42775598877,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "💖Cooking Chicken Angel💖",
-    "stream_viewer_count": 947,
+    "stream_title": "💖Kpop Dancing Angel💖",
+    "stream_viewer_count": 1342,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seoahtv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 68930253,
-    "user_login": "intraventus",
-    "user_display_name": "Intraventus",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee1b965-7656-40c1-9a99-c481abec1930-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82b3ebbc-e3e4-411a-9e48-d718e986f1a4-channel_offline_image-1920x1080.png",
-    "stream_id": 42603315212,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💖BLACK WIDOW FULL BODY PAINT !TOS💖 Instagram: Intraventus 💦 !subs [ENG] [18+]",
-    "stream_viewer_count": 376,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_intraventus-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -66,8 +52,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🦆 I like big ducks 🦆 !socials !squats https://www.amazon.com/shop/seriousgaming",
-    "stream_viewer_count": 375,
+    "stream_viewer_count": 416,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 68930253,
+    "user_login": "intraventus",
+    "user_display_name": "Intraventus",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee1b965-7656-40c1-9a99-c481abec1930-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82b3ebbc-e3e4-411a-9e48-d718e986f1a4-channel_offline_image-1920x1080.png",
+    "stream_id": 42603315212,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💖BLACK WIDOW FULL BODY PAINT !TOS💖 Instagram: Intraventus 💦 !subs [ENG] [18+]",
+    "stream_viewer_count": 377,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_intraventus-{width}x{height}.jpg"
   },
   {
     "user_id": 155874595,
@@ -80,7 +80,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "SLEEP TTS ON! ❤️ 48HR STREAM ❤️ !sm !prime ",
-    "stream_viewer_count": 329,
+    "stream_viewer_count": 365,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
   },
   {
@@ -94,50 +94,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "CALLING ALL MEN OF CULTURE ;) ",
-    "stream_viewer_count": 269,
+    "stream_viewer_count": 347,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 590652971,
-    "user_login": "cynthiajoon",
-    "user_display_name": "cynthiajoon",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0832646-1ae6-488a-a76b-48dcdf04449f-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42777405293,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "I DIDN'T GET STOOD UP LAST NIGHT  --> IG: cynthia.joon",
-    "stream_viewer_count": 235,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cynthiajoon-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 187881090,
-    "user_login": "livilu",
-    "user_display_name": "Livilu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/76e5bc43-622b-43f8-9033-f3955a41a5e5-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9de7a86a-96e0-4d24-847f-ed4640b08e33-channel_offline_image-1920x1080.png",
-    "stream_id": 42604240988,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Let’s Do Some Art On The Balcony!",
-    "stream_viewer_count": 221,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livilu-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 257140862,
-    "user_login": "karna",
-    "user_display_name": "Karna",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1dabff7-f85f-4599-a1b7-b662f243ced4-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7f3d4eb-27a3-490a-a317-3c7fc869001c-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42602357260,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🍻🔥📸ShitShow Day 3 w/ !woice !tonje  📸🔥🍻 | !POBOX  !YT",
-    "stream_viewer_count": 219,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
   },
   {
     "user_id": 144543711,
@@ -150,8 +108,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "IRL ** Going out in FL",
-    "stream_viewer_count": 214,
+    "stream_viewer_count": 285,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livelybella-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 519054656,
+    "user_login": "sharonwinner",
+    "user_display_name": "SharonWinner",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/532e9fe0-5ff9-4dc1-b352-13b2987778f9-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42778339661,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Argentina Festejemos!!! 🏆✨Instagram SharonWinneroficial!!!😏",
+    "stream_viewer_count": 222,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonwinner-{width}x{height}.jpg"
   },
   {
     "user_id": 611121748,
@@ -164,7 +136,7 @@
     "stream_game_id": "32982",
     "stream_game_name": "Grand Theft Auto V",
     "stream_title": "[VANQUEST] MAZIKEEN è TORNATA !discord !instagram !tiktok",
-    "stream_viewer_count": 181,
+    "stream_viewer_count": 213,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mady_gio-{width}x{height}.jpg"
   },
   {
@@ -178,8 +150,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Ask me anything anonymously🙃💕 !form",
-    "stream_viewer_count": 172,
+    "stream_viewer_count": 209,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_madisongordonx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 257140862,
+    "user_login": "karna",
+    "user_display_name": "Karna",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1dabff7-f85f-4599-a1b7-b662f243ced4-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7f3d4eb-27a3-490a-a317-3c7fc869001c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42602357260,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🍻🔥📸ShitShow Day 3 w/ !woice !tonje  📸🔥🍻 | !POBOX  !YT",
+    "stream_viewer_count": 181,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
   },
   {
     "user_id": 190859476,
@@ -192,7 +178,21 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Get Ready with me! !yt ",
-    "stream_viewer_count": 124,
+    "stream_viewer_count": 165,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_msbeverlyhart-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 467479923,
+    "user_login": "awylla",
+    "user_display_name": "awylla",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f877b4e-3a1d-4886-8079-71f01cff7df3-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39636994267,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "(+18) Sub =dança +zap 😈🔞😈",
+    "stream_viewer_count": 123,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_awylla-{width}x{height}.jpg"
   }
 ]
