@@ -1,5 +1,19 @@
 [
   {
+    "user_id": 409624608,
+    "user_login": "melina",
+    "user_display_name": "melina",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42646899644,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "another insanly hot day in sweden 🌸🇸🇪 | insta: melina.goransson",
+    "stream_viewer_count": 4127,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
+  },
+  {
     "user_id": 188614162,
     "user_login": "gloriamatvien",
     "user_display_name": "GloriaMatvien",
@@ -10,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💗 Just Chilling and Chatting 💗 have a nice day 💗 !ig !dance !roulette 💗",
-    "stream_viewer_count": 1630,
+    "stream_viewer_count": 1829,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
@@ -24,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💦step streamer💦 !socials !s",
-    "stream_viewer_count": 1574,
+    "stream_viewer_count": 1300,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azra-{width}x{height}.jpg"
   },
   {
@@ -38,22 +52,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🍑EVERY SUB = 5 SQUATS 💦  !ig !links !wow",
-    "stream_viewer_count": 1236,
+    "stream_viewer_count": 1207,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 112907244,
-    "user_login": "anastasia_lexmur",
-    "user_display_name": "Anastasia_Lexmur",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42646334748,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG] YOGA +STRETCHING❤️ Just chilling❤️ !sub !ig !socials ",
-    "stream_viewer_count": 875,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
     "user_id": 155874595,
@@ -66,8 +66,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "THE BEST ASMR ❤️ !yt !sm !prime",
-    "stream_viewer_count": 415,
+    "stream_viewer_count": 1071,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 568694723,
+    "user_login": "candycatcris",
+    "user_display_name": "candycatcris",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64994cb9-cbdd-423f-8294-ed48681042aa-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0f0888-2672-437c-83b1-98edc72e550e-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42646840156,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💦get YOUR NAME ON MY BIG BALL🍑",
+    "stream_viewer_count": 223,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_candycatcris-{width}x{height}.jpg"
   },
   {
     "user_id": 488422566,
@@ -80,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[en/ru] cooking !onlyfans",
-    "stream_viewer_count": 104,
+    "stream_viewer_count": 97,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_twictoriches-{width}x{height}.jpg"
   },
   {
@@ -93,8 +107,8 @@
     "stream_id": 42646597564,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "i read everything  !socials !insta",
-    "stream_viewer_count": 33,
+    "stream_title": "chill vibez !socials !insta",
+    "stream_viewer_count": 38,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rainnie_bunny-{width}x{height}.jpg"
   }
 ]
