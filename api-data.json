@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 409624608,
-    "user_login": "melina",
-    "user_display_name": "melina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42676169772,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "SHORT STREAM, so you better be here! is today the day? we reach 700k followers on twitch | insta: melina.goransson",
-    "stream_viewer_count": 4690,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
-  },
-  {
     "user_id": 419795496,
     "user_login": "sooflower",
     "user_display_name": "수련수련",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "원신 모나 코스프레 ",
-    "stream_viewer_count": 3765,
+    "stream_viewer_count": 3210,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💧💗 HOT TUB + DRINKING SANGRIA 💗👀 | !s !socials",
-    "stream_viewer_count": 2624,
+    "stream_viewer_count": 2908,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -52,36 +38,36 @@
     "stream_game_id": "509672",
     "stream_game_name": "Travel & Outdoors",
     "stream_title": "VAMOS A VER BILBAO DE ARRIBA A ABAJO",
-    "stream_viewer_count": 2441,
+    "stream_viewer_count": 2020,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
   },
   {
-    "user_id": 188614162,
-    "user_login": "gloriamatvien",
-    "user_display_name": "GloriaMatvien",
+    "user_id": 610369395,
+    "user_login": "katiabang",
+    "user_display_name": "KatiaBang",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c279a788-3a8d-4d63-8c40-f6cef264e322-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d3c029d-8104-4797-aa7b-fe19137b75f4-channel_offline_image-1920x1080.png",
-    "stream_id": 42675558908,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d4adc2e-c38d-4762-a485-db1d9a97aceb-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42677241804,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "🔥DANCES n chatting🔥 have a nice day 💗 !ig !dance !roulette 💗",
-    "stream_viewer_count": 1975,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
+    "stream_title": "Walking time ",
+    "stream_viewer_count": 646,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_katiabang-{width}x{height}.jpg"
   },
   {
-    "user_id": 414507208,
-    "user_login": "azra",
-    "user_display_name": "AZRA",
+    "user_id": 195326003,
+    "user_login": "meowko",
+    "user_display_name": "Meowko",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f2b8bc8-dc0a-4da5-9c8c-bb3e8269dbaa-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/13fe8b73-0950-4982-88a1-cf1bf8f18b86-channel_offline_image-1920x1080.png",
-    "stream_id": 42677001548,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "🍑 beach 🍑 !socials !s",
-    "stream_viewer_count": 1124,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azra-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6efeb329-e190-4a3e-9d86-ee87a223bb1a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42677212716,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[JP/EN] Just Chatting cuz I'm in the category of Just Chatting !gg !Sub !event",
+    "stream_viewer_count": 448,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
   },
   {
     "user_id": 475566892,
@@ -94,7 +80,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💗  [UK/GER] !phub !giveaway 💗 IT'S SO HOT 🥵 💦 !allsocials",
-    "stream_viewer_count": 397,
+    "stream_viewer_count": 395,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   },
   {
@@ -108,36 +94,8 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "❤️ HELLO ❤️ !yt !sm !prime",
-    "stream_viewer_count": 350,
+    "stream_viewer_count": 364,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 237238176,
-    "user_login": "seolyihyeon",
-    "user_display_name": "설이현",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30592033-c8fa-4620-86f5-cf7b0457e6fd-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7db72ec2-eedc-4902-b167-f09fe5bd190c-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42883871949,
-    "stream_game_id": "21779",
-    "stream_game_name": "League of Legends",
-    "stream_title": "갑분 음주 뱅송:>",
-    "stream_viewer_count": 249,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 558825097,
-    "user_login": "sarinha_xo",
-    "user_display_name": "sarinha_xo",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2afe5012-8d47-4295-a4ce-48f173a2af84-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42676683756,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Pool time🔥         !ig !socials !youtube",
-    "stream_viewer_count": 217,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarinha_xo-{width}x{height}.jpg"
   },
   {
     "user_id": 214948771,
@@ -147,10 +105,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
     "user_offline_image_url": "",
     "stream_id": 42884193149,
-    "stream_game_id": "21779",
-    "stream_game_name": "League of Legends",
-    "stream_title": "다이아3 미드라이너",
-    "stream_viewer_count": 203,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "다3 72점 카시는 승리한다",
+    "stream_viewer_count": 305,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
   },
   {
@@ -164,8 +122,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Dance and Talk",
-    "stream_viewer_count": 187,
+    "stream_viewer_count": 198,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 257140862,
+    "user_login": "karna",
+    "user_display_name": "Karna",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1dabff7-f85f-4599-a1b7-b662f243ced4-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7f3d4eb-27a3-490a-a317-3c7fc869001c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42676975164,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Welcome all sinners| !POBOX  !YT",
+    "stream_viewer_count": 173,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
   },
   {
     "user_id": 625450498,
@@ -178,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[ENG-RUS] [18+] 💦 I Need Some Sleep 🔥 !social 💜",
-    "stream_viewer_count": 169,
+    "stream_viewer_count": 164,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
   },
   {
@@ -192,22 +164,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🔞💦 JOIN MY POOL PARTY 🥳❤️ !socials !8ball",
-    "stream_viewer_count": 161,
+    "stream_viewer_count": 163,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
   },
   {
-    "user_id": 257140862,
-    "user_login": "karna",
-    "user_display_name": "Karna",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1dabff7-f85f-4599-a1b7-b662f243ced4-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7f3d4eb-27a3-490a-a317-3c7fc869001c-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42676975164,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Welcome all sinners| !POBOX  !YT",
-    "stream_viewer_count": 138,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
+    "user_id": 237238176,
+    "user_login": "seolyihyeon",
+    "user_display_name": "설이현",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30592033-c8fa-4620-86f5-cf7b0457e6fd-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7db72ec2-eedc-4902-b167-f09fe5bd190c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42883871949,
+    "stream_game_id": "21779",
+    "stream_game_name": "League of Legends",
+    "stream_title": "갑분 음주 뱅송:>",
+    "stream_viewer_count": 156,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
   },
   {
     "user_id": 250502765,
@@ -220,36 +192,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦Top Donator of the Month picks my hair colour🍑Buy me a $300 000 house oil daddies, Subs get !snap 💦🍑",
-    "stream_viewer_count": 106,
+    "stream_viewer_count": 138,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 195326003,
-    "user_login": "meowko",
-    "user_display_name": "Meowko",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6efeb329-e190-4a3e-9d86-ee87a223bb1a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42677212716,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[JP/EN] Just Chatting cuz I'm in the category of Just Chatting !gg !Sub !event",
-    "stream_viewer_count": 95,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 610369395,
-    "user_login": "katiabang",
-    "user_display_name": "KatiaBang",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d4adc2e-c38d-4762-a485-db1d9a97aceb-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42677241804,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Walking time ",
-    "stream_viewer_count": 76,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_katiabang-{width}x{height}.jpg"
   },
   {
     "user_id": 568972298,
@@ -262,7 +206,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "kitty 🍑 !ofans",
-    "stream_viewer_count": 43,
+    "stream_viewer_count": 33,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lesya_cox-{width}x{height}.jpg"
   }
 ]
