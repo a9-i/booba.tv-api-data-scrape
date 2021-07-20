@@ -1,5 +1,19 @@
 [
   {
+    "user_id": 409624608,
+    "user_login": "melina",
+    "user_display_name": "melina",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42695788300,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "stockholm! 🇸🇪  | insta: melina.goransson",
+    "stream_viewer_count": 3036,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
+  },
+  {
     "user_id": 419795496,
     "user_login": "sooflower",
     "user_display_name": "수련수련",
@@ -9,8 +23,8 @@
     "stream_id": 42912175981,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "화사한 화요일",
-    "stream_viewer_count": 3157,
+    "stream_title": "대환장 퀴즈쇼 ",
+    "stream_viewer_count": 2351,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
@@ -24,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": " 💗DANCING time 💗 lets have fun 💗 !ig !dance !roulette 💗",
-    "stream_viewer_count": 2232,
+    "stream_viewer_count": 2184,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
@@ -38,22 +52,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔴 LIVE ASMR EAR LICKS ❤️ !s !prime",
-    "stream_viewer_count": 1946,
+    "stream_viewer_count": 2014,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 112907244,
-    "user_login": "anastasia_lexmur",
-    "user_display_name": "Anastasia_Lexmur",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42694707324,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG] YOGA AND RELAX TIME❤️ Just chilling❤️ !sub !ig !socials ",
-    "stream_viewer_count": 944,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
     "user_id": 583931625,
@@ -66,8 +66,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🍑 EVERY SUB = 5 SQUATS 💦  !ig !links !wow",
-    "stream_viewer_count": 788,
+    "stream_viewer_count": 1235,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 112907244,
+    "user_login": "anastasia_lexmur",
+    "user_display_name": "Anastasia_Lexmur",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42694707324,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[ENG] YOGA AND RELAX TIME❤️ Just chilling❤️ !sub !ig !socials ",
+    "stream_viewer_count": 897,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
     "user_id": 103397701,
@@ -80,21 +94,63 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Dance and Talk",
-    "stream_viewer_count": 236,
+    "stream_viewer_count": 201,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
-    "user_id": 631918609,
-    "user_login": "kristagray",
-    "user_display_name": "KristaGray",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7085cb76-c402-405c-a543-d8b61cc4f293-profile_image-300x300.png",
+    "user_id": 636755146,
+    "user_login": "loreliamia",
+    "user_display_name": "loreliamia",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c714971-9091-4904-ab36-89073b6029d5-profile_image-300x300.png",
     "user_offline_image_url": "",
-    "stream_id": 42912393693,
+    "stream_id": 42695765228,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "IM BAaaaAAAccKkkkk💕 !socials",
-    "stream_viewer_count": 44,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristagray-{width}x{height}.jpg"
+    "stream_title": "Summer vibes! Tanning",
+    "stream_viewer_count": 189,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_loreliamia-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 250502765,
+    "user_login": "mistressmord",
+    "user_display_name": "MistressMord",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
+    "stream_id": 42695782572,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💦Top Donator of the Month picks my hair colour🍑Buy me a $300 000 house oil daddies, Subs get !snap 💦🍑",
+    "stream_viewer_count": 126,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 625450498,
+    "user_login": "fitonastya",
+    "user_display_name": "FitoNastya",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f62aa677-c5fa-443a-83ec-50fc8b33c2b2-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/caabd5b7-312c-4880-9279-5a839cf5d9de-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42695789468,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[ENG-RUS] [18+] 💦 Fitness Rehabilitation 🔥 !social 💜",
+    "stream_viewer_count": 86,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 478846434,
+    "user_login": "queen_of_conspiracy",
+    "user_display_name": "queen_of_conspiracy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f71df3e-3628-4311-b290-1c651fa59528-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/27a591a2-a172-464a-ae80-48b91297050a-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42695846684,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "There are 195 countries !insta ",
+    "stream_viewer_count": 67,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_of_conspiracy-{width}x{height}.jpg"
   }
 ]
