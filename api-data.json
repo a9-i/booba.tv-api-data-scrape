@@ -1,47 +1,5 @@
 [
   {
-    "user_id": 409624608,
-    "user_login": "melina",
-    "user_display_name": "melina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42876474572,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Dalast day in Paris! Next off to Rome!  | birthday month! (17aug) | instagram: melina.goransson",
-    "stream_viewer_count": 5018,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 419795496,
-    "user_login": "sooflower",
-    "user_display_name": "수련수련",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
-    "stream_id": 43170013341,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "페이트 얼터 코스프레",
-    "stream_viewer_count": 3484,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 195326003,
-    "user_login": "meowko",
-    "user_display_name": "Meowko",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42876848732,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[JP/EN] Tokyo, Japan! let's keep eachother's company🧡 日本帰国ホテル隔離中 !69g !Sub",
-    "stream_viewer_count": 2094,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
-  },
-  {
     "user_id": 625405963,
     "user_login": "elena_fn",
     "user_display_name": "elena_fn",
@@ -52,7 +10,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR ❤️EARLICKING ❤️ 4K| !sub !youtube !prime",
-    "stream_viewer_count": 1864,
+    "stream_viewer_count": 1732,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
   },
   {
@@ -66,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💦Licking Your Ears (NO talking)💦 | 🔥NEW Ear Licking ASMR -> !vid🔥",
-    "stream_viewer_count": 1203,
+    "stream_viewer_count": 1590,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jadethejaguar-{width}x{height}.jpg"
   },
   {
@@ -80,8 +38,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "👅ASMR EAR LICK💋 its noms time! !socials !ig",
-    "stream_viewer_count": 1141,
+    "stream_viewer_count": 1372,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaasmr-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 195326003,
+    "user_login": "meowko",
+    "user_display_name": "Meowko",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 43172869453,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[JP/EN] Tokyo, Japan! let's keep eachother's company🧡 日本帰国ホテル隔離中 !69g !Sub",
+    "stream_viewer_count": 1231,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
   },
   {
     "user_id": 469348555,
@@ -94,7 +66,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Ear licking🔥 !socials",
-    "stream_viewer_count": 733,
+    "stream_viewer_count": 1199,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
   },
   {
@@ -108,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": " dance party[rerun] [ENG only]",
-    "stream_viewer_count": 580,
+    "stream_viewer_count": 495,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lina_asmr-{width}x{height}.jpg"
   },
   {
@@ -122,50 +94,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "바니걸제로투 코스프레 ♥ bunny zerotwo ",
-    "stream_viewer_count": 563,
+    "stream_viewer_count": 493,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
   },
   {
-    "user_id": 403058230,
-    "user_login": "sandra_owl",
-    "user_display_name": "Sandra_Owl",
+    "user_id": 704902949,
+    "user_login": "vivienmidiga",
+    "user_display_name": "vivienmidiga",
     "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/56061104-84df-4f7a-8530-b240ba4161f7-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20e8baa8-e8fc-42fb-bd16-2002700215b5-channel_offline_image-1920x1080.png",
-    "stream_id": 39778527787,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Сандра и 2D на стримфесте😂",
-    "stream_viewer_count": 551,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandra_owl-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 237238176,
-    "user_login": "seolyihyeon",
-    "user_display_name": "설이현",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30592033-c8fa-4620-86f5-cf7b0457e6fd-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7db72ec2-eedc-4902-b167-f09fe5bd190c-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43171022573,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "😈 캠요일",
-    "stream_viewer_count": 288,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 635001460,
-    "user_login": "littleaznchat",
-    "user_display_name": "LittleAznChat",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/26220bea-ed00-44fb-ad46-5d6a1622a43f-profile_image-300x300.png",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0393b9fb-b38f-4ab9-a1e3-16eee49710c9-profile_image-300x300.png",
     "user_offline_image_url": "",
-    "stream_id": 39778666107,
+    "stream_id": 42878369084,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "Good day everyone! Welcome to my Stream! !vivi !ig",
+    "stream_viewer_count": 352,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vivienmidiga-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 628967771,
+    "user_login": "chickenwingcandy",
+    "user_display_name": "ChickenWingCandy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42878395404,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "USE ME: FN CREATOR CODE| FORTNITE WITH MY FAVES !CC | 👅🍑💦💕😉DOUBLE CHEEKS UP..BECAUSE YOU MAKE ME SMILE SO MUCH😉💕👅🍑💦",
-    "stream_viewer_count": 275,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
+    "stream_title": "Weekend Vibes! <3 !size !join !referralCode !discord",
+    "stream_viewer_count": 333,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
     "user_id": 103397701,
@@ -178,8 +136,50 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[ENG/RU]  TALK and D ) Scary alerts",
-    "stream_viewer_count": 262,
+    "stream_viewer_count": 293,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 237238176,
+    "user_login": "seolyihyeon",
+    "user_display_name": "설이현",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/30592033-c8fa-4620-86f5-cf7b0457e6fd-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7db72ec2-eedc-4902-b167-f09fe5bd190c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 43171022573,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "😈 캠요일",
+    "stream_viewer_count": 232,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 635001460,
+    "user_login": "littleaznchat",
+    "user_display_name": "LittleAznChat",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/26220bea-ed00-44fb-ad46-5d6a1622a43f-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39778666107,
+    "stream_game_id": "33214",
+    "stream_game_name": "Fortnite",
+    "stream_title": "👅🍑ARIANNA CONCERT PART DOS 💦💕😉 USE ME: FN CREATOR CODE| FORTNITE WITH MY FAVES !CC | ",
+    "stream_viewer_count": 218,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 257140862,
+    "user_login": "karna",
+    "user_display_name": "Karna",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1dabff7-f85f-4599-a1b7-b662f243ced4-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7f3d4eb-27a3-490a-a317-3c7fc869001c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39778931275,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🍺👑 Cheers and bend the knee!! 👑🍺!POBOX ",
+    "stream_viewer_count": 117,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
   },
   {
     "user_id": 478846434,
@@ -192,21 +192,7 @@
     "stream_game_id": "30921",
     "stream_game_name": "Rocket League",
     "stream_title": "Gaming and Chill!socials !discord",
-    "stream_viewer_count": 103,
+    "stream_viewer_count": 111,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_of_conspiracy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 225450441,
-    "user_login": "tomatchka",
-    "user_display_name": "tomatchka",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c95d0208-7fd2-470c-a90f-cd0d591b064b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1472a082-70f8-4cc0-853e-25ef85956ba6-channel_offline_image-1920x1080.png",
-    "stream_id": 42877878748,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "МУЗИК /а я пришла и без межножья \n",
-    "stream_viewer_count": 75,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tomatchka-{width}x{height}.jpg"
   }
 ]
