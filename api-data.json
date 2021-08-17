@@ -10,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "주사천사 리리",
-    "stream_viewer_count": 2607,
+    "stream_viewer_count": 3431,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
@@ -24,8 +24,22 @@
     "stream_game_id": "511224",
     "stream_game_name": "Apex Legends",
     "stream_title": "NEW SENS + 57 NEW EMOTES | !rank !s !socials",
-    "stream_viewer_count": 1593,
+    "stream_viewer_count": 1596,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 405208912,
+    "user_login": "gonsabellla",
+    "user_display_name": "gonsabellla",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9194d5c2-aa2d-4be0-a6d7-6ff86b6ad52f-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/349e638b-9dba-4a43-b51f-064e66683709-channel_offline_image-1920x1080.png",
+    "stream_id": 42977768508,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "CHARLETA, REACCIONAMOS Y JUGAMOS ",
+    "stream_viewer_count": 940,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
   },
   {
     "user_id": 112907244,
@@ -38,36 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[ENG]DANCE TIME AND YOGA❤ !sub !ig !socials !links",
-    "stream_viewer_count": 559,
+    "stream_viewer_count": 639,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 195326003,
-    "user_login": "meowko",
-    "user_display_name": "Meowko",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43308088717,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[JP/EN] Heading home after clearing out the sushi restaurant. !Sub",
-    "stream_viewer_count": 494,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 625450498,
-    "user_login": "fitonastya",
-    "user_display_name": "FitoNastya",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f62aa677-c5fa-443a-83ec-50fc8b33c2b2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/caabd5b7-312c-4880-9279-5a839cf5d9de-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43306887421,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "[ENG-RUS] 💦 SPECIAL Roulette 🥵 Sea Stream 🏖 🔥 !social 💜",
-    "stream_viewer_count": 339,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
   },
   {
     "user_id": 130447422,
@@ -80,7 +66,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "ENG+RU nabokov's lolita ambience, cosplay",
-    "stream_viewer_count": 93,
+    "stream_viewer_count": 144,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alice_marrs-{width}x{height}.jpg"
   },
   {
@@ -94,7 +80,7 @@
     "stream_game_id": "513949",
     "stream_game_name": "Little Nightmares II",
     "stream_title": "TE EXTRAÑ0  | !priv !wishlist !ALERTAS !ZING [ESP/ENG]",
-    "stream_viewer_count": 34,
+    "stream_viewer_count": 35,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
   },
   {
@@ -108,7 +94,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "Nighty Night:) [!links !discord !donate !wishlist]",
-    "stream_viewer_count": 14,
+    "stream_viewer_count": 24,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_so_icy-{width}x{height}.jpg"
   }
 ]
