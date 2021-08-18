@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 188614162,
-    "user_login": "gloriamatvien",
-    "user_display_name": "GloriaMatvien",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c279a788-3a8d-4d63-8c40-f6cef264e322-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d3c029d-8104-4797-aa7b-fe19137b75f4-channel_offline_image-1920x1080.png",
-    "stream_id": 42987653436,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💃im back💃💗hii everyone💗!ig !dance !roulette💗",
-    "stream_viewer_count": 2528,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
-  },
-  {
     "user_id": 409624608,
     "user_login": "melina",
     "user_display_name": "melina",
@@ -24,36 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "I'm 23! in Amsterdam | instagram: melina.goransson",
-    "stream_viewer_count": 1810,
+    "stream_viewer_count": 2935,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
   },
   {
-    "user_id": 160538649,
-    "user_login": "faith",
-    "user_display_name": "Faith",
+    "user_id": 188614162,
+    "user_login": "gloriamatvien",
+    "user_display_name": "GloriaMatvien",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/531d7c1b-471d-4d1e-89e2-a72372cf8deb-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
-    "stream_id": 42986706188,
-    "stream_game_id": "511224",
-    "stream_game_name": "Apex Legends",
-    "stream_title": "NEW SENS + 57 NEW EMOTES | !rank !s !socials",
-    "stream_viewer_count": 1493,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 195326003,
-    "user_login": "meowko",
-    "user_display_name": "Meowko",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43321365533,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c279a788-3a8d-4d63-8c40-f6cef264e322-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d3c029d-8104-4797-aa7b-fe19137b75f4-channel_offline_image-1920x1080.png",
+    "stream_id": 42987653436,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "[JP/EN] Japanese Onsen (Hot Spring) 🧡 温泉まったり !Sub",
-    "stream_viewer_count": 926,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
+    "stream_title": "💃im back💃💗hii everyone💗!ig !dance !roulette💗",
+    "stream_viewer_count": 2430,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
     "user_id": 469348555,
@@ -66,8 +38,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "BODYPAINT WITH CHAT✨!socials",
-    "stream_viewer_count": 832,
+    "stream_viewer_count": 1653,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 195326003,
+    "user_login": "meowko",
+    "user_display_name": "Meowko",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 43322345949,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[JP/EN] Japanese Onsen (Hot Spring) 🧡 温泉まったり !Sub",
+    "stream_viewer_count": 934,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
   },
   {
     "user_id": 112907244,
@@ -80,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[ENG] ENGLISH AND DANCE TIME ❤ !sub !ig !socials !links",
-    "stream_viewer_count": 293,
+    "stream_viewer_count": 528,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
@@ -94,22 +80,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🦄 HI💗MOD APPS OPEN !apply !links !snap !tiktok 💗🌈",
-    "stream_viewer_count": 214,
+    "stream_viewer_count": 256,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowbuffy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 96940137,
-    "user_login": "mizzy",
-    "user_display_name": "Mizzy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc221714-68e9-4904-8c12-528bbeb5e03e-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39836306091,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Hi amazing peeps, chill stream  ||  !Socials !Sub !Donate",
-    "stream_viewer_count": 128,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizzy-{width}x{height}.jpg"
   },
   {
     "user_id": 561244043,
@@ -122,8 +94,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "Your 40 yrs Old Girl Time for Just Dance!",
-    "stream_viewer_count": 109,
+    "stream_viewer_count": 207,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ladi_gabster-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 96940137,
+    "user_login": "mizzy",
+    "user_display_name": "Mizzy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc221714-68e9-4904-8c12-528bbeb5e03e-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39836306091,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Hi amazing peeps, chill stream  ||  !Socials !Sub !Donate",
+    "stream_viewer_count": 179,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizzy-{width}x{height}.jpg"
   },
   {
     "user_id": 130447422,
@@ -136,7 +122,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "ENG+RU streaming all day 1 sub = 5 min more оч длинный стрим",
-    "stream_viewer_count": 105,
+    "stream_viewer_count": 91,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alice_marrs-{width}x{height}.jpg"
   },
   {
@@ -150,8 +136,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "AFGHANISTAN with special Guests Afghan People Movement l!socials !discord",
-    "stream_viewer_count": 72,
+    "stream_viewer_count": 79,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_of_conspiracy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 488422566,
+    "user_login": "twictoriches",
+    "user_display_name": "twictoriches",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d18703b9-2251-4e64-8fa3-3df12d2f47d9-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/575bfbfd-65e2-4aaf-8d81-612133c39e03-channel_offline_image-1920x1080.png",
+    "stream_id": 42989092428,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[en/ru] cooking !boosty !onlyfans",
+    "stream_viewer_count": 63,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_twictoriches-{width}x{height}.jpg"
   },
   {
     "user_id": 237238176,
@@ -163,8 +163,8 @@
     "stream_id": 43321851965,
     "stream_game_id": "490100",
     "stream_game_name": "LOST ARK",
-    "stream_title": "😈레이드 모집:아르고스,발탄 갑니다",
-    "stream_viewer_count": 39,
+    "stream_title": "😈아르고스 가실분 찾는중",
+    "stream_viewer_count": 54,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
   },
   {
@@ -178,7 +178,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "Cat Nap time 😻 [!links !discord !donate !wishlist]",
-    "stream_viewer_count": 6,
+    "stream_viewer_count": 13,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_so_icy-{width}x{height}.jpg"
   }
 ]
