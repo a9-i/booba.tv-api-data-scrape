@@ -7,53 +7,11 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
     "stream_id": 43388236429,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "백야극광 엘시 코스프레",
-    "stream_viewer_count": 4046,
+    "stream_game_id": "512864",
+    "stream_game_name": "Eternal Return",
+    "stream_title": "블서 방송보고 귀여운 비둘기 임티 받으세요",
+    "stream_viewer_count": 3297,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 469348555,
-    "user_login": "taylor_jevaux",
-    "user_display_name": "Taylor_Jevaux",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a571012-8dc4-41c2-a850-244a33e3b900-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 43390049613,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "IRL CAT WOMAN WORKOUT 🔥 !socials",
-    "stream_viewer_count": 2134,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 195326003,
-    "user_login": "meowko",
-    "user_display_name": "Meowko",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43388319453,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[JP/EN] to Tokyo Packing 🧡  !sub",
-    "stream_viewer_count": 1834,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 492854165,
-    "user_login": "kaellyn",
-    "user_display_name": "Kaellyn",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dbfb901-c8e5-45a4-87e7-fa4784bd18c4-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f8001b3-4c31-434e-8cf0-15667c657426-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39864114075,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Happy Monday🥰 !IG !PATREON !KAECOIN !DISCORD ",
-    "stream_viewer_count": 1791,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaellyn-{width}x{height}.jpg"
   },
   {
     "user_id": 551906487,
@@ -66,8 +24,50 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "👅ASMR EAR LICK💋 Earlick & kisses for you !socials !ig",
-    "stream_viewer_count": 1427,
+    "stream_viewer_count": 1885,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaasmr-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 492854165,
+    "user_login": "kaellyn",
+    "user_display_name": "Kaellyn",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dbfb901-c8e5-45a4-87e7-fa4784bd18c4-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f8001b3-4c31-434e-8cf0-15667c657426-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39864114075,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Happy Monday🥰 !IG !PATREON !KAECOIN !DISCORD ",
+    "stream_viewer_count": 1714,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaellyn-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 195326003,
+    "user_login": "meowko",
+    "user_display_name": "Meowko",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 43388319453,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[JP/EN] to Tokyo Packing 🧡  !sub",
+    "stream_viewer_count": 1568,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 469348555,
+    "user_login": "taylor_jevaux",
+    "user_display_name": "Taylor_Jevaux",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a571012-8dc4-41c2-a850-244a33e3b900-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 43390456669,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "IRL CAT WOMAN WORKOUT 🔥 !socials",
+    "stream_viewer_count": 1481,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
   },
   {
     "user_id": 405208912,
@@ -80,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "CHARLAMOS Y VALORANT ROAD TO PLATA",
-    "stream_viewer_count": 1150,
+    "stream_viewer_count": 1181,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
   },
   {
@@ -90,11 +90,11 @@
     "user_broadcaster_type": "partner",
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b7756a1-dad0-47f6-b51f-ee22fedb8347-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7ea614a-c986-44b9-a0d5-5ae53a556d4d-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43039711788,
+    "stream_id": 43041345500,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "Super Dance [RERUN] [ENG only]",
-    "stream_viewer_count": 737,
+    "stream_title": "Super Dance [LIVE] [ENG only]",
+    "stream_viewer_count": 901,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lina_asmr-{width}x{height}.jpg"
   },
   {
@@ -108,22 +108,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "DEPOP SELLING - TRY ON HAUL !socials",
-    "stream_viewer_count": 635,
+    "stream_viewer_count": 885,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milliemiless-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 268488937,
-    "user_login": "lucyl3in",
-    "user_display_name": "LucyL3in",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/be10eb8a-d4dd-4ec4-a53f-84088bb61ae8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9991cabe-5687-43f6-9461-dead4ff23d52-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43390190925,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "POKEDAY in giro per Milano",
-    "stream_viewer_count": 357,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucyl3in-{width}x{height}.jpg"
   },
   {
     "user_id": 250502765,
@@ -136,7 +122,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦🍑Tubbing with Mistress, Subs get !snap 💦🍑",
-    "stream_viewer_count": 341,
+    "stream_viewer_count": 442,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   },
   {
@@ -150,22 +136,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "☀️Tanning ☀️ before IKEA assembly!  !socials !pobox",
-    "stream_viewer_count": 236,
+    "stream_viewer_count": 283,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 96940137,
-    "user_login": "mizzy",
-    "user_display_name": "Mizzy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc221714-68e9-4904-8c12-528bbeb5e03e-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39864089883,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Good morning! chill stream ||  !Socials !Sub !Donate",
-    "stream_viewer_count": 202,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizzy-{width}x{height}.jpg"
   },
   {
     "user_id": 561244043,
@@ -178,8 +150,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "Your 40 yrs Old Girl Time for Just Dance! Queen of Dance at Home",
-    "stream_viewer_count": 162,
+    "stream_viewer_count": 216,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ladi_gabster-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 96940137,
+    "user_login": "mizzy",
+    "user_display_name": "Mizzy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc221714-68e9-4904-8c12-528bbeb5e03e-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39864089883,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Good morning! chill stream ||  !Socials !Sub !Donate",
+    "stream_viewer_count": 200,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizzy-{width}x{height}.jpg"
   },
   {
     "user_id": 237238176,
@@ -192,7 +178,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💜【just chatting】머리가 어질어질 빙글빙글!",
-    "stream_viewer_count": 72,
+    "stream_viewer_count": 82,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
   },
   {
@@ -206,7 +192,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "ENG+RU pleasant chat, dance, sport приветик, котик",
-    "stream_viewer_count": 62,
+    "stream_viewer_count": 82,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alice_marrs-{width}x{height}.jpg"
   },
   {
@@ -220,7 +206,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Making Contact with ET // SummerSlam 2021 RECAP !socials !discord",
-    "stream_viewer_count": 59,
+    "stream_viewer_count": 66,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_of_conspiracy-{width}x{height}.jpg"
   },
   {
@@ -230,11 +216,11 @@
     "user_broadcaster_type": "affiliate",
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ab9b904-4e95-4c62-88b0-6545c1170c16-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a49b14d2-93ea-4ce1-9ed1-59caa6c74bb4-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43389714797,
+    "stream_id": 43390535645,
     "stream_game_id": "512710",
     "stream_game_name": "Call of Duty: Warzone",
     "stream_title": "I'M BACK!! let's play Call Of Duty day second!!",
-    "stream_viewer_count": 7,
+    "stream_viewer_count": 4,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leealiciaplays-{width}x{height}.jpg"
   }
 ]
