@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 457124238,
-    "user_login": "adrianachechik_",
-    "user_display_name": "AdrianaChechik_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
-    "stream_id": 39868004491,
-    "stream_game_id": "1585949885",
-    "stream_game_name": "Aliens: Fireteam Elite",
-    "stream_title": "NEW GAME!! ALIENS: Fireteam Elite w/ @Christiestevens_",
-    "stream_viewer_count": 2905,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
-  },
-  {
     "user_id": 419795496,
     "user_login": "sooflower",
     "user_display_name": "수련수련",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "오늘은 청순련이에요",
-    "stream_viewer_count": 2759,
+    "stream_viewer_count": 2829,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 457124238,
+    "user_login": "adrianachechik_",
+    "user_display_name": "AdrianaChechik_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
+    "stream_id": 39868004491,
+    "stream_game_id": "1585949885",
+    "stream_game_name": "Aliens: Fireteam Elite",
+    "stream_title": "NEW GAME!! ALIENS: Fireteam Elite w/ @Christiestevens_",
+    "stream_viewer_count": 2826,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
   },
   {
     "user_id": 188614162,
@@ -38,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💗 Hey everyone 💗 have a nice day 💗 !ig !dance !roulette 💗",
-    "stream_viewer_count": 1587,
+    "stream_viewer_count": 1536,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
@@ -51,8 +51,8 @@
     "stream_id": 43049163484,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "STRETCHING HOT SOCKS !s [ENG]",
-    "stream_viewer_count": 1211,
+    "stream_title": "DANCE !s [ENG]",
+    "stream_viewer_count": 1422,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
   },
   {
@@ -66,36 +66,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "BOOTY WORKOUT AND JUST CHATTING",
-    "stream_viewer_count": 370,
+    "stream_viewer_count": 362,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 155874595,
-    "user_login": "elisabetetv",
-    "user_display_name": "ElisabeteTV",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39865797659,
-    "stream_game_id": "498592",
-    "stream_game_name": "I'm Only Sleeping",
-    "stream_title": "SLEEPY TIME! TEXT TO SPEECH ON [MIN $1/100 BITS] (30 DAY STREAM) ❤️ !S !PRIME",
-    "stream_viewer_count": 256,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 103397701,
-    "user_login": "varvaria",
-    "user_display_name": "Varvaria",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43049520460,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG/RU]  TALK and D ) Scary alerts",
-    "stream_viewer_count": 175,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
     "user_id": 112907244,
@@ -108,22 +80,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[ENG] DANCE TIME ❤ !sub !ig !socials !links",
-    "stream_viewer_count": 141,
+    "stream_viewer_count": 258,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
-    "user_id": 488422566,
-    "user_login": "twictoriches",
-    "user_display_name": "twictoriches",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d18703b9-2251-4e64-8fa3-3df12d2f47d9-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/575bfbfd-65e2-4aaf-8d81-612133c39e03-channel_offline_image-1920x1080.png",
-    "stream_id": 43049715644,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[en/ru] gym !boosty !onlyfans",
-    "stream_viewer_count": 119,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_twictoriches-{width}x{height}.jpg"
+    "user_id": 155874595,
+    "user_login": "elisabetetv",
+    "user_display_name": "ElisabeteTV",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39865797659,
+    "stream_game_id": "498592",
+    "stream_game_name": "I'm Only Sleeping",
+    "stream_title": "SLEEPY TIME! TEXT TO SPEECH ON [MIN $1/100 BITS] (30 DAY STREAM) ❤️ !S !PRIME",
+    "stream_viewer_count": 210,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
   },
   {
     "user_id": 468738684,
@@ -133,10 +105,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c583cf1b-f70d-4183-a818-481aaec294eb-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39ef7288-9af4-4ede-9c2b-8c0b8ae7d2e3-channel_offline_image-1920x1080.png",
     "stream_id": 43049938204,
-    "stream_game_id": "516575",
-    "stream_game_name": "VALORANT",
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
     "stream_title": "❤️+18 NOCHE DE BAILE ❤️| !priv !wishlist !ALERTAS !ZING [ESP/ENG]",
-    "stream_viewer_count": 32,
+    "stream_viewer_count": 30,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
   },
   {
@@ -150,7 +122,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "type !sounds to try to wake me up",
-    "stream_viewer_count": 10,
+    "stream_viewer_count": 9,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
   }
 ]
