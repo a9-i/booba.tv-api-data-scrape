@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 419795496,
-    "user_login": "sooflower",
-    "user_display_name": "수련수련",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
-    "stream_id": 43701423229,
-    "stream_game_id": "66082",
-    "stream_game_name": "Games + Demos",
-    "stream_title": "(광고)신작 모바일겜 미니어스 유키 코스프레",
-    "stream_viewer_count": 1757,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
-  },
-  {
     "user_id": 188614162,
     "user_login": "gloriamatvien",
     "user_display_name": "GloriaMatvien",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💗 Spreading good vibes + Dancing 💗 Come say hi 💗 !ig !dance !roulette 💗",
-    "stream_viewer_count": 1543,
+    "stream_viewer_count": 1688,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 419795496,
+    "user_login": "sooflower",
+    "user_display_name": "수련수련",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
+    "stream_id": 43701423229,
+    "stream_game_id": "66082",
+    "stream_game_name": "Games + Demos",
+    "stream_title": "(광고)신작 모바일겜 미니어스 유키 코스프레",
+    "stream_viewer_count": 1289,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
     "user_id": 611121748,
@@ -38,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[VANQUEST HOUSE DAY3] ma ieri sera ?! Oh Dio ",
-    "stream_viewer_count": 411,
+    "stream_viewer_count": 441,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mady_gio-{width}x{height}.jpg"
   },
   {
@@ -52,50 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "BOOTY WORKOUT AND JUST CHATTING",
-    "stream_viewer_count": 268,
+    "stream_viewer_count": 237,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 103397701,
-    "user_login": "varvaria",
-    "user_display_name": "Varvaria",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43266938060,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG/RU] SUBtember dance and talk",
-    "stream_viewer_count": 219,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 493076910,
-    "user_login": "ethotti",
-    "user_display_name": "Ethotti",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2f609dda-81ee-4d5e-bbf3-46f8fc02e629-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5bef2be-c56d-43b2-94fb-7eec39080bf6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43701252941,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Come chat 💕💕 ",
-    "stream_viewer_count": 216,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ethotti-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 644335813,
-    "user_login": "claudiamxdrid",
-    "user_display_name": "claudiamxdrid",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/783205e5-a696-49cb-8857-576f0b9467ae-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 43267511116,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "BUENOS DIAS ESP/ENG ☺️ 300BITS/SUB= SUPER ZING🔥😜 2 NUEVOS EMOTES💖🤗 +18",
-    "stream_viewer_count": 186,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_claudiamxdrid-{width}x{height}.jpg"
   },
   {
     "user_id": 250502765,
@@ -108,7 +66,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦🍑THIS IS A RERUN with Mistress, Subs get !snap 💦🍑",
-    "stream_viewer_count": 79,
+    "stream_viewer_count": 89,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   },
   {
@@ -119,10 +77,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d6003d2-a201-45a0-b105-a84caf9a518f-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0e83b4d-6ee2-48b1-8a60-c39b9f9e8a86-channel_offline_image-1920x1080.png",
     "stream_id": 39968155707,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
+    "stream_game_id": "491487",
+    "stream_game_name": "Dead by Daylight",
     "stream_title": "on demon time [heart rate monitor] !socials !treat !disc *subs get snap*",
-    "stream_viewer_count": 62,
+    "stream_viewer_count": 64,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paris_rain-{width}x{height}.jpg"
   }
 ]
