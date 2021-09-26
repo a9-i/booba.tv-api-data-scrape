@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 155874595,
-    "user_login": "elisabetetv",
-    "user_display_name": "ElisabeteTV",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40016454571,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "ASMR ❤️ 20% OFF SUBS FOR !SUBTEMBER ❤️ !PRIME !S ",
-    "stream_viewer_count": 1941,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
-  },
-  {
     "user_id": 197406569,
     "user_login": "thenicolet",
     "user_display_name": "TheNicoleT",
@@ -21,10 +7,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a00b3506-870a-4e16-a739-9a2bfd2960c2-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1802330-bc9f-43b4-8ce4-1c37d170236b-channel_offline_image-1920x1080.png",
     "stream_id": 40016424507,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
     "stream_title": "ALL NATURAL !!   - Tier 2/3 subs get SNAP !ytasmr !socials",
-    "stream_viewer_count": 1695,
+    "stream_viewer_count": 2563,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": " 20% OFF NEW subs - NAME on BODY💖SUBtember💖 !s [ENG]",
-    "stream_viewer_count": 1359,
+    "stream_viewer_count": 1176,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤come chat with me. asmr later !❤YOGA !socials ",
-    "stream_viewer_count": 965,
+    "stream_viewer_count": 1161,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azra-{width}x{height}.jpg"
   },
   {
@@ -66,8 +52,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Alt Bulma Bunny ~ !social ~ !snap ~ !playlist ~ !merch ~ **WARNING** Flashing Lights!!",
-    "stream_viewer_count": 340,
+    "stream_viewer_count": 343,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_denver_maxx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 112907244,
+    "user_login": "anastasia_lexmur",
+    "user_display_name": "Anastasia_Lexmur",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 43367891340,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[ENG] YOGATIME ❤ 3 days before mybirthday  ❤ !sub !ig !socials !links",
+    "stream_viewer_count": 306,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -80,7 +80,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "TUB TIPSY SUBATHON !subathon❤️ !socials",
-    "stream_viewer_count": 311,
+    "stream_viewer_count": 305,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
   },
   {
@@ -94,36 +94,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "NEW STREAM ROOM REVEAL ♡POSITIVE VIBES♡",
-    "stream_viewer_count": 307,
+    "stream_viewer_count": 289,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theoneandonlydragon-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 112907244,
-    "user_login": "anastasia_lexmur",
-    "user_display_name": "Anastasia_Lexmur",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 43367891340,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG] YOGATIME ❤ 3 days before mybirthday  ❤ !sub !ig !socials !links",
-    "stream_viewer_count": 294,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 103397701,
-    "user_login": "varvaria",
-    "user_display_name": "Varvaria",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43367924140,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG/RU]  dance and talk",
-    "stream_viewer_count": 192,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
     "user_id": 148114007,
@@ -136,22 +108,36 @@
     "stream_game_id": "",
     "stream_game_name": "",
     "stream_title": "Subathon Time (24hr Stream?) !social !bamblue",
-    "stream_viewer_count": 147,
+    "stream_viewer_count": 169,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
-    "user_id": 66438932,
-    "user_login": "moxymary",
-    "user_display_name": "MoxyMary",
+    "user_id": 103397701,
+    "user_login": "varvaria",
+    "user_display_name": "Varvaria",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cee497cf-fffb-482e-8ec1-a4bfdf438210-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ad4d069-e2aa-42e5-b105-e13830e27d72-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40016016507,
-    "stream_game_id": "836519689",
-    "stream_game_name": "DEVOUR",
-    "stream_title": "💖 !links 💖 ",
-    "stream_viewer_count": 99,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_moxymary-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 43367924140,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[ENG/RU]  dance and talk",
+    "stream_viewer_count": 128,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 516723233,
+    "user_login": "voodoobaee",
+    "user_display_name": "voodoobaee",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15e1ae11-ea53-48bf-9422-df7eb264be61-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 43843633117,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "LOST AND FOUND FOR ZADDIES ONLY chat come in ♡ follow my other medias for surprises ♡  !socials",
+    "stream_viewer_count": 73,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_voodoobaee-{width}x{height}.jpg"
   },
   {
     "user_id": 466621819,
@@ -164,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "daddy's home !socials !tip !treat !disc *subs get snap*",
-    "stream_viewer_count": 92,
+    "stream_viewer_count": 71,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paris_rain-{width}x{height}.jpg"
   },
   {
@@ -178,22 +164,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[18+] BEWB ROSS s02e15 !socials cosplay BOOBA",
-    "stream_viewer_count": 85,
+    "stream_viewer_count": 68,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_its_tiffy_baby-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 516723233,
-    "user_login": "voodoobaee",
-    "user_display_name": "voodoobaee",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/15e1ae11-ea53-48bf-9422-df7eb264be61-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 43843633117,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "LOST AND FOUND FOR ZADDIES ONLY chat come in ♡ follow my other medias for surprises ♡  !socials",
-    "stream_viewer_count": 45,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_voodoobaee-{width}x{height}.jpg"
   },
   {
     "user_id": 472921491,
@@ -206,7 +178,7 @@
     "stream_game_id": "32982",
     "stream_game_name": "Grand Theft Auto V",
     "stream_title": "❤JAMAICA'S FINEST❤ !SOCIALS",
-    "stream_viewer_count": 40,
+    "stream_viewer_count": 51,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chanice_bonner-{width}x{height}.jpg"
   },
   {
@@ -220,7 +192,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "late night derbs 💨 - !subtember !links !reddit !twitter !insta",
-    "stream_viewer_count": 38,
+    "stream_viewer_count": 49,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
   },
   {
@@ -234,7 +206,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "✨ Try to wake up using !sounds ✨🔥",
-    "stream_viewer_count": 12,
+    "stream_viewer_count": 17,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
   }
 ]
