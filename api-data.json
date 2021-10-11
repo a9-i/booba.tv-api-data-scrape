@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 198860406,
-    "user_login": "berry0314",
-    "user_display_name": "빛베리",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82f74570-ff4e-4f34-917b-76e0dc62bf16-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93eaacff-68c2-4922-be13-c2ab08ae1bde-channel_offline_image-1920x1080.png",
-    "stream_id": 44033067261,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🍓home irl with yuggie !guest",
-    "stream_viewer_count": 2039,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_berry0314-{width}x{height}.jpg"
-  },
-  {
     "user_id": 551906487,
     "user_login": "whitespaasmr",
     "user_display_name": "WhiteSpaASMR",
@@ -24,7 +10,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💖ASMR No monday blues!!✨ !socials !ig",
-    "stream_viewer_count": 2022,
+    "stream_viewer_count": 2175,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaasmr-{width}x{height}.jpg"
   },
   {
@@ -37,9 +23,23 @@
     "stream_id": 44033189197,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "흑청을 입은 련아가",
-    "stream_viewer_count": 1670,
+    "stream_title": "걸그룹 1선발 노래정하기",
+    "stream_viewer_count": 1723,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 469348555,
+    "user_login": "taylor_jevaux",
+    "user_display_name": "Taylor_Jevaux",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a571012-8dc4-41c2-a850-244a33e3b900-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 44033878861,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "Hi Im new🔥 !socials",
+    "stream_viewer_count": 1148,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
   },
   {
     "user_id": 405208912,
@@ -52,22 +52,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "¿AMOURANTH BANIADA? /LUNES DE SOVA SAILENS ",
-    "stream_viewer_count": 686,
+    "stream_viewer_count": 1020,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
   },
   {
-    "user_id": 644505166,
-    "user_login": "jyoffe143",
-    "user_display_name": "JYoffe143",
+    "user_id": 250502765,
+    "user_login": "mistressmord",
+    "user_display_name": "MistressMord",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/16356ea4-441e-4860-960e-24db95cbf946-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/de666e30-e433-4f59-acf3-ce92294ed572-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40081929451,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Painting with Yoffe and the girls. 🎨 (Snap for subs)",
-    "stream_viewer_count": 319,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jyoffe143-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
+    "stream_id": 40082058939,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "💦🍑I'll be your Cute Anime GF for a pink gaming chair, Subs get !snap💦🍑",
+    "stream_viewer_count": 152,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   },
   {
     "user_id": 466621819,
@@ -80,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "(30+ hrs) !SUBATHON add time for FREE with !wows #ad !subgoals !socials !tip !yt !disc *subs get snap*",
-    "stream_viewer_count": 164,
+    "stream_viewer_count": 143,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paris_rain-{width}x{height}.jpg"
   },
   {
@@ -94,22 +94,8 @@
     "stream_game_id": "518692",
     "stream_game_name": "Far Cry 6",
     "stream_title": "Get Ready With Me |!socials| Tier 3 gets a lot",
-    "stream_viewer_count": 87,
+    "stream_viewer_count": 97,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 250502765,
-    "user_login": "mistressmord",
-    "user_display_name": "MistressMord",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
-    "stream_id": 40082058939,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "💦🍑I'll be your Cute Anime GF for a pink gaming chair, Subs get !snap💦🍑",
-    "stream_viewer_count": 84,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   },
   {
     "user_id": 525495244,
@@ -122,7 +108,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "✨type !sounds to WAKE ME UP!✨",
-    "stream_viewer_count": 24,
+    "stream_viewer_count": 20,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
   }
 ]
