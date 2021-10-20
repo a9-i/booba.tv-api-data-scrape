@@ -14,20 +14,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_spoopykitt-{width}x{height}.jpg"
   },
   {
-    "user_id": 270759648,
-    "user_login": "ju10506",
-    "user_display_name": "총야_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84aedd8c-6dab-4295-ade7-1c2efdbd4da8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c376171-6947-4940-923e-c2057d9f6f92-channel_offline_image-1920x1080.png",
-    "stream_id": 44137951213,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "En/Kr💕99금 ㅗㅜㅑ..젖소 코스프레 일정 💕-!편집자 ",
-    "stream_viewer_count": 1260,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ju10506-{width}x{height}.jpg"
-  },
-  {
     "user_id": 551906487,
     "user_login": "whitespaasmr",
     "user_display_name": "WhiteSpaASMR",
@@ -38,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💖ASMR Personal Attention time!✨ !socials !ig",
-    "stream_viewer_count": 1137,
+    "stream_viewer_count": 1349,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaasmr-{width}x{height}.jpg"
   },
   {
@@ -51,8 +37,8 @@
     "stream_id": 43576593676,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG] JUST DANCE❤DANCE time❤ !sub !ig !socials !links",
-    "stream_viewer_count": 144,
+    "stream_title": "[ENG] JUST CHILLIN ❤COME SAY HI ❤ !sub !ig !socials !links",
+    "stream_viewer_count": 367,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
@@ -66,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "guess what?  DANCE and TALK",
-    "stream_viewer_count": 86,
+    "stream_viewer_count": 110,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
@@ -79,9 +65,23 @@
     "stream_id": 40113009467,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "9th th DAY - (234+/240 hrs) 🎃 !SUBATHON !subgoals !socials !tip !yt !disc ",
-    "stream_viewer_count": 79,
+    "stream_title": "9th th DAY - (240+/250 hrs) 🎃 !SUBATHON !subgoals !socials !tip !yt !disc ",
+    "stream_viewer_count": 74,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paris_rain-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 700260006,
+    "user_login": "vetatori",
+    "user_display_name": "Vetatori",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31be6d20-fd64-4cd4-9773-03a42abf735b-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 43576668044,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Make Up",
+    "stream_viewer_count": 58,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vetatori-{width}x{height}.jpg"
   },
   {
     "user_id": 254938253,
@@ -108,7 +108,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "✨type !sounds to wake me up✨!links !discord",
-    "stream_viewer_count": 13,
+    "stream_viewer_count": 15,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
   }
 ]
