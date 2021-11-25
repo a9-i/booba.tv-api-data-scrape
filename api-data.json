@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 252665155,
-    "user_login": "nnabi",
-    "user_display_name": "연나비님",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec949373-7065-423c-afad-08f9504c8034-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/034e2fe4-c818-4734-a8f1-077bb7e0c0d4-channel_offline_image-1920x1080.png",
-    "stream_id": 44562851021,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❤️ 출소 후 술먹방 drink with maid nabi ❤️",
-    "stream_viewer_count": 1952,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nnabi-{width}x{height}.jpg"
-  },
-  {
     "user_id": 419795496,
     "user_login": "sooflower",
     "user_display_name": "수련수련",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "목요 야련코련 입니다 오하요~",
-    "stream_viewer_count": 1598,
+    "stream_viewer_count": 2112,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 252665155,
+    "user_login": "nnabi",
+    "user_display_name": "연나비님",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec949373-7065-423c-afad-08f9504c8034-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/034e2fe4-c818-4734-a8f1-077bb7e0c0d4-channel_offline_image-1920x1080.png",
+    "stream_id": 44562851021,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❤️ 출소 후 술먹방 drink with maid nabi ❤️",
+    "stream_viewer_count": 1940,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nnabi-{width}x{height}.jpg"
   },
   {
     "user_id": 270759648,
@@ -38,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "En/kr💕99금 미니 크롭티 입을예정💕",
-    "stream_viewer_count": 1135,
+    "stream_viewer_count": 1175,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ju10506-{width}x{height}.jpg"
   },
   {
@@ -52,22 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "DANCE🥵 NEW SUBS - NAME on BODY !confession !s  [ENG]",
-    "stream_viewer_count": 984,
+    "stream_viewer_count": 945,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 265053976,
-    "user_login": "sereda",
-    "user_display_name": "SEREDA",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e3062f4-e272-4a72-95ca-fb2ec419248e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e1692c7-9384-4617-967a-f9ebcd17d40a-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 44562761421,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Why the heck am i awake",
-    "stream_viewer_count": 719,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sereda-{width}x{height}.jpg"
   },
   {
     "user_id": 572687874,
@@ -80,22 +66,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Morning stretch! TTS enabled at 100+",
-    "stream_viewer_count": 575,
+    "stream_viewer_count": 772,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milliemiless-{width}x{height}.jpg"
   },
   {
-    "user_id": 89791124,
-    "user_login": "leah_ayame",
-    "user_display_name": "Leah_Ayame",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 43896882460,
-    "stream_game_id": "21779",
-    "stream_game_name": "League of Legends",
-    "stream_title": "Tipsy League night with whoever feels like getting inted <3 ",
-    "stream_viewer_count": 154,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
+    "user_id": 265053976,
+    "user_login": "sereda",
+    "user_display_name": "SEREDA",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6e3062f4-e272-4a72-95ca-fb2ec419248e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e1692c7-9384-4617-967a-f9ebcd17d40a-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 44562761421,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Why the heck am i awake",
+    "stream_viewer_count": 677,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sereda-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 551906487,
+    "user_login": "whitespaasmr",
+    "user_display_name": "WhiteSpaASMR",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/195c8ecd-6add-4293-8c62-b028d4914e97-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/43d95b92-fba8-469e-a294-351113783343-channel_offline_image-1920x1080.png",
+    "stream_id": 40260019259,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💖ASMR Stay here with me!✨ !socials !ig",
+    "stream_viewer_count": 171,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaasmr-{width}x{height}.jpg"
   },
   {
     "user_id": 464938702,
@@ -108,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "AUS [ENG] Making friends with chat! 18+",
-    "stream_viewer_count": 139,
+    "stream_viewer_count": 169,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hana_bee-{width}x{height}.jpg"
   },
   {
@@ -122,8 +122,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "yoga, just dancing, and cosplay stream !donate !g30 !ig",
-    "stream_viewer_count": 134,
+    "stream_viewer_count": 159,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_princesslv-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 89791124,
+    "user_login": "leah_ayame",
+    "user_display_name": "Leah_Ayame",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 43896882460,
+    "stream_game_id": "21779",
+    "stream_game_name": "League of Legends",
+    "stream_title": "Tipsy League night with whoever feels like getting inted <3 ",
+    "stream_viewer_count": 120,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 253366772,
+    "user_login": "xianleeasmr",
+    "user_display_name": "xianleeasmr",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e3c5431-cba2-4b15-8b0a-22479c8b2e91-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 40259964891,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💦ASMR 🍑Triggers to Satisfy Your Tingles💦 ",
+    "stream_viewer_count": 113,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xianleeasmr-{width}x{height}.jpg"
   },
   {
     "user_id": 103397701,
@@ -150,8 +178,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "early mornin Thanksgiving dabs 💨🍗 !links !reddit !twitter",
-    "stream_viewer_count": 50,
+    "stream_viewer_count": 48,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 112907244,
+    "user_login": "anastasia_lexmur",
+    "user_display_name": "Anastasia_Lexmur",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 43897710716,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[ENG]  DANCE AND RELAX STREAM ❤COME AND SAY HI❤every 100 bits name on my board  !sub !ig !socials !links",
+    "stream_viewer_count": 47,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
     "user_id": 505665738,
@@ -168,20 +210,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karitaluna-{width}x{height}.jpg"
   },
   {
-    "user_id": 253366772,
-    "user_login": "xianleeasmr",
-    "user_display_name": "xianleeasmr",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e3c5431-cba2-4b15-8b0a-22479c8b2e91-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 40259964891,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💦ASMR 🍑Triggers to Satisfy Your Tingles💦 ",
-    "stream_viewer_count": 16,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xianleeasmr-{width}x{height}.jpg"
-  },
-  {
     "user_id": 525495244,
     "user_login": "marinamamede",
     "user_display_name": "MarinaMamede",
@@ -192,7 +220,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "✨type !sounds to wake me up!✨",
-    "stream_viewer_count": 11,
+    "stream_viewer_count": 10,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
   }
 ]
