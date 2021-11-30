@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 159239770,
-    "user_login": "spoopykitt",
-    "user_display_name": "spoopykitt",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80f04a81-b5f9-4668-b23f-0404a7f30a3d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9330b34a-a50d-4bc8-a4e6-8fa2c8f1151e-channel_offline_image-1920x1080.png",
-    "stream_id": 43939557260,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Hoops and Spoops !pa !lc",
-    "stream_viewer_count": 2491,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_spoopykitt-{width}x{height}.jpg"
-  },
-  {
     "user_id": 448545408,
     "user_login": "kjanecaron",
     "user_display_name": "kjanecaron",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "cooking stream with !natasha !socials",
-    "stream_viewer_count": 792,
+    "stream_viewer_count": 865,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kjanecaron-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 152762898,
+    "user_login": "kristinadaniellexo",
+    "user_display_name": "kristinadaniellexo",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b09ee29-cfc1-4aee-bda3-23b6c462dfbe-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 40274897499,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "👅Ear licking LIVE !socials👅\n",
+    "stream_viewer_count": 443,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
   },
   {
     "user_id": 715774157,
@@ -38,7 +38,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "BattleField 2042 !tiktok",
-    "stream_viewer_count": 339,
+    "stream_viewer_count": 407,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mstriggahappy_-{width}x{height}.jpg"
   },
   {
@@ -52,22 +52,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💦ASMR 🍑Ear Cleaning💦 ",
-    "stream_viewer_count": 328,
+    "stream_viewer_count": 347,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xianleeasmr-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 152762898,
-    "user_login": "kristinadaniellexo",
-    "user_display_name": "kristinadaniellexo",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b09ee29-cfc1-4aee-bda3-23b6c462dfbe-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 40274897499,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "👅Ear licking LIVE !socials👅\n",
-    "stream_viewer_count": 264,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
   },
   {
     "user_id": 628967771,
@@ -80,22 +66,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Hey :D  !linktree !discord English only Please",
-    "stream_viewer_count": 193,
+    "stream_viewer_count": 219,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 596486414,
-    "user_login": "itsclaraduh",
-    "user_display_name": "itsclaraduh",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d3a4f01-292d-4104-86b5-d37ea16e9648-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 43940615964,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "I GOT THE MILK U BRING THE COOKIES !ALERTS !SOCIALS !FROGSIGN",
-    "stream_viewer_count": 163,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsclaraduh-{width}x{height}.jpg"
   },
   {
     "user_id": 539685432,
@@ -105,25 +77,11 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a1b1c9-8495-41ba-b699-d71a56a747e4-profile_image-300x300.png",
     "user_offline_image_url": "",
     "stream_id": 43940765868,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
     "stream_title": "🔥 SUBATHON 1 SUB = 5 MINS🔥 💦 !socials !of !wishlist💦",
-    "stream_viewer_count": 154,
+    "stream_viewer_count": 155,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_winndago-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 78985277,
-    "user_login": "alittlekay",
-    "user_display_name": "alittlekay",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce2e435d-c294-4693-8f38-9a8c2c3bb1fa-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71c3954e-c93f-4f72-bd28-45030ea921bf-channel_offline_image-1920x1080.png",
-    "stream_id": 43941435004,
-    "stream_game_id": "459931",
-    "stream_game_name": "Old School RuneScape",
-    "stream_title": "💗 3 year Partner Anniversary💗 SCHOOL GIRL COSPLAY!  !Birthday tomorrow!💗 !socials ",
-    "stream_viewer_count": 154,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alittlekay-{width}x{height}.jpg"
   },
   {
     "user_id": 148114007,
@@ -136,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Body Painting Spider Gwen - !social !prints !CM",
-    "stream_viewer_count": 122,
+    "stream_viewer_count": 149,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
@@ -150,21 +108,49 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Short Chill Stream <3 linktree | discord |socials",
-    "stream_viewer_count": 110,
+    "stream_viewer_count": 134,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cluelo-{width}x{height}.jpg"
   },
   {
-    "user_id": 405938684,
-    "user_login": "ashley_merwin",
-    "user_display_name": "Ashley_Merwin",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d99c01b6-2448-4459-a315-587cabe1683b-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 44615700941,
+    "user_id": 78985277,
+    "user_login": "alittlekay",
+    "user_display_name": "alittlekay",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce2e435d-c294-4693-8f38-9a8c2c3bb1fa-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71c3954e-c93f-4f72-bd28-45030ea921bf-channel_offline_image-1920x1080.png",
+    "stream_id": 43941435004,
+    "stream_game_id": "459931",
+    "stream_game_name": "Old School RuneScape",
+    "stream_title": "💗 Returning back to RS! Hi! 💗 3 year Partner Anniversary💗 !Birthday tomorrow!💗 !socials ",
+    "stream_viewer_count": 124,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alittlekay-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 457124238,
+    "user_login": "adrianachechik_",
+    "user_display_name": "AdrianaChechik_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
+    "stream_id": 44619486461,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "LATEX Model !Socials !Discord ",
+    "stream_title": "Dark Souls!!",
     "stream_viewer_count": 43,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashley_merwin-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 492779169,
+    "user_login": "xoaeriel",
+    "user_display_name": "xoAeriel",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6002903-0a96-44ff-87be-a13c97f1c405-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/562b731f-daf6-493c-a9ec-4f3eaf102bb0-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 40275000603,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💦click bait title💦  !holiday !socials",
+    "stream_viewer_count": 37,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xoaeriel-{width}x{height}.jpg"
   }
 ]
