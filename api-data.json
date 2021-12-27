@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 419795496,
-    "user_login": "sooflower",
-    "user_display_name": "수련수련",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
-    "stream_id": 44925698413,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "황천에서 온 신호등튀김 먹방!달력",
-    "stream_viewer_count": 2455,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
-  },
-  {
     "user_id": 198860406,
     "user_login": "berry0314",
     "user_display_name": "빛베리",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🍓베리 Berry 🍓 cozy cozy cozy ",
-    "stream_viewer_count": 2106,
+    "stream_viewer_count": 2337,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_berry0314-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 419795496,
+    "user_login": "sooflower",
+    "user_display_name": "수련수련",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
+    "stream_id": 44925698413,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "상남자식 방송 !달력",
+    "stream_viewer_count": 2303,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
     "user_id": 469348555,
@@ -38,7 +38,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔥Fast Ear-Licking ASMR!! 🔥 !socials",
-    "stream_viewer_count": 1586,
+    "stream_viewer_count": 1742,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
   },
   {
@@ -52,22 +52,8 @@
     "stream_game_id": "509672",
     "stream_game_name": "Travel & Outdoors",
     "stream_title": "DÍA 2. NOS VAMOS A COMER FRENTE AL MAR // EXTENSIBLE POR LOS 2 AÑOS EN TWITCH <3 <3 // !EXTENSIBLE ",
-    "stream_viewer_count": 1267,
+    "stream_viewer_count": 1561,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 270759648,
-    "user_login": "ju10506",
-    "user_display_name": "총야_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84aedd8c-6dab-4295-ade7-1c2efdbd4da8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c376171-6947-4940-923e-c2057d9f6f92-channel_offline_image-1920x1080.png",
-    "stream_id": 44925219517,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "En/kr💕99금  12월 마지막 월요일 💕",
-    "stream_viewer_count": 989,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ju10506-{width}x{height}.jpg"
   },
   {
     "user_id": 448545408,
@@ -80,22 +66,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "jane is resting her eyes CHRISTMAS SUB-A-THON !socials !wishlist !christmas !quiz ",
-    "stream_viewer_count": 711,
+    "stream_viewer_count": 620,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kjanecaron-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 432777353,
-    "user_login": "fit_chick_amy",
-    "user_display_name": "fit_chick_amy",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/511c7966-3148-4085-a0be-686d9ce7a6df-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 44926498541,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "BEDTIME YOGA",
-    "stream_viewer_count": 573,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
   },
   {
     "user_id": 89791124,
@@ -108,7 +80,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "Come wake up with me and lets get to know each other better ^.*",
-    "stream_viewer_count": 459,
+    "stream_viewer_count": 602,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
   },
   {
@@ -122,22 +94,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔥18+🔥BURNING CHRISTMAS CALORIES🔥 !discord !insta",
-    "stream_viewer_count": 374,
+    "stream_viewer_count": 386,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 250502765,
-    "user_login": "mistressmord",
-    "user_display_name": "MistressMord",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
-    "stream_id": 44189407772,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🍑💦Yoga Ball time| Subs get !snap 🍑💦",
-    "stream_viewer_count": 324,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   },
   {
     "user_id": 237238176,
@@ -150,8 +108,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "12/27 신상 깔깔이 선물받음 :>",
-    "stream_viewer_count": 190,
+    "stream_viewer_count": 211,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 705833382,
+    "user_login": "sugargini",
+    "user_display_name": "SugarGini",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75d83845-018d-446d-a438-6dda4400e250-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/522c4eff-81e0-49db-8601-a720cfd2eb3e-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 44927000509,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "LIVE💕 EYECONTACT PERFECT LICKING! 💦 !socials !ig !tiktok (English Only)",
+    "stream_viewer_count": 205,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sugargini-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -164,7 +136,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "🎄🎅🏻 IS THIS THE END? ❄ 🦌 | UNCAPPED SUBATHON DAY 21 🎁 | TYPE --> !socials",
-    "stream_viewer_count": 130,
+    "stream_viewer_count": 148,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
   },
   {
@@ -178,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Merry Christmas 🎄 WORKOUT & DANCE 🔥 +18 !socials !patreon !INSTAGRAM",
-    "stream_viewer_count": 78,
+    "stream_viewer_count": 84,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
@@ -192,8 +164,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "Bikini Contest",
-    "stream_viewer_count": 27,
+    "stream_viewer_count": 33,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yntmoe-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 478846434,
+    "user_login": "queenspiracy",
+    "user_display_name": "queenspiracy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/63028fd6-e808-4865-b8d9-7e4b05e05798-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/27a591a2-a172-464a-ae80-48b91297050a-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 44927069581,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "What is Freemasonry??  with Cameron",
+    "stream_viewer_count": 24,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sophia-{width}x{height}.jpg"
   },
   {
     "user_id": 505665738,
@@ -206,7 +192,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "NEWS/HAPPY HOLIDAYS/dance/ sing/bits/subs +18\nENGLISH/Spanish\n",
-    "stream_viewer_count": 0,
+    "stream_viewer_count": 10,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karitaluna-{width}x{height}.jpg"
   }
 ]
