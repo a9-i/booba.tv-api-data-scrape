@@ -70,20 +70,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
-    "user_id": 144543711,
-    "user_login": "livelybella",
-    "user_display_name": "LivelyBella",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c398123-8bdf-4e99-9f28-c5a194c9c5aa-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2ef9be5-1f74-422d-998e-cb3d24829a45-channel_offline_image-1920x1080.png",
-    "stream_id": 45009676780,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Back On! Making Muffins",
-    "stream_viewer_count": 465,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livelybella-{width}x{height}.jpg"
-  },
-  {
     "user_id": 625405963,
     "user_login": "elena_fn",
     "user_display_name": "elena_fn",
@@ -266,6 +252,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
   },
   {
+    "user_id": 466621819,
+    "user_login": "paris_rain",
+    "user_display_name": "Paris_Rain",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d6003d2-a201-45a0-b105-a84caf9a518f-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0e83b4d-6ee2-48b1-8a60-c39b9f9e8a86-channel_offline_image-1920x1080.png",
+    "stream_id": 40641248987,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "FERDA - !s !fh !throne",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paris_rain-{width}x{height}.jpg"
+  },
+  {
     "user_id": 125387632,
     "user_login": "amouranth",
     "user_display_name": "Amouranth",
@@ -320,19 +320,5 @@
     "stream_title": "🔥SXY MAID COSPLAY + RATING VIEWERS🔥!wishlist  !socials ",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 161737008,
-    "user_login": "kyootbot",
-    "user_display_name": "kyootbot",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6473e716-66e4-4aea-9690-1b2369cc2a67-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9029db2-3ecf-4ac4-968c-54e6de4cee80-channel_offline_image-1920x1080.png",
-    "stream_id": 45907134765,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "♥ RAPID-FIRE SPEED DATING VIEWERS ♥ | ♥ NOT IMPRESSED = KICK ♥ | ♥ dont be offended LOL ♥ | CHAT WILL RATE YOU! | !join",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyootbot-{width}x{height}.jpg"
   }
 ]
