@@ -112,20 +112,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jadethejaguar-{width}x{height}.jpg"
   },
   {
-    "user_id": 237238176,
-    "user_login": "seolyihyeon",
-    "user_display_name": "설이현",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
-    "stream_id": 45931773085,
-    "stream_game_id": "496902",
-    "stream_game_name": "Slay the Spire",
-    "stream_title": "❄️\n",
-    "stream_viewer_count": 98,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
-  },
-  {
     "user_id": 625450498,
     "user_login": "fitonastya",
     "user_display_name": "FitoNastya",
@@ -138,20 +124,6 @@
     "stream_title": "[ENG-RUS] NoName !social !boosty",
     "stream_viewer_count": 78,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 628967771,
-    "user_login": "chickenwingcandy",
-    "user_display_name": "ChickenWingCandy",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45030059196,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Titles are hard ! <3  !hellofresh !linktree !size !sr",
-    "stream_viewer_count": 67,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
     "user_id": 430642455,
@@ -180,20 +152,6 @@
     "stream_title": "❤️‍🔥 CATGIRL DOING STUFF AND THINGS ❤️‍🔥 !BIRTHDAY THURSDAY!! 💦 !socials !wishlist 💦",
     "stream_viewer_count": 14,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firedancer-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 93517122,
-    "user_login": "crystal",
-    "user_display_name": "Crystal",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd137693-e8af-43df-a0fa-7824f486c6f5-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ad7c628-aea9-403d-b25b-3cf436128478-channel_offline_image-1920x1080.png",
-    "stream_id": 45933299229,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "❤️👅 ASMR TINGLES ❤️👅 !S for all my links !rr !sub !prime",
-    "stream_viewer_count": 13,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crystal-{width}x{height}.jpg"
   },
   {
     "user_id": 711208908,
@@ -264,6 +222,20 @@
     "stream_title": "Double Trouble",
     "stream_viewer_count": 2,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 499133068,
+    "user_login": "shulyyyyyy",
+    "user_display_name": "shulyyyyyy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/14011d14-6f36-4975-a191-5fee17f0728c-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45031279644,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Тупица  !boosty !links !tg !inst",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shulyyyyyy-{width}x{height}.jpg"
   },
   {
     "user_id": 68955370,
