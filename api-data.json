@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 469348555,
-    "user_login": "taylor_jevaux",
-    "user_display_name": "Taylor_Jevaux",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a571012-8dc4-41c2-a850-244a33e3b900-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45931471197,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "🔥 NEW COSPLAY BIKINI TRY ON🔥 !socials ",
-    "stream_viewer_count": 1271,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
-  },
-  {
     "user_id": 455993452,
     "user_login": "sharonqueen",
     "user_display_name": "SharonQueen",
@@ -24,8 +10,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "18+ Your Nurse⚠️🔴👋  !web !tiktok  !newvid ( !youtube !gifters !topDono ) #anime #uwu #cosplay #senpai",
-    "stream_viewer_count": 1084,
+    "stream_viewer_count": 1154,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 195326003,
+    "user_login": "meowko",
+    "user_display_name": "Meowko",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45029455692,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[JP/EN] Preparing Photo Shoot 撮影前日🧡 !Patreon !links",
+    "stream_viewer_count": 1027,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
   },
   {
     "user_id": 152762898,
@@ -38,22 +38,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔴🔥 18+ HOTTEST licks on twitch 💋👅 !socials !yt !rr\n\n",
-    "stream_viewer_count": 634,
+    "stream_viewer_count": 632,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 572687874,
-    "user_login": "milliemiless",
-    "user_display_name": "MillieMiless",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa35c0b2-abfa-412b-85f4-7155aa0c1ab3-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6eb7da8-df96-4026-85c0-0382d75e89df-channel_offline_image-1920x1080.png",
-    "stream_id": 45027834924,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "TRY NOT TO LAUGH - 12 hour stream lets goooo! finishing at 8pm GMT - TTS ENABLED 100+ bitties  ",
-    "stream_viewer_count": 474,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milliemiless-{width}x{height}.jpg"
   },
   {
     "user_id": 625405963,
@@ -66,8 +52,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "E-GIRL EARLICKING ❤️ | !social ❤️ITA/SPA/ENG",
-    "stream_viewer_count": 448,
+    "stream_viewer_count": 501,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 572687874,
+    "user_login": "milliemiless",
+    "user_display_name": "MillieMiless",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa35c0b2-abfa-412b-85f4-7155aa0c1ab3-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6eb7da8-df96-4026-85c0-0382d75e89df-channel_offline_image-1920x1080.png",
+    "stream_id": 45027834924,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "TRY NOT TO LAUGH - 12 hour stream lets goooo! finishing at 8pm GMT - TTS ENABLED 100+ bitties  ",
+    "stream_viewer_count": 483,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milliemiless-{width}x{height}.jpg"
   },
   {
     "user_id": 155874595,
@@ -76,40 +76,12 @@
     "user_broadcaster_type": "partner",
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40647852843,
+    "stream_id": 40648383755,
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE EAR LICK & EYE CONTACT ASMR [EN/ES/PT] 💦💋 !SOCIALS !PRIME !SUB",
-    "stream_viewer_count": 405,
+    "stream_viewer_count": 397,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 430642455,
-    "user_login": "kristinemaia",
-    "user_display_name": "kristinemaia",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b0333f0-646c-40ec-9f09-6e5de549eebc-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e70cc6fb-7562-4412-a2c3-056561ecba1a-channel_offline_image-1920x1080.png",
-    "stream_id": 45027981996,
-    "stream_game_id": "509660",
-    "stream_game_name": "Art",
-    "stream_title": "Queen of heart body paint   ❤️ !nft !tip !socials ",
-    "stream_viewer_count": 169,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 475566892,
-    "user_login": "shyphoebe",
-    "user_display_name": "shyphoebe",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/01104eb3-0fea-4889-842e-1b43c4f97f36-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31333dd3-75e3-49f1-9df2-a04b8484df31-channel_offline_image-1920x1080.png",
-    "stream_id": 45911796493,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "❤️ 18+ CUTEST BRACES GIRL EAR LICK ASMR AND EYE CONTACT ❤️ !s !rr !move",
-    "stream_viewer_count": 163,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   },
   {
     "user_id": 103397701,
@@ -122,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "I am Ukrainian and I want PEACE",
-    "stream_viewer_count": 113,
+    "stream_viewer_count": 121,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
@@ -136,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[ENG-RUS] NoName !social !boosty",
-    "stream_viewer_count": 99,
+    "stream_viewer_count": 96,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
   },
   {
@@ -164,7 +136,21 @@
     "stream_game_id": "496902",
     "stream_game_name": "Slay the Spire",
     "stream_title": "❄️\n",
-    "stream_viewer_count": 82,
+    "stream_viewer_count": 77,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 475566892,
+    "user_login": "shyphoebe",
+    "user_display_name": "shyphoebe",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/01104eb3-0fea-4889-842e-1b43c4f97f36-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31333dd3-75e3-49f1-9df2-a04b8484df31-channel_offline_image-1920x1080.png",
+    "stream_id": 40648427355,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "❤️ 18+ CUTEST BRACES GIRL EAR LICK ASMR AND EYE CONTACT ❤️ !s !rr !move",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   }
 ]
