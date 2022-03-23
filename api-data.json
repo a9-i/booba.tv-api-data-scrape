@@ -28,20 +28,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_berry0314-{width}x{height}.jpg"
   },
   {
-    "user_id": 405208912,
-    "user_login": "gonsabellla",
-    "user_display_name": "gonsabellla",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9194d5c2-aa2d-4be0-a6d7-6ff86b6ad52f-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/349e638b-9dba-4a43-b51f-064e66683709-channel_offline_image-1920x1080.png",
-    "stream_id": 45942617469,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "MIÉRCOLES DE: ACTUALIZACIÓN SOBRE LA OPERACIÓN/ CHARLA DE ASCENSOR/ MAÑANA SE VIENE EL SUPER ANUNCIO ",
-    "stream_viewer_count": 1126,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
-  },
-  {
     "user_id": 455993452,
     "user_login": "sharonqueen",
     "user_display_name": "SharonQueen",
@@ -210,6 +196,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carabeanz-{width}x{height}.jpg"
   },
   {
+    "user_id": 447395277,
+    "user_login": "cluelo",
+    "user_display_name": "cluelo",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec3419c-f8e3-40f2-b1e7-ba8b58595f83-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45037941308,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Yoga stream with your waifu<3",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cluelo-{width}x{height}.jpg"
+  },
+  {
     "user_id": 584625730,
     "user_login": "ivanahyde",
     "user_display_name": "IvanaHyde",
@@ -320,19 +320,5 @@
     "stream_title": "I can't say no! <3  !hellofresh !linktree !size !sr",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 447395277,
-    "user_login": "cluelo",
-    "user_display_name": "cluelo",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ec3419c-f8e3-40f2-b1e7-ba8b58595f83-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45037941308,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Yoga stream with your waifu<3",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cluelo-{width}x{height}.jpg"
   }
 ]
