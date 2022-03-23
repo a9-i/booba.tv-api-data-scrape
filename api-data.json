@@ -224,6 +224,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yntmoe-{width}x{height}.jpg"
   },
   {
+    "user_id": 503893095,
+    "user_login": "shulamonroe",
+    "user_display_name": "shulamonroe",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1726cf7a-518e-426e-8dc9-d07f3748817f-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45939215965,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "ya volvi",
+    "stream_viewer_count": 3,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shulamonroee-{width}x{height}.jpg"
+  },
+  {
     "user_id": 67181956,
     "user_login": "theoneandonlydragon",
     "user_display_name": "TheOneAndOnlyDragon",
