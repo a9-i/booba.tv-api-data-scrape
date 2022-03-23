@@ -154,20 +154,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_candycatcris-{width}x{height}.jpg"
   },
   {
-    "user_id": 442650263,
-    "user_login": "tiffy",
-    "user_display_name": "Tiffy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4afe07f9-0143-471b-9ee8-4af4693f05bf-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e38572f3-463a-4004-af8d-8d5da0fe5ad7-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40649576555,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "♥ Mommy Loves you Soooo Much~ ♥ No Talking ♥",
-    "stream_viewer_count": 262,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
-  },
-  {
     "user_id": 103397701,
     "user_login": "varvaria",
     "user_display_name": "Varvaria",
@@ -250,6 +236,20 @@
     "stream_title": "LUNES DE: CHARLAMOS SOBRE TODO LO OCURRIDO/ JUGAMOS A LO QUE NOS APETEZCA ",
     "stream_viewer_count": 16,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 214948771,
+    "user_login": "2lyn_98",
+    "user_display_name": "이린쨩",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
+    "user_offline_image_url": "",
+    "stream_id": 45942714333,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "목아픈 린다사",
+    "stream_viewer_count": 9,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
   },
   {
     "user_id": 478846434,
