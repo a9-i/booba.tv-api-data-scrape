@@ -70,20 +70,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
-    "user_id": 625405963,
-    "user_login": "elena_fn",
-    "user_display_name": "elena_fn",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45036144988,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "E-GIRL EARLICKING ❤️ | !social ❤️ITA/SPA/ENG",
-    "stream_viewer_count": 633,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
-  },
-  {
     "user_id": 152762898,
     "user_login": "kristinadaniellexo",
     "user_display_name": "kristinadaniellexo",
@@ -236,5 +222,19 @@
     "stream_title": "What Does The Cat Say? (Wrong Answers Only)",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kittykatcarr-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 625450498,
+    "user_login": "fitonastya",
+    "user_display_name": "FitoNastya",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f62aa677-c5fa-443a-83ec-50fc8b33c2b2-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/caabd5b7-312c-4880-9279-5a839cf5d9de-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39593982969,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[ENG-RUS] GYM !social !boosty",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
   }
 ]
