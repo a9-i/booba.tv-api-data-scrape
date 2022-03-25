@@ -224,6 +224,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
   },
   {
+    "user_id": 485746945,
+    "user_login": "kittykatcarr",
+    "user_display_name": "KittyKatCarr",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5244467-3c45-4b27-b158-fa2d776c31a4-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/92d0a41c-b9cb-487f-9b96-6123a26941a1-channel_offline_image-1920x1080.png",
+    "stream_id": 45961413309,
+    "stream_game_id": "511224",
+    "stream_game_name": "Apex Legends",
+    "stream_title": "Trailer Park Boys Fans Unite (Meow)",
+    "stream_viewer_count": 4,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kittykatcarr-{width}x{height}.jpg"
+  },
+  {
     "user_id": 519054656,
     "user_login": "sharonwinner",
     "user_display_name": "SharonWinner",
@@ -236,5 +250,47 @@
     "stream_title": "Solita vienes?✨😮😻🌸Ig SharonWinnerOficial 🌸🌸Ig SharonWinnerOficial 🌸😮🌟",
     "stream_viewer_count": 4,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonwinner-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 567652081,
+    "user_login": "chickensoup4the",
+    "user_display_name": "chickensoup4the",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f93bf994-ec4f-4d16-a559-db69ec94879d-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45961409165,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "friday babeeeey! | !links !twitter !reddit",
+    "stream_viewer_count": 3,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 89791124,
+    "user_login": "leah_ayame",
+    "user_display_name": "Leah_Ayame",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39596894953,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "💕🔥New Bikini’s to try on🔥💕 !socials !discord",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 257497060,
+    "user_login": "niva",
+    "user_display_name": "Niva",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd0658ba-a2b7-40a0-9aac-528469bdb3f0-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 40656249611,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "✨Yoga and breakfast before work ✨",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niva-{width}x{height}.jpg"
   }
 ]
