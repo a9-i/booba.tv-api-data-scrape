@@ -84,20 +84,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_candycatcris-{width}x{height}.jpg"
   },
   {
-    "user_id": 237238176,
-    "user_login": "seolyihyeon",
-    "user_display_name": "설이현",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
-    "stream_id": 45962897069,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❄️",
-    "stream_viewer_count": 221,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
-  },
-  {
     "user_id": 475566892,
     "user_login": "shyphoebe",
     "user_display_name": "shyphoebe",
@@ -168,6 +154,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niva-{width}x{height}.jpg"
   },
   {
+    "user_id": 409624608,
+    "user_login": "melina",
+    "user_display_name": "melina",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45056425884,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "times | insta: melina.goransson",
+    "stream_viewer_count": 71,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
+  },
+  {
     "user_id": 195326003,
     "user_login": "meowko",
     "user_display_name": "Meowko",
@@ -208,6 +208,34 @@
     "stream_title": "네? 🎀 !메뉴 20220326",
     "stream_viewer_count": 13,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jjolbi1987-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 234992096,
+    "user_login": "nomadi_",
+    "user_display_name": "Nomadi_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78486807-4b91-4e24-8495-c60b612feeba-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61d20310-3208-4ddf-86d6-4c364113b435-channel_offline_image-1920x1080.png",
+    "stream_id": 45056401276,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "COSPLAY AND BIOSHOCK [ENG-RUS]",
+    "stream_viewer_count": 10,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nomadi_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 625405963,
+    "user_login": "elena_fn",
+    "user_display_name": "elena_fn",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45056506332,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "E-GIRL EARLICKING ❤️ | !social ❤️ITA/SPA/ENG",
+    "stream_viewer_count": 6,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
   },
   {
     "user_id": 215968422,
