@@ -112,6 +112,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
+    "user_id": 214948771,
+    "user_login": "2lyn_98",
+    "user_display_name": "이린쨩",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
+    "user_offline_image_url": "",
+    "stream_id": 45973464941,
+    "stream_game_id": "21779",
+    "stream_game_name": "League of Legends",
+    "stream_title": "다이아 여체탑 부캐합니다",
+    "stream_viewer_count": 11,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
+  },
+  {
     "user_id": 711208908,
     "user_login": "yntmoe",
     "user_display_name": "Yntmoe",
@@ -250,6 +264,20 @@
     "stream_title": "♥ Relax with Mommy~ ♥ No Talking ♥",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 432777353,
+    "user_login": "fit_chick_amy",
+    "user_display_name": "fit_chick_amy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/511c7966-3148-4085-a0be-686d9ce7a6df-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39600450537,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "Relaxing ASMR WITH AMY",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
   },
   {
     "user_id": 93517122,
