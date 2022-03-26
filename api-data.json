@@ -140,20 +140,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yntmoe-{width}x{height}.jpg"
   },
   {
-    "user_id": 67181956,
-    "user_login": "theoneandonlydragon",
-    "user_display_name": "TheOneAndOnlyDragon",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cad0838-2433-48d8-b390-50468b4bd614-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f607af0b-6581-4d45-9bf9-bd825d179be4-channel_offline_image-1920x1080.png",
-    "stream_id": 40659205675,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "HIIII YOUUU CUTE,  COME SAY HELLO  !HelloFresh",
-    "stream_viewer_count": 7,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theoneandonlydragon-{width}x{height}.jpg"
-  },
-  {
     "user_id": 625405963,
     "user_login": "elena_fn",
     "user_display_name": "elena_fn",
@@ -266,20 +252,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
   },
   {
-    "user_id": 432777353,
-    "user_login": "fit_chick_amy",
-    "user_display_name": "fit_chick_amy",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/511c7966-3148-4085-a0be-686d9ce7a6df-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39600450537,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "Relaxing ASMR WITH AMY",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
-  },
-  {
     "user_id": 93517122,
     "user_login": "crystal",
     "user_display_name": "Crystal",
@@ -292,5 +264,19 @@
     "stream_title": "❤️👅 ASMR TINGLES ❤️👅 !S for all my links !sub !prime !rr",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crystal-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 432777353,
+    "user_login": "fit_chick_amy",
+    "user_display_name": "fit_chick_amy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/511c7966-3148-4085-a0be-686d9ce7a6df-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39600450537,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "Relaxing ASMR WITH AMY",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
   }
 ]
