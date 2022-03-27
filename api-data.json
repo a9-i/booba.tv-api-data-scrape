@@ -154,20 +154,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivanahyde-{width}x{height}.jpg"
   },
   {
-    "user_id": 145531975,
-    "user_login": "sukiyuki3",
-    "user_display_name": "sukiyuki3",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dca967f4-8066-4c4a-83ff-a78e9729239d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6283d09b-8fe1-4394-afea-92d19561825f-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45985810973,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❤️💦 I'm Back!!!!! Tipsy Lit and Dressed Up Dancing! uwu!🦄❤️💦💦💦 !discord !socials !ig [ENG]",
-    "stream_viewer_count": 4,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sukiyuki3-{width}x{height}.jpg"
-  },
-  {
     "user_id": 625450498,
     "user_login": "fitonastya",
     "user_display_name": "FitoNastya",
@@ -194,6 +180,20 @@
     "stream_title": "countdown hot tub birthday party ✨!links !sounds",
     "stream_viewer_count": 1,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 155874595,
+    "user_login": "elisabetetv",
+    "user_display_name": "ElisabeteTV",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45072629260,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "TAX GODS HELP ME STEPSIS IS STUCK ❤️ !SOCIALS !PRIME !SUB",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
   },
   {
     "user_id": 469348555,
@@ -278,19 +278,5 @@
     "stream_title": "Idk my bff Java?  <3  !hellofresh !linktree !size !sr",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 155874595,
-    "user_login": "elisabetetv",
-    "user_display_name": "ElisabeteTV",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45072629260,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "TAX GODS HELP ME STEPSIS IS STUCK ❤️ !SOCIALS !PRIME !SUB",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
   }
 ]
