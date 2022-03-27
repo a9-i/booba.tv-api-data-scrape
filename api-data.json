@@ -70,20 +70,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_for_line-{width}x{height}.jpg"
   },
   {
-    "user_id": 625450498,
-    "user_login": "fitonastya",
-    "user_display_name": "FitoNastya",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f62aa677-c5fa-443a-83ec-50fc8b33c2b2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/caabd5b7-312c-4880-9279-5a839cf5d9de-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45073072492,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG-RUS] YOGA then Painting !social !boosty",
-    "stream_viewer_count": 210,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
-  },
-  {
     "user_id": 475566892,
     "user_login": "shyphoebe",
     "user_display_name": "shyphoebe",
@@ -138,6 +124,20 @@
     "stream_title": "🎵Electronic Music, Memories and Chill - 3 years on Twitch 🎉 !SPOTIFY 🎵 24/7 dmca free music🎵",
     "stream_viewer_count": 72,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niva-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 168251674,
+    "user_login": "gavrilka",
+    "user_display_name": "Gavrilka",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/90531b062846dd9a-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/47fe53b2-6e64-41be-8571-c05dd4ffc5a8-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45989497469,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I'm in new country!",
+    "stream_viewer_count": 60,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gavrilka-{width}x{height}.jpg"
   },
   {
     "user_id": 173319589,
@@ -210,6 +210,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
+    "user_id": 711208908,
+    "user_login": "yntmoe",
+    "user_display_name": "Yntmoe",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ecfccaa-dc8f-432c-a0fd-ae8c92904e56-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45989504509,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "Bikini Contest",
+    "stream_viewer_count": 1,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yntmoe-{width}x{height}.jpg"
+  },
+  {
     "user_id": 525495244,
     "user_login": "marinamamede",
     "user_display_name": "MarinaMamede",
@@ -224,6 +238,34 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
   },
   {
+    "user_id": 475171674,
+    "user_login": "befitpilatesgal",
+    "user_display_name": "BeFitPilatesGal",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b061b62-5f64-48d6-803a-ce4f39870f6e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fde08b9c-b2c6-46e8-89ca-21634619ad4a-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45989726989,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🔥💃🏻 POLE META RETURNS 🔥 PROFESSIONAL POLE FITNESS 💃🏻🔥",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_befitpilatesgal-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 658070925,
+    "user_login": "zazoge",
+    "user_display_name": "zazoge",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f0480c3-b914-42bb-9260-135a7d5e58c2-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/909b83d8-e270-4819-bd5b-a5caede21667-channel_offline_image-1920x1080.png",
+    "stream_id": 39604870473,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "HOP IN ❤️ !links",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
+  },
+  {
     "user_id": 61974931,
     "user_login": "leynainu",
     "user_display_name": "Leynainu",
@@ -236,6 +278,20 @@
     "stream_title": "💋DOUBLE D'IO EAR LICKS💋/ !Youtube / !social = all my Social Media",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leynainu-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 98578318,
+    "user_login": "ivysky",
+    "user_display_name": "IvySky",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0201698-b61c-409e-9d50-d9906352cd6f-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45076636924,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "ITS MY BIRTHDAY!!!! TRY ON HAUL!!",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivysky-{width}x{height}.jpg"
   },
   {
     "user_id": 214948771,
@@ -334,19 +390,5 @@
     "stream_title": "<3",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 658070925,
-    "user_login": "zazoge",
-    "user_display_name": "zazoge",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f0480c3-b914-42bb-9260-135a7d5e58c2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/909b83d8-e270-4819-bd5b-a5caede21667-channel_offline_image-1920x1080.png",
-    "stream_id": 39604870473,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "HOP IN ❤️ !links",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
   }
 ]
