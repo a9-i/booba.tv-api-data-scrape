@@ -112,20 +112,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niva-{width}x{height}.jpg"
   },
   {
-    "user_id": 711208908,
-    "user_login": "yntmoe",
-    "user_display_name": "Yntmoe",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ecfccaa-dc8f-432c-a0fd-ae8c92904e56-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45983211965,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Bikini Contest",
-    "stream_viewer_count": 10,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yntmoe-{width}x{height}.jpg"
-  },
-  {
     "user_id": 214948771,
     "user_login": "2lyn_98",
     "user_display_name": "이린쨩",
@@ -180,6 +166,20 @@
     "stream_title": "countdown hot tub birthday party ✨!links !sounds",
     "stream_viewer_count": 1,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 628967771,
+    "user_login": "chickenwingcandy",
+    "user_display_name": "ChickenWingCandy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45072726636,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Idk my bff Java?  <3  !hellofresh !linktree !size !sr",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
     "user_id": 155874595,
@@ -264,19 +264,5 @@
     "stream_title": "❄️바니걸을 샀는데 내맘에 안들어서 지금 꿍시렁 꿍시렁",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 628967771,
-    "user_login": "chickenwingcandy",
-    "user_display_name": "ChickenWingCandy",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45072726636,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Idk my bff Java?  <3  !hellofresh !linktree !size !sr",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   }
 ]
