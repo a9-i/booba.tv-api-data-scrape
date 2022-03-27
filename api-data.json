@@ -224,6 +224,34 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evaanna-{width}x{height}.jpg"
   },
   {
+    "user_id": 237238176,
+    "user_login": "seolyihyeon",
+    "user_display_name": "설이현",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
+    "stream_id": 45985956445,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❄️바니걸을 샀는데 내맘에 안들어서 지금 꿍시렁 꿍시렁",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 628967771,
+    "user_login": "chickenwingcandy",
+    "user_display_name": "ChickenWingCandy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45072726636,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Idk my bff Java?  <3  !hellofresh !linktree !size !sr",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
+  },
+  {
     "user_id": 155874595,
     "user_login": "elisabetetv",
     "user_display_name": "ElisabeteTV",
@@ -250,20 +278,6 @@
     "stream_title": "🔥STRAPPY BIKINI TRY ON🔥 !socials",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 89791124,
-    "user_login": "leah_ayame",
-    "user_display_name": "Leah_Ayame",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39604099145,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "💕🔥New Bikini’s to try on🔥💕 !socials !discord",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
   },
   {
     "user_id": 250502765,
