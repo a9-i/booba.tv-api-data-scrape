@@ -98,20 +98,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
-    "user_id": 567652081,
-    "user_login": "chickensoup4the",
-    "user_display_name": "chickensoup4the",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f93bf994-ec4f-4d16-a559-db69ec94879d-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45994816333,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "LAST PC STREAM BEFORE FLYING TO THE EAST COAST!! *new stash of hash* | !links !twitter !reddit",
-    "stream_viewer_count": 1,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
-  },
-  {
     "user_id": 711208908,
     "user_login": "yntmoe",
     "user_display_name": "Yntmoe",
@@ -138,6 +124,20 @@
     "stream_title": "countdown hot tub birthday party ✨!links !sounds",
     "stream_viewer_count": 1,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 419795496,
+    "user_login": "sooflower",
+    "user_display_name": "수련수련",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
+    "stream_id": 45995212749,
+    "stream_game_id": "512953",
+    "stream_game_name": "Elden Ring",
+    "stream_title": "월요일 간바레 련련이",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
     "user_id": 500906914,
@@ -222,19 +222,5 @@
     "stream_title": "I am Ukrainian and I want PEACE",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 419795496,
-    "user_login": "sooflower",
-    "user_display_name": "수련수련",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
-    "stream_id": 45995212749,
-    "stream_game_id": "512953",
-    "stream_game_name": "Elden Ring",
-    "stream_title": "월요일 간바레 련련이",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   }
 ]
