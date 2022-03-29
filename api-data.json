@@ -126,20 +126,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
   },
   {
-    "user_id": 103397701,
-    "user_login": "varvaria",
-    "user_display_name": "Varvaria",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39609875369,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "I am Ukrainian and I want PEACE",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
-  },
-  {
     "user_id": 93517122,
     "user_login": "crystal",
     "user_display_name": "Crystal",
@@ -154,18 +140,18 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crystal-{width}x{height}.jpg"
   },
   {
-    "user_id": 89791124,
-    "user_login": "leah_ayame",
-    "user_display_name": "Leah_Ayame",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39609807897,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "💕🔥New Bikini’s to try on🔥💕 !socials !discord",
+    "user_id": 103397701,
+    "user_login": "varvaria",
+    "user_display_name": "Varvaria",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39609875369,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I am Ukrainian and I want PEACE",
     "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
     "user_id": 500906914,
@@ -222,6 +208,20 @@
     "stream_title": "SWEET ASMR / NO ADS / NO EARLICKING / DESPUÉS VIDEO",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 615620426,
+    "user_login": "missvittoria",
+    "user_display_name": "missvittoria",
+    "user_broadcaster_type": "",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/464f45d9-2dd7-498d-bed3-2907fd5616d1-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39610064937,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🔥 HOT DANCE! 🔥NEW POST -> !exclusive",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_missvittoria-{width}x{height}.jpg"
   },
   {
     "user_id": 475566892,
