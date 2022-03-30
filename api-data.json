@@ -56,20 +56,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
   },
   {
-    "user_id": 593860034,
-    "user_login": "thewildlatina",
-    "user_display_name": "thewildlatina",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61fdf01c-29fa-40af-a521-9ce4ea5c15ed-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45096132060,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔥DON'T LOOK! I'M CHANGING🔥!SOCIALS !wishlist",
-    "stream_viewer_count": 471,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
-  },
-  {
     "user_id": 625405963,
     "user_login": "elena_fn",
     "user_display_name": "elena_fn",
@@ -154,6 +140,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_for_line-{width}x{height}.jpg"
   },
   {
+    "user_id": 144543711,
+    "user_login": "livelybella",
+    "user_display_name": "LivelyBella",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c398123-8bdf-4e99-9f28-c5a194c9c5aa-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2ef9be5-1f74-422d-998e-cb3d24829a45-channel_offline_image-1920x1080.png",
+    "stream_id": 45096506412,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "ASMR late night working.. petting mic, typing, background music etc",
+    "stream_viewer_count": 7,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livelybella-{width}x{height}.jpg"
+  },
+  {
     "user_id": 93517122,
     "user_login": "crystal",
     "user_display_name": "Crystal",
@@ -168,18 +168,18 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crystal-{width}x{height}.jpg"
   },
   {
-    "user_id": 144543711,
-    "user_login": "livelybella",
-    "user_display_name": "LivelyBella",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c398123-8bdf-4e99-9f28-c5a194c9c5aa-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2ef9be5-1f74-422d-998e-cb3d24829a45-channel_offline_image-1920x1080.png",
-    "stream_id": 45096506412,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "ASMR late night working.. petting mic, typing, background music etc",
-    "stream_viewer_count": 7,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livelybella-{width}x{height}.jpg"
+    "user_id": 214948771,
+    "user_login": "2lyn_98",
+    "user_display_name": "이린쨩",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
+    "user_offline_image_url": "",
+    "stream_id": 46015148285,
+    "stream_game_id": "21779",
+    "stream_game_name": "League of Legends",
+    "stream_title": "다이아 탑라이너의 낭만.",
+    "stream_viewer_count": 5,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
   },
   {
     "user_id": 430642455,
