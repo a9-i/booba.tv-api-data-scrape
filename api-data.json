@@ -112,20 +112,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
-    "user_id": 10180554,
-    "user_login": "victorias",
-    "user_display_name": "Victorias",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7abf2d7-b1dd-4b2d-be7f-2a6a253b5a3b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3148712-8f0d-4d28-a7a8-fa189e727da2-channel_offline_image-1920x1080.png",
-    "stream_id": 46013693165,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "🤭 FASHIONABLY LATE  | 100 bit TTS  | !socials",
-    "stream_viewer_count": 305,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
-  },
-  {
     "user_id": 67181956,
     "user_login": "theoneandonlydragon",
     "user_display_name": "TheOneAndOnlyDragon",
@@ -182,6 +168,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_for_line-{width}x{height}.jpg"
   },
   {
+    "user_id": 144543711,
+    "user_login": "livelybella",
+    "user_display_name": "LivelyBella",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c398123-8bdf-4e99-9f28-c5a194c9c5aa-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2ef9be5-1f74-422d-998e-cb3d24829a45-channel_offline_image-1920x1080.png",
+    "stream_id": 45096506412,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "ASMR late night working.. petting mic, typing, background music etc",
+    "stream_viewer_count": 7,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livelybella-{width}x{height}.jpg"
+  },
+  {
     "user_id": 525495244,
     "user_login": "marinamamede",
     "user_display_name": "MarinaMamede",
@@ -196,6 +196,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omgemy-{width}x{height}.jpg"
   },
   {
+    "user_id": 468738684,
+    "user_login": "angievideos",
+    "user_display_name": "AngieVideos",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c583cf1b-f70d-4183-a818-481aaec294eb-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39ef7288-9af4-4ede-9c2b-8c0b8ae7d2e3-channel_offline_image-1920x1080.png",
+    "stream_id": 45096483676,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "+18 Stream largo = 12h    !priv !paypal !redes",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
+  },
+  {
     "user_id": 466621819,
     "user_login": "paris_rain",
     "user_display_name": "Paris_Rain",
@@ -208,5 +222,19 @@
     "stream_title": "late night cozy stream #Ad #Sponsored - !dark !s !fh !throne",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paris_rain-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 500906914,
+    "user_login": "sandraskins",
+    "user_display_name": "SandraSkins",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d8d22b3-a889-4f8e-8437-a217afa7fca8-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7715066-5af8-42d7-8cd2-d82b6c78a031-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45096485900,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "+18| LANA RHOADES VUELVE AL CINE :O",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
   }
 ]
