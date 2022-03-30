@@ -224,20 +224,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silfy_star-{width}x{height}.jpg"
   },
   {
-    "user_id": 49953078,
-    "user_login": "tinycowgirl",
-    "user_display_name": "tinycowgirl",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e43fe4e-212f-475f-a1c1-d472d8d9d92e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa9a8ee-3866-43e5-89c5-9f803a63c330-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 46020349261,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "BDAY COUNTDOWN and Workout Wednesday !s !sounds !throne !fanhouse !nametag",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gillianaprils-{width}x{height}.jpg"
-  },
-  {
     "user_id": 257140862,
     "user_login": "karna",
     "user_display_name": "Karna",
@@ -252,6 +238,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
   },
   {
+    "user_id": 49953078,
+    "user_login": "tinycowgirl",
+    "user_display_name": "tinycowgirl",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e43fe4e-212f-475f-a1c1-d472d8d9d92e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa9a8ee-3866-43e5-89c5-9f803a63c330-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 46020349261,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "BDAY COUNTDOWN and Workout Wednesday !s !sounds !throne !fanhouse !nametag",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gillianaprils-{width}x{height}.jpg"
+  },
+  {
     "user_id": 603677250,
     "user_login": "stherolive",
     "user_display_name": "StherOlive",
@@ -264,20 +264,6 @@
     "stream_title": "🔞[ES/EN] CUENTA ATRÁS PARA CAMBIO DE LOOK❤️1sub= DANCE-BAILAMOS?❤️ !alertas !comandos !commands",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_estherolive-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 104211056,
-    "user_login": "calistamelissa",
-    "user_display_name": "CalistaMelissa",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/440db7cf-7812-432e-becb-a3efc044e453-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46019974637,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "!socials Hump Day workouts",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_calistamelissa-{width}x{height}.jpg"
   },
   {
     "user_id": 61335991,
