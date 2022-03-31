@@ -42,20 +42,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
-    "user_id": 198860406,
-    "user_login": "berry0314",
-    "user_display_name": "빛베리",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/82f74570-ff4e-4f34-917b-76e0dc62bf16-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93eaacff-68c2-4922-be13-c2ab08ae1bde-channel_offline_image-1920x1080.png",
-    "stream_id": 46026574285,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "잛방 생존신고 short stream",
-    "stream_viewer_count": 103,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_berry0314-{width}x{height}.jpg"
-  },
-  {
     "user_id": 419795496,
     "user_login": "sooflower",
     "user_display_name": "수련수련",
@@ -336,20 +322,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
-    "user_id": 248388278,
-    "user_login": "malinkaa98",
-    "user_display_name": "Malinkaa98",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd8037ea-3c53-44a3-aacf-686c8d26f3d3-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/284da285-a05d-446f-aa1b-c6038afb78de-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45106448060,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "hi💜 !tattoo !s !socials !rules !youtube !instagram !about #english #cutegirl",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
-  },
-  {
     "user_id": 568972298,
     "user_login": "lesya_cox",
     "user_display_name": "lesya_cox",
@@ -376,6 +348,20 @@
     "stream_title": "❤️‍🔥let's get lit! and art stuff lol !merch <3 ❤️‍🔥  🦋!socials !youtube",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pinkfloweremoji-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd8037ea-3c53-44a3-aacf-686c8d26f3d3-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/284da285-a05d-446f-aa1b-c6038afb78de-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45106448060,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "hi💜 !tattoo !s !socials !rules !youtube !instagram !about #english #cutegirl",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 254938253,
