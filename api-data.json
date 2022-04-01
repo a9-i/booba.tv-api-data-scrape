@@ -196,6 +196,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   },
   {
+    "user_id": 419795496,
+    "user_login": "sooflower",
+    "user_display_name": "수련수련",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
+    "stream_id": 46035802093,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "코시국 찜질방 야방",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
+  },
+  {
     "user_id": 198860406,
     "user_login": "berry0314",
     "user_display_name": "빛베리",
