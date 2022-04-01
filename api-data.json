@@ -14,6 +14,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
+    "user_id": 184309664,
+    "user_login": "foxperry",
+    "user_display_name": "Foxperry",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/277a8a73-d8bd-4afe-aa2c-f86ae2376807-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45116196396,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Общение| Танцы [eng/rus]",
+    "stream_viewer_count": 31,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxperry-{width}x{height}.jpg"
+  },
+  {
     "user_id": 469348555,
     "user_login": "taylor_jevaux",
     "user_display_name": "Taylor_Jevaux",
@@ -152,6 +166,20 @@
     "stream_title": "Wrestling FRIDAY Trouble in Paradise ! !socials !podcast",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sophia-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 70933080,
+    "user_login": "aurorastarr",
+    "user_display_name": "AuroraStarr",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2265a10d-e7f1-4d4c-ba3f-54429545fb7c-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84090170-858a-46f8-810e-97f08078ccaa-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45116252284,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Not feeling well. Send HUGS! | !s for socials",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorastarr-{width}x{height}.jpg"
   },
   {
     "user_id": 583931625,
