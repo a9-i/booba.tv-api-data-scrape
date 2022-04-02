@@ -196,6 +196,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
   },
   {
+    "user_id": 237238176,
+    "user_login": "seolyihyeon",
+    "user_display_name": "설이현",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
+    "stream_id": 46047819229,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❄️",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
+  },
+  {
     "user_id": 584625730,
     "user_login": "ivanahyde",
     "user_display_name": "IvanaHyde",
