@@ -168,6 +168,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shulamonroee-{width}x{height}.jpg"
   },
   {
+    "user_id": 488422566,
+    "user_login": "twictoriches",
+    "user_display_name": "twictoriches",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d18703b9-2251-4e64-8fa3-3df12d2f47d9-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/575bfbfd-65e2-4aaf-8d81-612133c39e03-channel_offline_image-1920x1080.png",
+    "stream_id": 45135946444,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[en/ru] анпакинг клавы !boosty !socials",
+    "stream_viewer_count": 9,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_twictoriches-{width}x{height}.jpg"
+  },
+  {
     "user_id": 505665738,
     "user_login": "karitaluna",
     "user_display_name": "karitaluna",
@@ -182,6 +196,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karitaluna-{width}x{height}.jpg"
   },
   {
+    "user_id": 190140376,
+    "user_login": "connie4u",
+    "user_display_name": "connie4u",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb3d0528-effa-40c1-867c-eeba3c928c63-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e972f8b4-5d6e-4d8f-81eb-eaec9ac0b639-channel_offline_image-1920x1080.png",
+    "stream_id": 45135930668,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "need to be hyped up? are u relaxing right now? im here 4u❤ !tiktok !socials",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_connie4u-{width}x{height}.jpg"
+  },
+  {
     "user_id": 254938253,
     "user_login": "silfy_star",
     "user_display_name": "Silfy_Star",
@@ -194,5 +222,19 @@
     "stream_title": "Food before DBD ⭐️ !Silfy",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silfy_star-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 168251674,
+    "user_login": "gavrilka",
+    "user_display_name": "Gavrilka",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/90531b062846dd9a-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/47fe53b2-6e64-41be-8571-c05dd4ffc5a8-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 46061428813,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I'm horrified by today's news... 😭",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gavrilka-{width}x{height}.jpg"
   }
 ]
