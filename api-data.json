@@ -154,18 +154,32 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   },
   {
-    "user_id": 466621819,
-    "user_login": "paris_rain",
-    "user_display_name": "Paris_Rain",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d6003d2-a201-45a0-b105-a84caf9a518f-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0e83b4d-6ee2-48b1-8a60-c39b9f9e8a86-channel_offline_image-1920x1080.png",
-    "stream_id": 40684246843,
+    "user_id": 237238176,
+    "user_login": "seolyihyeon",
+    "user_display_name": "설이현",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
+    "stream_id": 46059227917,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "🔥 TRUTH OR DAB 🔥 - !dark !s !fh !throne",
-    "stream_viewer_count": 137,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paris_rain-{width}x{height}.jpg"
+    "stream_title": "❄️",
+    "stream_viewer_count": 15,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 628967771,
+    "user_login": "chickenwingcandy",
+    "user_display_name": "ChickenWingCandy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45133582732,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Sunday!! <3   !linktree !size !sr",
+    "stream_viewer_count": 9,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
     "user_id": 611121748,
@@ -182,18 +196,18 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mady_gio-{width}x{height}.jpg"
   },
   {
-    "user_id": 625405963,
-    "user_login": "elena_fn",
-    "user_display_name": "elena_fn",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
+    "user_id": 214948771,
+    "user_login": "2lyn_98",
+    "user_display_name": "이린쨩",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
     "user_offline_image_url": "",
-    "stream_id": 46059062061,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "NO TALK ASMR  EARLICKING! ❤️ | !social ❤️ITA/SPA/ENG",
+    "stream_id": 46059129533,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "격한운동하면 방송사고",
     "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
   },
   {
     "user_id": 254938253,
@@ -210,17 +224,17 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silfy_star-{width}x{height}.jpg"
   },
   {
-    "user_id": 214948771,
-    "user_login": "2lyn_98",
-    "user_display_name": "이린쨩",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
+    "user_id": 625405963,
+    "user_login": "elena_fn",
+    "user_display_name": "elena_fn",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
     "user_offline_image_url": "",
-    "stream_id": 46059129533,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "격한운동하면 방송사고",
+    "stream_id": 46059062061,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "NO TALK ASMR  EARLICKING! ❤️ | !social ❤️ITA/SPA/ENG",
     "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
   }
 ]
