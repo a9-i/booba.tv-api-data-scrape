@@ -42,20 +42,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
-    "user_id": 89791124,
-    "user_login": "leah_ayame",
-    "user_display_name": "Leah_Ayame",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39625659033,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Hot Tub Date With Your Local Redheaded... Streamer ;p !socials !discord",
-    "stream_viewer_count": 1184,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
-  },
-  {
     "user_id": 405208912,
     "user_login": "gonsabellla",
     "user_display_name": "gonsabellla",
@@ -96,20 +82,6 @@
     "stream_title": "LIVE ASMR EAR LICK 💜 I LOVE YOU 💦💋 !SOCIALS !PRIME !SUB",
     "stream_viewer_count": 784,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 500906914,
-    "user_login": "sandraskins",
-    "user_display_name": "SandraSkins",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d8d22b3-a889-4f8e-8437-a217afa7fca8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7715066-5af8-42d7-8cd2-d82b6c78a031-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45131856940,
-    "stream_game_id": "7022",
-    "stream_game_name": "The Forest",
-    "stream_title": "+18| LANA RHOADES VUELVE AL CINE :O",
-    "stream_viewer_count": 592,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
   },
   {
     "user_id": 615620426,
@@ -210,20 +182,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mady_gio-{width}x{height}.jpg"
   },
   {
-    "user_id": 214948771,
-    "user_login": "2lyn_98",
-    "user_display_name": "이린쨩",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
-    "user_offline_image_url": "",
-    "stream_id": 46059129533,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "격한운동하면 방송사고",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
-  },
-  {
     "user_id": 254938253,
     "user_login": "silfy_star",
     "user_display_name": "Silfy_Star",
@@ -236,6 +194,20 @@
     "stream_title": "Food before DBD ⭐️ !Silfy",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silfy_star-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 214948771,
+    "user_login": "2lyn_98",
+    "user_display_name": "이린쨩",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fb60efc-2357-4118-aead-7ad029792d24-profile_image-300x300.jpg",
+    "user_offline_image_url": "",
+    "stream_id": 46059129533,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "격한운동하면 방송사고",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2lyn_98-{width}x{height}.jpg"
   },
   {
     "user_id": 625405963,
