@@ -70,20 +70,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
   },
   {
-    "user_id": 89791124,
-    "user_login": "leah_ayame",
-    "user_display_name": "Leah_Ayame",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39628809273,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "This look on me, or nah??? ;p !socials !discord",
-    "stream_viewer_count": 628,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
-  },
-  {
     "user_id": 455993452,
     "user_login": "sharonqueen",
     "user_display_name": "SharonQueen",
@@ -124,6 +110,20 @@
     "stream_title": "🍓안뇽  hellooo🍓",
     "stream_viewer_count": 104,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_berry0314-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 103397701,
+    "user_login": "varvaria",
+    "user_display_name": "Varvaria",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39629202777,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I am Ukrainian and I want PEACE",
+    "stream_viewer_count": 50,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
     "user_id": 478846434,
@@ -168,20 +168,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chanice_bonner-{width}x{height}.jpg"
   },
   {
-    "user_id": 188614162,
-    "user_login": "gloriamatvien",
-    "user_display_name": "GloriaMatvien",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c279a788-3a8d-4d63-8c40-f6cef264e322-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d3c029d-8104-4797-aa7b-fe19137b75f4-channel_offline_image-1920x1080.png",
-    "stream_id": 45142004092,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "happy monday))♥ !ig !tg !roulette",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
-  },
-  {
     "user_id": 254938253,
     "user_login": "silfy_star",
     "user_display_name": "Silfy_Star",
@@ -194,6 +180,20 @@
     "stream_title": "Food before DBD ⭐️ !Silfy",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silfy_star-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 188614162,
+    "user_login": "gloriamatvien",
+    "user_display_name": "GloriaMatvien",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c279a788-3a8d-4d63-8c40-f6cef264e322-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d3c029d-8104-4797-aa7b-fe19137b75f4-channel_offline_image-1920x1080.png",
+    "stream_id": 45142004092,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "happy monday))♥ !ig !tg !roulette",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
     "user_id": 551906487,
@@ -292,19 +292,5 @@
     "stream_title": "❄️ 공겜은 왜 무서운걸까",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 103397701,
-    "user_login": "varvaria",
-    "user_display_name": "Varvaria",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39629137273,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "I am Ukrainian and I want PEACE",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   }
 ]
