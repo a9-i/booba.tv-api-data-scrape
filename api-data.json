@@ -126,20 +126,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
   },
   {
-    "user_id": 472921491,
-    "user_login": "chanice_bonner",
-    "user_display_name": "chanice_bonner",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9710fa61-b240-401c-9de0-b70b56219e3b-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46069157405,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "I was banned on tik tok for talking about skin bleaching",
-    "stream_viewer_count": 1,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chanice_bonner-{width}x{height}.jpg"
-  },
-  {
     "user_id": 254938253,
     "user_login": "silfy_star",
     "user_display_name": "Silfy_Star",
@@ -152,6 +138,20 @@
     "stream_title": "Food before DBD ⭐️ !Silfy",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silfy_star-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 237238176,
+    "user_login": "seolyihyeon",
+    "user_display_name": "설이현",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
+    "stream_id": 46069196093,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❄️ 공겜은 왜 무서운걸까",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
   },
   {
     "user_id": 188614162,
@@ -210,20 +210,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiwichka-{width}x{height}.jpg"
   },
   {
-    "user_id": 270759648,
-    "user_login": "ju10506",
-    "user_display_name": "총야_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84aedd8c-6dab-4295-ade7-1c2efdbd4da8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c376171-6947-4940-923e-c2057d9f6f92-channel_offline_image-1920x1080.png",
-    "stream_id": 46068442125,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "En/kr💕99금 ㅗㅜㅑ....시스루💕",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ju10506-{width}x{height}.jpg"
-  },
-  {
     "user_id": 252665155,
     "user_login": "nnabi",
     "user_display_name": "연나비님",
@@ -236,19 +222,5 @@
     "stream_title": "옆슴드레스 - ♡",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nnabi-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 237238176,
-    "user_login": "seolyihyeon",
-    "user_display_name": "설이현",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
-    "stream_id": 46069196093,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❄️ 공겜은 왜 무서운걸까",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
   }
 ]
