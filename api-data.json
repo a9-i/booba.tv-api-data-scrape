@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 457124238,
-    "user_login": "adrianachechik_",
-    "user_display_name": "AdrianaChechik_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
-    "stream_id": 46065920973,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Who is next on our kill list! Elden Ring [PS5]",
-    "stream_viewer_count": 3794,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
-  },
-  {
     "user_id": 155874595,
     "user_login": "elisabetetv",
     "user_display_name": "ElisabeteTV",
@@ -182,20 +168,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
   },
   {
-    "user_id": 130784874,
-    "user_login": "evaanna",
-    "user_display_name": "evaanna",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1eab6a5-72b6-42e1-8223-55d1c713cbb2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9a6c4e9-7ec7-4b4f-a5c1-9817fd974cf5-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40687478331,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💦HOT GYM & YOGA💦  !s !d !ig (for support use donation pls)",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evaanna-{width}x{height}.jpg"
-  },
-  {
     "user_id": 254938253,
     "user_login": "silfy_star",
     "user_display_name": "Silfy_Star",
@@ -210,20 +182,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silfy_star-{width}x{height}.jpg"
   },
   {
-    "user_id": 446325991,
-    "user_login": "pekeasmr",
-    "user_display_name": "pekeasmr",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/afa96db2-6212-415a-9254-116d8bf6d2fc-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f85a92c-812b-495a-8f8e-f369db530c1a-channel_offline_image-1920x1080.png",
-    "stream_id": 46067460909,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "IM BACK :3 - ASMR👅💦LOVELY EAR LICKS AND KISSES🍑UFF UFF KIMOCHI🍒 !PRIME - SUB FOR FREE",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
-  },
-  {
     "user_id": 531990402,
     "user_login": "popazik",
     "user_display_name": "popazik",
@@ -236,5 +194,19 @@
     "stream_title": "понедельник день тяжелый !s !boosty",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 446325991,
+    "user_login": "pekeasmr",
+    "user_display_name": "pekeasmr",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/afa96db2-6212-415a-9254-116d8bf6d2fc-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f85a92c-812b-495a-8f8e-f369db530c1a-channel_offline_image-1920x1080.png",
+    "stream_id": 46067460909,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "IM BACK :3 - ASMR👅💦LOVELY EAR LICKS AND KISSES🍑UFF UFF KIMOCHI🍒 !PRIME - SUB FOR FREE",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   }
 ]
