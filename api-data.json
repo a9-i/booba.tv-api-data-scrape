@@ -28,20 +28,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
-    "user_id": 625405963,
-    "user_login": "elena_fn",
-    "user_display_name": "elena_fn",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46059062061,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "NO TALK ASMR  EARLICKING! ❤️ | !social ❤️ITA/SPA/ENG",
-    "stream_viewer_count": 380,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
-  },
-  {
     "user_id": 475566892,
     "user_login": "shyphoebe",
     "user_display_name": "shyphoebe",
@@ -140,6 +126,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sereda-{width}x{height}.jpg"
   },
   {
+    "user_id": 405208912,
+    "user_login": "gonsabellla",
+    "user_display_name": "gonsabellla",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9194d5c2-aa2d-4be0-a6d7-6ff86b6ad52f-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/349e638b-9dba-4a43-b51f-064e66683709-channel_offline_image-1920x1080.png",
+    "stream_id": 46068211373,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "LUNES DE: REDDIT, ¿Y SI HACEMOS EL PEPINO?/ REACCIÓN VUELTA DE XOKAS/ SEGUIMOS CON EL PORTAL 2/ #RedmiNote11Series #ad",
+    "stream_viewer_count": 10,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
+  },
+  {
     "user_id": 500906914,
     "user_login": "sandraskins",
     "user_display_name": "SandraSkins",
@@ -166,6 +166,20 @@
     "stream_title": "This look on me, or nah??? ;p !socials !discord",
     "stream_viewer_count": 5,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 430642455,
+    "user_login": "kristinemaia",
+    "user_display_name": "kristinemaia",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b0333f0-646c-40ec-9f09-6e5de549eebc-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e70cc6fb-7562-4412-a2c3-056561ecba1a-channel_offline_image-1920x1080.png",
+    "stream_id": 46068175645,
+    "stream_game_id": "509672",
+    "stream_game_name": "Travel & Outdoors",
+    "stream_title": "1 day in Venice ♥️IRL❤️ !nft !tip !socials",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
     "user_id": 254938253,
