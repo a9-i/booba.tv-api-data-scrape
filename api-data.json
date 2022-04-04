@@ -42,20 +42,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
   },
   {
-    "user_id": 237238176,
-    "user_login": "seolyihyeon",
-    "user_display_name": "설이현",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5500685-1002-487c-a6c2-5d54668d7063-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/edbd2b5a-de9d-4429-bb1b-a478a7af66fb-channel_offline_image-1920x1080.png",
-    "stream_id": 46069196093,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❄️공포 넷플릭스 혼자보기 [애나벨]",
-    "stream_viewer_count": 160,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
-  },
-  {
     "user_id": 61974931,
     "user_login": "leynainu",
     "user_display_name": "Leynainu",
@@ -112,6 +98,34 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emmalayne-{width}x{height}.jpg"
   },
   {
+    "user_id": 442650263,
+    "user_login": "tiffy",
+    "user_display_name": "Tiffy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4afe07f9-0143-471b-9ee8-4af4693f05bf-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e38572f3-463a-4004-af8d-8d5da0fe5ad7-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 40688921003,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "♥ Sweet Kitty with big... eyes Licking your Ears! ♥ NO Talking! ♥",
+    "stream_viewer_count": 6,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 234992096,
+    "user_login": "nomadi_",
+    "user_display_name": "Nomadi_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78486807-4b91-4e24-8495-c60b612feeba-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61d20310-3208-4ddf-86d6-4c364113b435-channel_offline_image-1920x1080.png",
+    "stream_id": 45145040124,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "lazy gaming | the void [ENG-RUS]",
+    "stream_viewer_count": 4,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nomadi_-{width}x{height}.jpg"
+  },
+  {
     "user_id": 636755146,
     "user_login": "loreliamia",
     "user_display_name": "loreliamia",
@@ -140,6 +154,34 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evathediiva-{width}x{height}.jpg"
   },
   {
+    "user_id": 155874595,
+    "user_login": "elisabetetv",
+    "user_display_name": "ElisabeteTV",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45144498524,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "0",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 629538285,
+    "user_login": "nickykittyxx",
+    "user_display_name": "nickykittyxx",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc80c7d2-7d51-4db4-b340-9de901f0f95d-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 46071175357,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "new pokemon card packs dancing and chatting today 🖤😶‍🌫️",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickykittyxx-{width}x{height}.jpg"
+  },
+  {
     "user_id": 159239770,
     "user_login": "spoopykitt",
     "user_display_name": "spoopykitt",
@@ -166,20 +208,6 @@
     "stream_title": "Geschichten aus der Frauen Umkleide",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdrkitten-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 499548905,
-    "user_login": "paintedxlady",
-    "user_display_name": "paintedxlady",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ea7bf574-2288-4f84-be46-eb2017a2951a-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46071053821,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "POOL SET UP! !egg !pc",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paintedxlady-{width}x{height}.jpg"
   },
   {
     "user_id": 254938253,
@@ -224,18 +252,18 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firedancer-{width}x{height}.jpg"
   },
   {
-    "user_id": 130447422,
-    "user_login": "alice_marrs",
-    "user_display_name": "alice_marrs",
+    "user_id": 499133068,
+    "user_login": "shulyyyyyy",
+    "user_display_name": "shulyyyyyy",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/86daee62-3345-400b-98ec-96038c0d9fda-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c90db2fa-fb7c-432c-bd00-c8dbc6faf7b6-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39629459257,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/14011d14-6f36-4975-a191-5fee17f0728c-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45144779836,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "your personal dancing cat 🐈 ",
+    "stream_title": "Я сижу и ничего не делаю. И что?  !boosty !links !tg !inst",
     "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alicemarrs-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shulyyyyyy-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -264,33 +292,5 @@
     "stream_title": "MIAMI IRL   | insta: melina.goransson",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 155874595,
-    "user_login": "elisabetetv",
-    "user_display_name": "ElisabeteTV",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae3ca63-510d-4715-b4ce-059dcf938978-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eee20302-39f9-4897-bbed-c58f373cf84b-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45144498524,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "0",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetetv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 629538285,
-    "user_login": "nickykittyxx",
-    "user_display_name": "nickykittyxx",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc80c7d2-7d51-4db4-b340-9de901f0f95d-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46071175357,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "new pokemon card packs dancing and chatting today 🖤😶‍🌫️",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickykittyxx-{width}x{height}.jpg"
   }
 ]
