@@ -140,6 +140,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
+    "user_id": 103397701,
+    "user_login": "varvaria",
+    "user_display_name": "Varvaria",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cbb0127-8384-46ed-8973-d84ba3d1f777-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4d10d91-4629-498c-aa39-9f8c524d20e6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39631641865,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I am Ukrainian and I want PEACE",
+    "stream_viewer_count": 34,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
+  },
+  {
     "user_id": 500906914,
     "user_login": "sandraskins",
     "user_display_name": "SandraSkins",
