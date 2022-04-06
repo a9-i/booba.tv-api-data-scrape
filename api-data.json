@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 197406569,
-    "user_login": "thenicolet",
-    "user_display_name": "TheNicoleT",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a00b3506-870a-4e16-a739-9a2bfd2960c2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1802330-bc9f-43b4-8ce4-1c37d170236b-channel_offline_image-1920x1080.png",
-    "stream_id": 40692713915,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "HBD MELEAH! DRUNK BIRTHDAY STREAM🙂! - Tier 2/3 gets snap !insta",
-    "stream_viewer_count": 1871,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
-  },
-  {
     "user_id": 446325991,
     "user_login": "pekeasmr",
     "user_display_name": "pekeasmr",
@@ -112,20 +98,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
   },
   {
-    "user_id": 609871961,
-    "user_login": "khaleesima",
-    "user_display_name": "Khaleesima",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d22c8ee3-447a-4ee2-b48a-3745b8960dbd-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45156876476,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "(+18) ALMOST 1000 TOTAL HOURS STREAMED!!!",
-    "stream_viewer_count": 143,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_khaleesima-{width}x{height}.jpg"
-  },
-  {
     "user_id": 103397701,
     "user_login": "varvaria",
     "user_display_name": "Varvaria",
@@ -168,20 +140,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nnabi-{width}x{height}.jpg"
   },
   {
-    "user_id": 468738684,
-    "user_login": "angievideos",
-    "user_display_name": "AngieVideos",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c583cf1b-f70d-4183-a818-481aaec294eb-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39ef7288-9af4-4ede-9c2b-8c0b8ae7d2e3-channel_offline_image-1920x1080.png",
-    "stream_id": 45157670892,
-    "stream_game_id": "518379",
-    "stream_game_name": "Pokémon Unite",
-    "stream_title": "+18 | !priv | !paypal | !redes",
-    "stream_viewer_count": 11,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
-  },
-  {
     "user_id": 615620426,
     "user_login": "missvittoria",
     "user_display_name": "missvittoria",
@@ -194,6 +152,20 @@
     "stream_title": "🔥 HOT DANCE! 🔥NEW POST -> !exclusive",
     "stream_viewer_count": 11,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_missvittoria-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 468738684,
+    "user_login": "angievideos",
+    "user_display_name": "AngieVideos",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c583cf1b-f70d-4183-a818-481aaec294eb-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39ef7288-9af4-4ede-9c2b-8c0b8ae7d2e3-channel_offline_image-1920x1080.png",
+    "stream_id": 45157670892,
+    "stream_game_id": "518379",
+    "stream_game_name": "Pokémon Unite",
+    "stream_title": "+18 | !priv | !paypal | !redes",
+    "stream_viewer_count": 11,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
   },
   {
     "user_id": 270759648,
