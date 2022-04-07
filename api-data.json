@@ -56,6 +56,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
   },
   {
+    "user_id": 250502765,
+    "user_login": "mistressmord",
+    "user_display_name": "MistressMord",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
+    "stream_id": 45166890188,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "Arg I'm a Pirate",
+    "stream_viewer_count": 236,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
+  },
+  {
     "user_id": 430642455,
     "user_login": "kristinemaia",
     "user_display_name": "kristinemaia",
@@ -140,6 +154,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
+    "user_id": 469348555,
+    "user_login": "taylor_jevaux",
+    "user_display_name": "Taylor_Jevaux",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a571012-8dc4-41c2-a850-244a33e3b900-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 46098880941,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "🔥STRAPPY COSPLAY BIKINI TRY ON🔥 !socials",
+    "stream_viewer_count": 6,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
+  },
+  {
     "user_id": 68955370,
     "user_login": "kiwichka",
     "user_display_name": "Kiwichka",
@@ -208,5 +236,19 @@
     "stream_title": "오늘은 청순 수련 하이~",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 540809198,
+    "user_login": "shainny_",
+    "user_display_name": "shainny_",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cdaa49b-a8f3-4470-8664-00bb75971848-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 46098968301,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "reacciono a mi videooo🤍",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shainny_-{width}x{height}.jpg"
   }
 ]
