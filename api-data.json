@@ -14,20 +14,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
   },
   {
-    "user_id": 419795496,
-    "user_login": "sooflower",
-    "user_display_name": "수련수련",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
-    "stream_id": 46097611197,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "오늘은 청순 수련 하이~",
-    "stream_viewer_count": 1607,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
-  },
-  {
     "user_id": 455993452,
     "user_login": "sharonqueen",
     "user_display_name": "SharonQueen",
@@ -54,20 +40,6 @@
     "stream_title": "JUEVES DE: TWITCH Y SU PROPUESTA DEL SUBCHALLENGE/ STREAMERS FEMENINAS MÁS VISTAS EN MARZO/ QUIZÁS ALGUN JUEGUTIO",
     "stream_viewer_count": 823,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 500906914,
-    "user_login": "sandraskins",
-    "user_display_name": "SandraSkins",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d8d22b3-a889-4f8e-8437-a217afa7fca8-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7715066-5af8-42d7-8cd2-d82b6c78a031-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45165407756,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "+18| DEFIENDO A LANA ROHADES :v",
-    "stream_viewer_count": 691,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
   },
   {
     "user_id": 155874595,
@@ -168,6 +140,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ashley_merwin-{width}x{height}.jpg"
   },
   {
+    "user_id": 625405963,
+    "user_login": "elena_fn",
+    "user_display_name": "elena_fn",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 40696716619,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "ASMR EARLICKING 4K ❤️ | !social ❤️",
+    "stream_viewer_count": 8,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
+  },
+  {
     "user_id": 103397701,
     "user_login": "varvaria",
     "user_display_name": "Varvaria",
@@ -180,6 +166,20 @@
     "stream_title": "I am from Ukraine and I want PEACE",
     "stream_viewer_count": 6,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 419795496,
+    "user_login": "sooflower",
+    "user_display_name": "수련수련",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
+    "stream_id": 46097932061,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "오늘은 청순 수련 하이~",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
     "user_id": 61335991,
