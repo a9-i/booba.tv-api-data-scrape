@@ -224,6 +224,34 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
   },
   {
+    "user_id": 420015559,
+    "user_login": "basicbimboo",
+    "user_display_name": "BasicBimboo",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5acbae9d-2a67-41e0-9142-025e3f98999a-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45170154396,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🥺😁 VERY WHOLESOME INNOCENT STREAM. ANY REMARKS ABOUT BOOBA (RESPECTFUL OR NOT) WILL NOT BE TOLERATED 😡😠💢| NEW !MERCH !pobox !s !donate",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_basicbimboo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 121602102,
+    "user_login": "stellarztv",
+    "user_display_name": "StellarzTV",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4681dac5-6fdf-432d-ab8d-eabc55949d3a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/825adccc-9b86-43a9-af6e-642fbd8f6f14-channel_offline_image-1920x1080.png",
+    "stream_id": 40697847515,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "(UK/Latina) TIRED TIRED TIRED",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stellarztv-{width}x{height}.jpg"
+  },
+  {
     "user_id": 257140862,
     "user_login": "karna",
     "user_display_name": "Karna",
