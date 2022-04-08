@@ -98,20 +98,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
   },
   {
-    "user_id": 74707525,
-    "user_login": "denver_maxx",
-    "user_display_name": "denver_maxx",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/454e81af-4b2b-4381-ba69-c74dc0a7d3a9-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b0d5b60-a4e7-4d5d-9d6b-be602156aa0b-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 46105413229,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "New Hair... Who Dis??!  ~ !social ~ !snapchat ~ !merch ~ **WARNING** Flashing Lights",
-    "stream_viewer_count": 1,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_denver_maxx-{width}x{height}.jpg"
-  },
-  {
     "user_id": 173319589,
     "user_login": "jjolbi1987",
     "user_display_name": "쫄비",
@@ -124,6 +110,20 @@
     "stream_title": "트수가 몰 알아 1🎀 !메뉴 20220408",
     "stream_viewer_count": 1,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jjolbi1987-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 430642455,
+    "user_login": "kristinemaia",
+    "user_display_name": "kristinemaia",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b0333f0-646c-40ec-9f09-6e5de549eebc-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e70cc6fb-7562-4412-a2c3-056561ecba1a-channel_offline_image-1920x1080.png",
+    "stream_id": 46106913021,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Friday party !!!❤️ !nft !tip !socials",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
     "user_id": 592410758,
