@@ -252,20 +252,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
-    "user_id": 112907244,
-    "user_login": "anastasia_lexmur",
-    "user_display_name": "Anastasia_Lexmur",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46109599869,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG] YOGA INBED WITH ME 💚for support use donationalerts pls☺️ !links !sub !ig",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
-  },
-  {
     "user_id": 252393390,
     "user_login": "imviolet_",
     "user_display_name": "imviolet_",
@@ -334,5 +320,19 @@
     "stream_title": "east coast IRL (RVA) | !links !twitter !reddit",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 596486414,
+    "user_login": "itsclaraduh",
+    "user_display_name": "itsclaraduh",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d3a4f01-292d-4104-86b5-d37ea16e9648-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45176506972,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "🎈🎉I'm Back! 100k Celebration Subathon!!!🎉🎈!socials !alerts",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsclaraduh-{width}x{height}.jpg"
   }
 ]
