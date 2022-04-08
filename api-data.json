@@ -84,6 +84,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
   },
   {
+    "user_id": 432777353,
+    "user_login": "fit_chick_amy",
+    "user_display_name": "fit_chick_amy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/511c7966-3148-4085-a0be-686d9ce7a6df-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39640341113,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "LIVE YOGA... ASMR LATER",
+    "stream_viewer_count": 10,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fit_chick_amy-{width}x{height}.jpg"
+  },
+  {
     "user_id": 625405963,
     "user_login": "elena_fn",
     "user_display_name": "elena_fn",
@@ -124,6 +138,34 @@
     "stream_title": "트수가 몰 알아 1🎀 !메뉴 20220408",
     "stream_viewer_count": 1,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jjolbi1987-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 468738684,
+    "user_login": "angievideos",
+    "user_display_name": "AngieVideos",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c583cf1b-f70d-4183-a818-481aaec294eb-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/39ef7288-9af4-4ede-9c2b-8c0b8ae7d2e3-channel_offline_image-1920x1080.png",
+    "stream_id": 45173984444,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "+18 Roba Kills  | !priv | !paypal | !redes",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angievideos-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 270759648,
+    "user_login": "ju10506",
+    "user_display_name": "총야_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/84aedd8c-6dab-4295-ade7-1c2efdbd4da8-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c376171-6947-4940-923e-c2057d9f6f92-channel_offline_image-1920x1080.png",
+    "stream_id": 46107309885,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "En/kr💕99금 ㅗㅜㅑ...꿀벌 벌침?💕",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ju10506-{width}x{height}.jpg"
   },
   {
     "user_id": 125387632,
@@ -180,5 +222,19 @@
     "stream_title": "❤️ LIVE ❤️ SOFT EAR LICKING ASMR ❤️ !s",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 252665155,
+    "user_login": "nnabi",
+    "user_display_name": "연나비님",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec949373-7065-423c-afad-08f9504c8034-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/034e2fe4-c818-4734-a8f1-077bb7e0c0d4-channel_offline_image-1920x1080.png",
+    "stream_id": 46107379229,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "DSLR 모드",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nnabi-{width}x{height}.jpg"
   }
 ]
