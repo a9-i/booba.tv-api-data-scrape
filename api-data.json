@@ -84,18 +84,32 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_twictoriches-{width}x{height}.jpg"
   },
   {
-    "user_id": 625405963,
-    "user_login": "elena_fn",
-    "user_display_name": "elena_fn",
+    "user_id": 184309664,
+    "user_login": "foxperry",
+    "user_display_name": "Foxperry",
     "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/277a8a73-d8bd-4afe-aa2c-f86ae2376807-profile_image-300x300.png",
     "user_offline_image_url": "",
-    "stream_id": 40696716619,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "ASMR EARLICKING 4K ❤️ | !social ❤️",
-    "stream_viewer_count": 8,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
+    "stream_id": 45177189052,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "drawing and chatting [en|ru]",
+    "stream_viewer_count": 9,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxperry-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 103200399,
+    "user_login": "rainnie_bunny",
+    "user_display_name": "Rainnie_Bunny",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbdd46fc-3768-47c1-aabe-2133694892f9-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45176996076,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "hi",
+    "stream_viewer_count": 5,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rainnie_bunny-{width}x{height}.jpg"
   },
   {
     "user_id": 68955370,
@@ -224,20 +238,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
-    "user_id": 430642455,
-    "user_login": "kristinemaia",
-    "user_display_name": "kristinemaia",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b0333f0-646c-40ec-9f09-6e5de549eebc-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e70cc6fb-7562-4412-a2c3-056561ecba1a-channel_offline_image-1920x1080.png",
-    "stream_id": 46109387357,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Friday Cooking❤️ !nft !tip !socials",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
-  },
-  {
     "user_id": 252393390,
     "user_login": "imviolet_",
     "user_display_name": "imviolet_",
@@ -348,5 +348,47 @@
     "stream_title": "Suns Out Buns Out  ~ !social ~ !snapchat ~ !merch ~ **WARNING** Flashing Lights",
     "stream_viewer_count": 0,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_denver_maxx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 195326003,
+    "user_login": "meowko",
+    "user_display_name": "Meowko",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a708469-e259-46f3-8705-49c67a406e4d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7647aa5-f195-4ccf-8f32-f63ffaa795f6-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39270504488,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[JP/EN] Short Testo🧡 !Patreon !links !VODs",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meowko-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 629538285,
+    "user_login": "nickykittyxx",
+    "user_display_name": "nickykittyxx",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b82d5a7-df39-4ac1-a899-e7a554be3f09-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 46110640813,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "BEACHHHH 🌊🤍",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickykittyxx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 124069501,
+    "user_login": "emmalayne",
+    "user_display_name": "EmmaLayne",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8702a24e-5d97-4d59-9b6c-01ba8b56c6ec-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/421d5632-0955-4937-adc1-8cac52a1a070-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 46110648557,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🍑 Workout/Yoga !socials",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emmalayne-{width}x{height}.jpg"
   }
 ]
