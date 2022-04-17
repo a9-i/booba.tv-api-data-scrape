@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 409624608,
-    "user_login": "melina",
-    "user_display_name": "melina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 45243927436,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "last day for leia! going to new york city tomorrow 🗽 | insta: melina.goransson",
-    "stream_viewer_count": 4742,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
-  },
-  {
     "user_id": 544502795,
     "user_login": "ibabyrainbow",
     "user_display_name": "ibabyrainbow",
@@ -24,8 +10,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "24 HOUR STREAM",
-    "stream_viewer_count": 3275,
+    "stream_viewer_count": 3472,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 429057703,
+    "user_login": "bekamalaika",
+    "user_display_name": "BekaMalaika",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f9c7afb-1e23-4c18-8416-1940cc8954c2-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fae6c78-2b0a-47d2-be24-cfdcd5649966-channel_offline_image-1920x1080.png",
+    "stream_id": 45244251164,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "Your BUNNY XOXO 🐰 Easter cosplay 🤍 !s !commands !tiktok #bekamalaika",
+    "stream_viewer_count": 3432,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bekamalaika-{width}x{height}.jpg"
   },
   {
     "user_id": 61974931,
@@ -38,7 +38,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋DOUBLE D'IO EAR LICKS💋/ !Youtube / !social = all my Social Media",
-    "stream_viewer_count": 2709,
+    "stream_viewer_count": 2884,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leynainu-{width}x{height}.jpg"
   },
   {
@@ -52,22 +52,36 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE ASMR BUNNYGIRL SENPAI TINGLES U ❤️👅 !S for Links ❤️   | EN + FR | New Video !YT",
-    "stream_viewer_count": 2473,
+    "stream_viewer_count": 2501,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
-    "user_id": 429057703,
-    "user_login": "bekamalaika",
-    "user_display_name": "BekaMalaika",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f9c7afb-1e23-4c18-8416-1940cc8954c2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fae6c78-2b0a-47d2-be24-cfdcd5649966-channel_offline_image-1920x1080.png",
-    "stream_id": 45244251164,
+    "user_id": 409624608,
+    "user_login": "melina",
+    "user_display_name": "melina",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 45245207788,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "last day for leia! going to new york city tomorrow 🗽 | insta: melina.goransson",
+    "stream_viewer_count": 2015,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 455993452,
+    "user_login": "sharonqueen",
+    "user_display_name": "SharonQueen",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1cf4264-36f8-44f6-864e-bc82081da739-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/414785ad-7ce5-40a3-9621-138181a60245-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39293146904,
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
-    "stream_title": "Your BUNNY XOXO 🐰 Easter cosplay 🤍 !s !commands !tiktok #bekamalaika",
-    "stream_viewer_count": 2075,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bekamalaika-{width}x{height}.jpg"
+    "stream_title": "UwU 18+ ⚠️🔴👋  !web !king !tiktok  !newvid ( !youtube !gifters !topDono ) #anime #uwu #cosplay #senpai",
+    "stream_viewer_count": 987,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -80,22 +94,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE💜 !tattoo !s !socials !rules !youtube !instagram !about #english #cutegirl",
-    "stream_viewer_count": 962,
+    "stream_viewer_count": 950,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 455993452,
-    "user_login": "sharonqueen",
-    "user_display_name": "SharonQueen",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1cf4264-36f8-44f6-864e-bc82081da739-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/414785ad-7ce5-40a3-9621-138181a60245-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39293146904,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "Live UwU 18+ ⚠️🔴👋  !web !king !tiktok  !newvid ( !youtube !gifters !topDono ) #anime #uwu #cosplay #senpai",
-    "stream_viewer_count": 922,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
     "user_id": 252393390,
@@ -105,10 +105,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1332bdaf-b3da-4a22-bcba-72aa139317f5-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20afe8a1-3536-49cc-99b2-8bbc3c4b417e-channel_offline_image-1920x1080.png",
     "stream_id": 46198180877,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "SBAN PASQUALI 🤬 !foto",
-    "stream_viewer_count": 728,
+    "stream_game_id": "512710",
+    "stream_game_name": "Call of Duty: Warzone",
+    "stream_title": "WARZONATA BOLLENTE 🤬 !foto",
+    "stream_viewer_count": 783,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imviolet_-{width}x{height}.jpg"
   },
   {
@@ -122,22 +122,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "Bikini Bunny 🐰 Happy Easter !socials",
-    "stream_viewer_count": 546,
+    "stream_viewer_count": 615,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_emmalayne-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 625405963,
-    "user_login": "elena_fn",
-    "user_display_name": "elena_fn",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46197687021,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "ASMR EARLICKING NO TALK ❤️ | !social ❤️",
-    "stream_viewer_count": 466,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
   },
   {
     "user_id": 126380745,
@@ -150,8 +136,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "2 Bunnies One Tub 🐰💦 !links !guest",
-    "stream_viewer_count": 428,
+    "stream_viewer_count": 610,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livstixs-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 625405963,
+    "user_login": "elena_fn",
+    "user_display_name": "elena_fn",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ea103ae-8c15-4a22-9528-9f56dcfd06eb-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 46197687021,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "ASMR EARLICKING NO TALK ❤️ | !social ❤️",
+    "stream_viewer_count": 424,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elena_fn-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -164,7 +164,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🍑🍌⏰️DAY 5 UNCAPPED SUBATHON | 100 bit TTS  | !subathon !subgoals !subuptime !socials !squats",
-    "stream_viewer_count": 364,
+    "stream_viewer_count": 421,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
   },
   {
@@ -178,64 +178,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "earlicks UwU :3 ❤️ !s !discord !youtube ❤️ RR",
-    "stream_viewer_count": 278,
+    "stream_viewer_count": 254,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 149461209,
-    "user_login": "bunlord666",
-    "user_display_name": "bunlord666",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a49ca01e-0478-4370-9db3-415a16dfb2f3-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39293480248,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "18+ ♡ Ear Licks & Soft Sighs ♡ Rerun Be back Sunday evening :3 ily 🐰💦 !S !YT !sub",
-    "stream_viewer_count": 273,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnydollxo-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 568694723,
-    "user_login": "candycatcris",
-    "user_display_name": "candycatcris",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/64994cb9-cbdd-423f-8294-ed48681042aa-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0f0888-2672-437c-83b1-98edc72e550e-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 39295683400,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "!king !dan dancin my 🍑  offfff",
-    "stream_viewer_count": 242,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_candycatcris-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 628967771,
-    "user_login": "chickenwingcandy",
-    "user_display_name": "ChickenWingCandy",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45242326188,
-    "stream_game_id": "512953",
-    "stream_game_name": "Elden Ring",
-    "stream_title": "Happy Rabbit laying eggs day!  !linktree !size !sr",
-    "stream_viewer_count": 220,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 442650263,
-    "user_login": "tiffy",
-    "user_display_name": "Tiffy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4afe07f9-0143-471b-9ee8-4af4693f05bf-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e38572f3-463a-4004-af8d-8d5da0fe5ad7-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40725881259,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "♥ Lewd Librarian Licks You.. on the Ears! ♥ NO talking! ♥",
-    "stream_viewer_count": 218,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
   },
   {
     "user_id": 420015559,
@@ -248,8 +192,64 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🐰EVIL BUNNY WANTS TO CORRUPT U ON EASTER 😈🐇 1 SUB = 1 EGG POGGERS WOWE | NEW !ig | !pobox !s !donate",
-    "stream_viewer_count": 210,
+    "stream_viewer_count": 252,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_basicbimboo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 628967771,
+    "user_login": "chickenwingcandy",
+    "user_display_name": "ChickenWingCandy",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce43a79d-5616-44ec-ad8c-0a410b45fced-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d60703ed-71f9-425d-968b-231400c2bcb0-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45242326188,
+    "stream_game_id": "512953",
+    "stream_game_name": "Elden Ring",
+    "stream_title": "Happy Rabbit laying eggs day!  !linktree !size !sr",
+    "stream_viewer_count": 240,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 149461209,
+    "user_login": "bunlord666",
+    "user_display_name": "bunlord666",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a49ca01e-0478-4370-9db3-415a16dfb2f3-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39293480248,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "18+ ♡ Ear Licks & Soft Sighs ♡ Rerun Be back Sunday evening :3 ily 🐰💦 !S !YT !sub",
+    "stream_viewer_count": 235,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnydollxo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 442650263,
+    "user_login": "tiffy",
+    "user_display_name": "Tiffy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4afe07f9-0143-471b-9ee8-4af4693f05bf-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e38572f3-463a-4004-af8d-8d5da0fe5ad7-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 40725881259,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "♥ Lewd Librarian Licks You.. on the Ears! ♥ NO talking! ♥",
+    "stream_viewer_count": 207,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 152762898,
+    "user_login": "kristinadaniellexo",
+    "user_display_name": "kristinadaniellexo",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b09ee29-cfc1-4aee-bda3-23b6c462dfbe-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 39665595017,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "😈🔴18+ HOTTEST licks on twitch 💦 !socials !yt !RR",
+    "stream_viewer_count": 199,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
   },
   {
     "user_id": 475566892,
@@ -262,7 +262,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❤️ BUNNY GIRL SENPAI LICKS YOUR EARS ❤️ !s !rr",
-    "stream_viewer_count": 184,
+    "stream_viewer_count": 190,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   },
   {
@@ -276,7 +276,7 @@
     "stream_game_id": "490292",
     "stream_game_name": "Dark Souls III",
     "stream_title": "Day 4 DEATHLESS PB: 6💕!s !socials !help !d",
-    "stream_viewer_count": 140,
+    "stream_viewer_count": 143,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivanahyde-{width}x{height}.jpg"
   },
   {
@@ -290,22 +290,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🍑💦Random Trash Like Me and !fairymeg 🍑💦",
-    "stream_viewer_count": 67,
+    "stream_viewer_count": 78,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 429614703,
-    "user_login": "rhinospiritx",
-    "user_display_name": "RhinoSpiritX",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/323ef189-a787-4a00-8d46-bf3d2deb2cb0-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c9f6efa-a298-4fcb-b07a-eb19e4723c12-channel_offline_image-1920x1080.png",
-    "stream_id": 45234843692,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "ASMR ear licking eye contact girlfriend roleplay ❤️ TikTok: RhinoSpirit ❤️ Subs get !snapchat | !S !YouTube",
-    "stream_viewer_count": 35,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
     "user_id": 121602102,
@@ -318,7 +304,21 @@
     "stream_game_id": "21779",
     "stream_game_name": "League of Legends",
     "stream_title": "(UK/Latina) Shorty Easter Stream🐰",
-    "stream_viewer_count": 20,
+    "stream_viewer_count": 49,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stellarztv-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 429614703,
+    "user_login": "rhinospiritx",
+    "user_display_name": "RhinoSpiritX",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/323ef189-a787-4a00-8d46-bf3d2deb2cb0-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c9f6efa-a298-4fcb-b07a-eb19e4723c12-channel_offline_image-1920x1080.png",
+    "stream_id": 45234843692,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "ASMR ear licking eye contact girlfriend roleplay ❤️ TikTok: RhinoSpirit ❤️ Subs get !snapchat | !S !YouTube",
+    "stream_viewer_count": 32,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   }
 ]
