@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 419795496,
-    "user_login": "sooflower",
-    "user_display_name": "수련수련",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
-    "stream_id": 39292865767,
-    "stream_game_id": "511554",
-    "stream_game_name": "Arknights",
-    "stream_title": "(광고)명일방주 대규모 업데이트+니어 수영복 코스프레 대공개!",
-    "stream_viewer_count": 1243,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
-  },
-  {
     "user_id": 252665155,
     "user_login": "nnabi",
     "user_display_name": "연나비님",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "비키니 커스터마이징 룩 BIKINI CUSTOMIZING LOOK♡",
-    "stream_viewer_count": 1239,
+    "stream_viewer_count": 2088,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nnabi-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 419795496,
+    "user_login": "sooflower",
+    "user_display_name": "수련수련",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a27144c9-0c62-46e4-a7a8-9b51b394567a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/555794f4-d95a-4306-a9f8-42979702c40b-channel_offline_image-1920x1080.png",
+    "stream_id": 39292865767,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "명일방주 니어 코스프레",
+    "stream_viewer_count": 1172,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sooflower-{width}x{height}.jpg"
   },
   {
     "user_id": 168251674,
@@ -38,22 +38,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "I want to dance a little, I wish you a good mood! 😉",
-    "stream_viewer_count": 831,
+    "stream_viewer_count": 601,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gavrilka-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 475566892,
-    "user_login": "shyphoebe",
-    "user_display_name": "shyphoebe",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/01104eb3-0fea-4889-842e-1b43c4f97f36-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31333dd3-75e3-49f1-9df2-a04b8484df31-channel_offline_image-1920x1080.png",
-    "stream_id": 45311978476,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "❤️BRACES EAR LICKING ASMR ❤️ !s !rr",
-    "stream_viewer_count": 546,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   },
   {
     "user_id": 551906487,
@@ -66,8 +52,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❤️👅EAR EATING ASMR!💋 ยินดีต้อนรับค่ะ!🔥 !s for links👅",
-    "stream_viewer_count": 200,
+    "stream_viewer_count": 564,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 475566892,
+    "user_login": "shyphoebe",
+    "user_display_name": "shyphoebe",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/01104eb3-0fea-4889-842e-1b43c4f97f36-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31333dd3-75e3-49f1-9df2-a04b8484df31-channel_offline_image-1920x1080.png",
+    "stream_id": 45311978476,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "❤️BRACES EAR LICKING ASMR ❤️ !s !rr",
+    "stream_viewer_count": 452,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -80,22 +80,8 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "🍑🍌⏰ ROAD TO 3K SUBS [24/7 EGIRL] ️DAY 18 UNCAPPED SUBATHON | !subathon !subgoals !subuptime !socials !squats",
-    "stream_viewer_count": 198,
+    "stream_viewer_count": 155,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 430642455,
-    "user_login": "kristinemaia",
-    "user_display_name": "kristinemaia",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b0333f0-646c-40ec-9f09-6e5de549eebc-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e70cc6fb-7562-4412-a2c3-056561ecba1a-channel_offline_image-1920x1080.png",
-    "stream_id": 39347305048,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Morning Coffe ❤️ !nft !tip !socials",
-    "stream_viewer_count": 169,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
     "user_id": 618717196,
@@ -108,7 +94,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "❤❤ I missed you sooo much!!! ❤❤ | --> !s !content",
-    "stream_viewer_count": 42,
+    "stream_viewer_count": 31,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xjosyblackx-{width}x{height}.jpg"
   }
 ]
