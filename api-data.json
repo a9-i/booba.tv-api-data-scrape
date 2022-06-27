@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 161737008,
-    "user_login": "kyootbot",
-    "user_display_name": "kyootbot",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/21d3db3d-4dab-445c-92f7-b0bf474076c6-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9029db2-3ecf-4ac4-968c-54e6de4cee80-channel_offline_image-1920x1080.png",
-    "stream_id": 46692296509,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "♥ SPEED DATING VIEWERS ♥ | ♥ NOT IMPRESSED = KICK ♥ | ♥ dont be offended LOL ♥ | CHAT WILL RATE YOU! | !join ♥ !merch",
-    "stream_viewer_count": 6258,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyootbot-{width}x{height}.jpg"
-  },
-  {
     "user_id": 446325991,
     "user_login": "pekeasmr",
     "user_display_name": "pekeasmr",
@@ -38,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "18+ UwU ⚠️🔴👋 !S !king !newvid !tiktok ( !youtube !gifters !topDono ) #anime #uwu #cosplay #senpai -rr",
-    "stream_viewer_count": 1264,
+    "stream_viewer_count": 1242,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
@@ -49,10 +35,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fa1248a-7690-486f-893c-6ef97a52f5ca-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
     "stream_id": 45664298988,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔴vestida de GÓTICA porque lo CUL0NA lo tengo siempre 😈",
-    "stream_viewer_count": 894,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "!RR asmr PROXIMO STREAM MARTES A LAS 8AM (MIRA CONTADOR)",
+    "stream_viewer_count": 1078,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -66,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "+18| 1 Bit = PERREO UVA BOM BOM :b",
-    "stream_viewer_count": 822,
+    "stream_viewer_count": 825,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
   },
   {
@@ -80,22 +66,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "rr💜 !tattoo !s !socials !rules !youtube !instagram !about #english #cutegirl",
-    "stream_viewer_count": 736,
+    "stream_viewer_count": 731,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 551906487,
-    "user_login": "whitespaa",
-    "user_display_name": "WhiteSpaa",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6846d3b-1a13-456a-ad1f-f95962451914-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/18ad7a55-2385-45d4-bdf0-463b1f8b4c62-channel_offline_image-1920x1080.png",
-    "stream_id": 39440643079,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "🔥👅ASMR times!💋Chill here with me! !s for links",
-    "stream_viewer_count": 417,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -108,8 +80,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE ASMR ^_^ 🖤 !s !discord !youtube 🖤",
-    "stream_viewer_count": 410,
+    "stream_viewer_count": 389,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 551906487,
+    "user_login": "whitespaa",
+    "user_display_name": "WhiteSpaa",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6846d3b-1a13-456a-ad1f-f95962451914-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/18ad7a55-2385-45d4-bdf0-463b1f8b4c62-channel_offline_image-1920x1080.png",
+    "stream_id": 39442242903,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "🔥👅ASMR times!💋Chill here with me! !s for links",
+    "stream_viewer_count": 236,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -122,7 +108,7 @@
     "stream_game_id": "515467",
     "stream_game_name": "Watch Parties",
     "stream_title": "WOLF OF WALLSTREET 🍑👉 type !socials in chat | DAY 76 SUBATHON",
-    "stream_viewer_count": 201,
+    "stream_viewer_count": 192,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
   },
   {
@@ -136,7 +122,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❤️ CUTE BRACES ASMR ❤️ !s !rr",
-    "stream_viewer_count": 152,
+    "stream_viewer_count": 142,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyphoebe-{width}x{height}.jpg"
   },
   {
@@ -150,7 +136,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "Say whats up! !! !deck !selfie !cashapp !venmo",
-    "stream_viewer_count": 56,
+    "stream_viewer_count": 71,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tatumleaminx-{width}x{height}.jpg"
   },
   {
@@ -164,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💜ASMR 🌺🌙 your girlfriend here to help you relax ✨",
-    "stream_viewer_count": 24,
+    "stream_viewer_count": 22,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
