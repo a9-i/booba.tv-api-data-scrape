@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 457124238,
-    "user_login": "adrianachechik_",
-    "user_display_name": "AdrianaChechik_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
-    "stream_id": 41258081243,
-    "stream_game_id": "459064",
-    "stream_game_name": "Cuphead",
-    "stream_title": "Sekiro & Wine | No backseating | PS5",
-    "stream_viewer_count": 3009,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
-  },
-  {
     "user_id": 446325991,
     "user_login": "pekeasmr",
     "user_display_name": "pekeasmr",
@@ -24,7 +10,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔴LIVE IM BACK UFF (EN/ES) 👅LICK OR KISSES?💋👂🏻 !S !PRIME = SUB FREE* 💦 !SEPTEMBER",
-    "stream_viewer_count": 1350,
+    "stream_viewer_count": 1632,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "!RR ASMR de tu novia",
-    "stream_viewer_count": 1247,
+    "stream_viewer_count": 1178,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR 👅❤️ ASMR LOVE AND TINGLES❤️👅NEW MICS! !S for Links ❤️   | EN + FR | New Video !YT",
-    "stream_viewer_count": 900,
+    "stream_viewer_count": 847,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -66,8 +52,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "+18| 1 BIT = PERREO pa q me baneen uwu... es joda no seas gil pa :v",
-    "stream_viewer_count": 757,
+    "stream_viewer_count": 756,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 89791124,
+    "user_login": "leah_ayame",
+    "user_display_name": "Leah_Ayame",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 47138696157,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "💦 Early Stream!! 30% off Subs 💦 !socials !discord",
+    "stream_viewer_count": 650,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -80,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💜 !s !donate !socials !rules !yt !instagram !socials !about #english #cutegirl",
-    "stream_viewer_count": 680,
+    "stream_viewer_count": 644,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -94,36 +94,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔴Papi 18+ ⚠️🔴👋 !S !king !newvid  !SUBtember ( !youtube !gifters !topDono !biters ) #anime #uwu #cosplay #senpai -rr",
-    "stream_viewer_count": 601,
+    "stream_viewer_count": 575,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 89791124,
-    "user_login": "leah_ayame",
-    "user_display_name": "Leah_Ayame",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69124f0e-d087-49cd-af3d-a07a36abe3e7-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 47138696157,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "💦 Early Stream!! 30% off Subs 💦 !socials !discord",
-    "stream_viewer_count": 505,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 593860034,
-    "user_login": "thewildlatina",
-    "user_display_name": "thewildlatina",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61fdf01c-29fa-40af-a521-9ce4ea5c15ed-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 40203924473,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💕TRUTH OR DRINK (30% OFF SUBS) 🌶 !truth !socials !wishlist",
-    "stream_viewer_count": 404,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
     "user_id": 551906487,
@@ -136,7 +108,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋ASMR Be back soon XD!💋 !s for links !RR",
-    "stream_viewer_count": 265,
+    "stream_viewer_count": 273,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   },
   {
@@ -150,64 +122,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "relaxing ASMR🖤rerun !s for links !discord !youtube 🖤",
-    "stream_viewer_count": 209,
+    "stream_viewer_count": 224,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
-    "user_id": 10180554,
-    "user_login": "victorias",
-    "user_display_name": "Victorias",
+    "user_id": 430642455,
+    "user_login": "kristinemaia",
+    "user_display_name": "kristinemaia",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7abf2d7-b1dd-4b2d-be7f-2a6a253b5a3b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3148712-8f0d-4d28-a7a8-fa189e727da2-channel_offline_image-1920x1080.png",
-    "stream_id": 41254193803,
-    "stream_game_id": "498592",
-    "stream_game_name": "I'm Only Sleeping",
-    "stream_title": "CAN YOU KEEP IT UP?  💙 DISNEY IN THE AM 🐶 30% OFF SUBS 👋 !tiktok 🔥 👉 type !socials in chat",
-    "stream_viewer_count": 157,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victorias-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 609871961,
-    "user_login": "khaleesima",
-    "user_display_name": "Khaleesima",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d22c8ee3-447a-4ee2-b48a-3745b8960dbd-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 40204124121,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "SUBtember HYPE! !discord",
-    "stream_viewer_count": 102,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_khaleesima-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 672383285,
-    "user_login": "tatumleaminx",
-    "user_display_name": "tatumleaminx",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/09b876db-d3e7-4c31-9143-762656cb9878-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 47139765053,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b0333f0-646c-40ec-9f09-6e5de549eebc-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e70cc6fb-7562-4412-a2c3-056561ecba1a-channel_offline_image-1920x1080.png",
+    "stream_id": 39822599816,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "did I tattoo my eye?!?! $$ off subs for subtember!...  !tip !selfie !cashapp !venmo",
-    "stream_viewer_count": 36,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tatumleaminx-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 248397748,
-    "user_login": "crystalgcool",
-    "user_display_name": "crystalgcool",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/776d4d12-d410-4edc-8c3b-1912a4b34340-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 41258914283,
-    "stream_game_id": "1515862749",
-    "stream_game_name": "Disney Dreamlight Valley",
-    "stream_title": "♡ YOUR FAV DISNEY PRINCESS ♡ CHILL W ME !raid #ad !s -> all my socials",
-    "stream_viewer_count": 36,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crystalgcool-{width}x{height}.jpg"
+    "stream_title": "Yoga time with ali 💕💕💕!socials !nft !tip",
+    "stream_viewer_count": 107,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
     "user_id": 567652081,
@@ -220,7 +150,35 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "up late getting stoned | 420 SESH | !links !reddit !twitter !delta",
-    "stream_viewer_count": 16,
+    "stream_viewer_count": 65,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickensoup4the-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 248397748,
+    "user_login": "crystalgcool",
+    "user_display_name": "crystalgcool",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/776d4d12-d410-4edc-8c3b-1912a4b34340-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 41258914283,
+    "stream_game_id": "1515862749",
+    "stream_game_name": "Disney Dreamlight Valley",
+    "stream_title": "♡ YOUR FAV DISNEY PRINCESS ♡ CHILL W ME !raid #ad !s -> all my socials",
+    "stream_viewer_count": 38,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crystalgcool-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 672383285,
+    "user_login": "tatumleaminx",
+    "user_display_name": "tatumleaminx",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/09b876db-d3e7-4c31-9143-762656cb9878-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 47139765053,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "did I tattoo my eye?!?! $$ off subs for subtember!...  !tip !selfie !cashapp !venmo",
+    "stream_viewer_count": 38,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tatumleaminx-{width}x{height}.jpg"
   }
 ]
