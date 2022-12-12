@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 430551896,
-    "user_login": "kdrkitten",
-    "user_display_name": "KDRkitten",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/43a09c05-e3b1-4cf8-8dfc-e4a7fc27f140-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1241b258-f383-4ba4-bba2-1a0b94381f80-channel_offline_image-1920x1080.png",
-    "stream_id": 39305177573,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Du hast da was zwischen den Zähnen  | !Holzkern !waterdrop !gfn",
-    "stream_viewer_count": 1620,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdrkitten-{width}x{height}.jpg"
-  },
-  {
     "user_id": 409624608,
     "user_login": "melina",
     "user_display_name": "melina",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "last stream in this place  !linktree | INSTAGRAM: melina.goransson",
-    "stream_viewer_count": 1456,
+    "stream_viewer_count": 2634,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 430551896,
+    "user_login": "kdrkitten",
+    "user_display_name": "KDRkitten",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/43a09c05-e3b1-4cf8-8dfc-e4a7fc27f140-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1241b258-f383-4ba4-bba2-1a0b94381f80-channel_offline_image-1920x1080.png",
+    "stream_id": 39305177573,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Du hast da was zwischen den Zähnen  | !Holzkern !waterdrop !gfn",
+    "stream_viewer_count": 1573,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdrkitten-{width}x{height}.jpg"
   },
   {
     "user_id": 536906710,
@@ -38,7 +38,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "!rr ASMR LOVELY/ DE CARIÑO Y CUIDADO PERSONAL",
-    "stream_viewer_count": 792,
+    "stream_viewer_count": 761,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Back home❤️ !boosty",
-    "stream_viewer_count": 249,
+    "stream_viewer_count": 327,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_panterochka_-{width}x{height}.jpg"
   },
   {
@@ -66,7 +66,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌙 uwu onii-chan licking 💜 !exclusive !socials !YouTube ~ uwu, mouth sounds, ASMR",
-    "stream_viewer_count": 32,
+    "stream_viewer_count": 38,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 525495244,
+    "user_login": "marinamamede",
+    "user_display_name": "MarinaMamede",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5883d35b-37eb-4335-95a5-9604dd15ea78-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fa36442-b62c-447b-a3d2-b5487f9e3599-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 40613813241,
+    "stream_game_id": "509663",
+    "stream_game_name": "Special Events",
+    "stream_title": "DIPLOMAÇÃO DO LULA",
+    "stream_viewer_count": 30,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marinamamede-{width}x{height}.jpg"
   }
 ]
