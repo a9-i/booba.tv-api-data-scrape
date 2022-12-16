@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 130784874,
-    "user_login": "evaanna",
-    "user_display_name": "evaanna",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1eab6a5-72b6-42e1-8223-55d1c713cbb2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9a6c4e9-7ec7-4b4f-a5c1-9817fd974cf5-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40184289496,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔥HOT COSPLAY BIKINI🍑 type !s - my social media",
-    "stream_viewer_count": 2480,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evaanna-{width}x{height}.jpg"
-  },
-  {
     "user_id": 61335991,
     "user_login": "kiaraakitty",
     "user_display_name": "Kiaraakitty",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "DANCING FOR MESSI 奶妹为你跳舞",
-    "stream_viewer_count": 1603,
+    "stream_viewer_count": 1839,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiaraakitty-{width}x{height}.jpg"
   },
   {
@@ -38,8 +24,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "!RR ASMR, I TAKE CARE OF YOU <3 VEN A QUE TE CUIDE BB",
-    "stream_viewer_count": 1026,
+    "stream_viewer_count": 1112,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 430551896,
+    "user_login": "kdrkitten",
+    "user_display_name": "KDRkitten",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/43a09c05-e3b1-4cf8-8dfc-e4a7fc27f140-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1241b258-f383-4ba4-bba2-1a0b94381f80-channel_offline_image-1920x1080.png",
+    "stream_id": 40184915016,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Merry Chrims, der Oberkek ist zurück| !Holzkern !waterdrop !gfn",
+    "stream_viewer_count": 625,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdrkitten-{width}x{height}.jpg"
   },
   {
     "user_id": 89791124,
@@ -52,7 +52,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦LIVE💦!!! Come Wake Up With Me ;p !socials !discord !wishlist",
-    "stream_viewer_count": 500,
+    "stream_viewer_count": 520,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leah_ayame-{width}x{height}.jpg"
   },
   {
@@ -66,22 +66,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "LET’S CHILL ❤️ !donate !wishlist !discord",
-    "stream_viewer_count": 316,
+    "stream_viewer_count": 304,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 625450498,
-    "user_login": "fitonastya",
-    "user_display_name": "FitoNastya",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f62aa677-c5fa-443a-83ec-50fc8b33c2b2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/caabd5b7-312c-4880-9279-5a839cf5d9de-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40184007912,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[RU|EN]  Chat, we have to talk ❤ 🔥💥 !boosty",
-    "stream_viewer_count": 108,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fitonastya-{width}x{height}.jpg"
   },
   {
     "user_id": 407496462,
@@ -94,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "RERUN| !socials|",
-    "stream_viewer_count": 64,
+    "stream_viewer_count": 69,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   },
   {
@@ -110,5 +96,19 @@
     "stream_title": "🌙 uwu onii-chan licking 💜 !exclusive !socials !YouTube ~ uwu, mouth sounds, ASMR",
     "stream_viewer_count": 24,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 96940137,
+    "user_login": "mizzy",
+    "user_display_name": "Mizzy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc221714-68e9-4904-8c12-528bbeb5e03e-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 41615813339,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "G👀d Morning!  ||  !Socials  !Sub !Donate !Prime $3 TTS",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizzy-{width}x{height}.jpg"
   }
 ]
