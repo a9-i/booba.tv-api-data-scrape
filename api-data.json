@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 159239770,
-    "user_login": "spoopykitt",
-    "user_display_name": "spoopykitt",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/80f04a81-b5f9-4668-b23f-0404a7f30a3d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9330b34a-a50d-4bc8-a4e6-8fa2c8f1151e-channel_offline_image-1920x1080.png",
-    "stream_id": 47629418045,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Live Yoga and tiny Bikinis 💜!pobox",
-    "stream_viewer_count": 1345,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_spoopykitt-{width}x{height}.jpg"
-  },
-  {
     "user_id": 448545408,
     "user_login": "kjanecaron",
     "user_display_name": "kjanecaron",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "POV i'm your girlfriend !socials",
-    "stream_viewer_count": 956,
+    "stream_viewer_count": 1029,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kjanecaron-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "510218",
     "stream_game_name": "Among Us",
     "stream_title": "🔴JUGANDO AMONG US CON AMIGOS <3 NUEVAS ALERTAS",
-    "stream_viewer_count": 763,
+    "stream_viewer_count": 888,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🔴SPEED DATING VIEWERS🔴JOIN VOICE CHANNEL TO BE ON STREAM🔥CLEAR STRAP BIKINIS🌸DRONE CONTENT👀WoW WARLORD & BRONZE 9 OW2 GOD💦 !s !discord",
-    "stream_viewer_count": 682,
+    "stream_viewer_count": 875,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
   },
   {
@@ -66,7 +52,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Lemmie give you seratonin | !patreon !socials !prime",
-    "stream_viewer_count": 496,
+    "stream_viewer_count": 613,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   },
   {
@@ -80,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🥰 HAWAII FARM TOUR W/MIRA 🥰🥳  !socials",
-    "stream_viewer_count": 195,
+    "stream_viewer_count": 201,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theoneandonlydragon-{width}x{height}.jpg"
   },
   {
@@ -94,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌙 uwu onii-chan licking 💜 !exclusive !socials !YouTube ~ uwu, mouth sounds, ASMR",
-    "stream_viewer_count": 34,
+    "stream_viewer_count": 40,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
@@ -108,7 +94,21 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "♡ come vibe w me xoxo ♡ !socials",
-    "stream_viewer_count": 27,
+    "stream_viewer_count": 35,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_burkebabyxo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 249716432,
+    "user_login": "scrimxo",
+    "user_display_name": "ScrimXo",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/275a1563-4233-4b3c-b1c2-18167f2c3c4c-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 41614661995,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "WTF HAPPENED LAST NIGHT !Linktree !Socials",
+    "stream_viewer_count": 7,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_scrimxo-{width}x{height}.jpg"
   }
 ]
