@@ -1,5 +1,19 @@
 [
   {
+    "user_id": 409624608,
+    "user_login": "melina",
+    "user_display_name": "melina",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 41630202555,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "pancakes! gift 7 subs for pancake dance 🥞new york city! day 3🗽 !linktree | INSTAGRAM: melina.goransson",
+    "stream_viewer_count": 1982,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
+  },
+  {
     "user_id": 536906710,
     "user_login": "ijenz",
     "user_display_name": "IJenz",
@@ -10,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗!RR ASMR IG: iJENNZ💗",
-    "stream_viewer_count": 942,
+    "stream_viewer_count": 958,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -24,8 +38,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Hey! Miss me?❤️ !boosty",
-    "stream_viewer_count": 409,
+    "stream_viewer_count": 410,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_panterochka_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 596486414,
+    "user_login": "itsclaraduh",
+    "user_display_name": "itsclaraduh",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d3a4f01-292d-4104-86b5-d37ea16e9648-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 40649403737,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🍑Last Stream Untill After XMAS🍑 / Follow MY SOCIALS !IG !Alerts !Socials",
+    "stream_viewer_count": 250,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsclaraduh-{width}x{height}.jpg"
   },
   {
     "user_id": 228790508,
@@ -38,7 +66,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💙 UwU Meow Meow Tingles 💙 !Socials RR",
-    "stream_viewer_count": 80,
+    "stream_viewer_count": 100,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strabawi-{width}x{height}.jpg"
   },
   {
@@ -52,21 +80,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌙 uwu onii-chan licking 💜 !exclusive !socials !YouTube ~ uwu, mouth sounds, ASMR",
-    "stream_viewer_count": 41,
+    "stream_viewer_count": 40,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
-    "user_id": 409624608,
-    "user_login": "melina",
-    "user_display_name": "melina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03ed0dc1-683a-4db0-ac12-16f0573b6be2-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 41630202555,
+    "user_id": 108504505,
+    "user_login": "kichike",
+    "user_display_name": "kichike",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/29231cc8-bb81-4b03-b7bf-d6064ce5bc43-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/19dcbda6-a9c9-46fa-8090-7897470b65ae-channel_offline_image-1920x1080.png",
+    "stream_id": 41630226331,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "new york city! day 3🗽 !linktree | INSTAGRAM: melina.goransson",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_melina-{width}x{height}.jpg"
+    "stream_title": "Wake up with me bb 😘 !newlink 🌶️",
+    "stream_viewer_count": 31,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kichike-{width}x{height}.jpg"
   }
 ]
