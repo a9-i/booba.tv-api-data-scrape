@@ -1,33 +1,5 @@
 [
   {
-    "user_id": 161737008,
-    "user_login": "kyootbot",
-    "user_display_name": "kyootbot",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/21d3db3d-4dab-445c-92f7-b0bf474076c6-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9029db2-3ecf-4ac4-968c-54e6de4cee80-channel_offline_image-1920x1080.png",
-    "stream_id": 41646176907,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "SPEED DATING VIEWERS! ❤️ DATE OR ELIMINATE? CHAT DECIDES ❤️ COME DATE ME !join !socials",
-    "stream_viewer_count": 3959,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyootbot-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 451578537,
-    "user_login": "krypto_nat",
-    "user_display_name": "krypto_nat",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d68e91c1-478d-48c1-a6fc-8afb256e84aa-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c31d2b17-1784-411a-8e2c-ef4a9e009d98-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40230684904,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "wrong stream !social +18.5",
-    "stream_viewer_count": 1373,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krypto_nat-{width}x{height}.jpg"
-  },
-  {
     "user_id": 536906710,
     "user_login": "ijenz",
     "user_display_name": "IJenz",
@@ -38,7 +10,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "!rr ASMR IG: iJENNZ💗",
-    "stream_viewer_count": 848,
+    "stream_viewer_count": 1044,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -52,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[RERUN]💦WORKOUT TIME💦 !S !RR",
-    "stream_viewer_count": 797,
+    "stream_viewer_count": 831,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
   },
   {
@@ -66,7 +38,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌙 uwu onii-chan licking 💜 !exclusive !socials !YouTube ~ uwu, mouth sounds, ASMR",
-    "stream_viewer_count": 45,
+    "stream_viewer_count": 35,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
@@ -80,7 +52,21 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "Merry Christmas Eve!| LOOKING FOR EDITOR  !socials|",
-    "stream_viewer_count": 39,
+    "stream_viewer_count": 34,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 568972298,
+    "user_login": "lesya_cox",
+    "user_display_name": "lesya_cox",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffd083ce-474b-4219-890f-f7a2b198f67a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f44645d3-3931-4180-ba45-2a659d03897d-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 40230998200,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "давно не виделись ❤ !social",
+    "stream_viewer_count": 13,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lesya_cox-{width}x{height}.jpg"
   }
 ]
