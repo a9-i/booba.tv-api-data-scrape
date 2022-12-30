@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 536906710,
-    "user_login": "ijenz",
-    "user_display_name": "IJenz",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fa1248a-7690-486f-893c-6ef97a52f5ca-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
-    "stream_id": 46447272060,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "♥!rr ASMR IG:iJENNZ♥",
-    "stream_viewer_count": 896,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
-  },
-  {
     "user_id": 505413205,
     "user_login": "lewnabun",
     "user_display_name": "Lewnabun",
@@ -24,8 +10,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🐇 bunnygirl licks and kisses 🌸 [live 3dio] !throne !patreon !bodypillow",
-    "stream_viewer_count": 886,
+    "stream_viewer_count": 850,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lewnabun-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 536906710,
+    "user_login": "ijenz",
+    "user_display_name": "IJenz",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fa1248a-7690-486f-893c-6ef97a52f5ca-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
+    "stream_id": 46447272060,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "♥!rr ASMR IG:iJENNZ♥",
+    "stream_viewer_count": 710,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
     "user_id": 658070925,
@@ -38,22 +38,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❋ LAST STREAM IN 2022 ❋ !wishlist !links",
-    "stream_viewer_count": 301,
+    "stream_viewer_count": 348,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 407496462,
-    "user_login": "elfherself",
-    "user_display_name": "ElfHerSelf",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c52f150-ff1e-4258-a5df-973499fa955d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f97ebbfc-d40f-4da6-b2f2-797e941d6d44-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 47707833581,
-    "stream_game_id": "498592",
-    "stream_game_name": "I'm Only Sleeping",
-    "stream_title": "I`m Back!| !socials| Come Build an Elf",
-    "stream_viewer_count": 26,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   },
   {
     "user_id": 429614703,
@@ -66,7 +52,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌙 uwu Happy New Year licking 💜 !exclusive !socials !YouTube ~ uwu, mouth sounds, ASMR",
-    "stream_viewer_count": 23,
+    "stream_viewer_count": 24,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 407496462,
+    "user_login": "elfherself",
+    "user_display_name": "ElfHerSelf",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c52f150-ff1e-4258-a5df-973499fa955d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f97ebbfc-d40f-4da6-b2f2-797e941d6d44-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 47707833581,
+    "stream_game_id": "498592",
+    "stream_game_name": "I'm Only Sleeping",
+    "stream_title": "I`m Back!| !socials| Come Build an Elf",
+    "stream_viewer_count": 24,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   }
 ]
