@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 536906710,
-    "user_login": "ijenz",
-    "user_display_name": "IJenz",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fa1248a-7690-486f-893c-6ef97a52f5ca-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
-    "stream_id": 46454368748,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "♥!rr ASMR IG:iJENNZ♥",
-    "stream_viewer_count": 1288,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
-  },
-  {
     "user_id": 628967771,
     "user_login": "chickenwingcandy",
     "user_display_name": "ChickenWingCandy",
@@ -24,8 +10,36 @@
     "stream_game_id": "515025",
     "stream_game_name": "Overwatch 2",
     "stream_title": "[[DROPS WORK HERE COME GET THEM!!!]] Happy New Year!!! -  !book for info on my new book, !s for socials",
-    "stream_viewer_count": 1223,
+    "stream_viewer_count": 1245,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 536906710,
+    "user_login": "ijenz",
+    "user_display_name": "IJenz",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fa1248a-7690-486f-893c-6ef97a52f5ca-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
+    "stream_id": 46454368748,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "♥!rr ASMR IG:iJENNZ♥",
+    "stream_viewer_count": 1242,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 252393390,
+    "user_login": "imviolet_",
+    "user_display_name": "imviolet_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1332bdaf-b3da-4a22-bcba-72aa139317f5-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20afe8a1-3536-49cc-99b2-8bbc3c4b417e-channel_offline_image-1920x1080.png",
+    "stream_id": 40269128968,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "LA SITUAZIONE DEL MIO CAPODANNO 🤬 !foto",
+    "stream_viewer_count": 1143,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imviolet_-{width}x{height}.jpg"
   },
   {
     "user_id": 168251674,
@@ -38,22 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🥳  Wish you all the best in the New Year! 💜",
-    "stream_viewer_count": 1036,
+    "stream_viewer_count": 1009,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gavrilka-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 252393390,
-    "user_login": "imviolet_",
-    "user_display_name": "imviolet_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1332bdaf-b3da-4a22-bcba-72aa139317f5-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/20afe8a1-3536-49cc-99b2-8bbc3c4b417e-channel_offline_image-1920x1080.png",
-    "stream_id": 40269128968,
-    "stream_game_id": "26936",
-    "stream_game_name": "Music",
-    "stream_title": "2023 START ✨ !foto",
-    "stream_viewer_count": 867,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imviolet_-{width}x{height}.jpg"
   },
   {
     "user_id": 583931625,
@@ -66,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[RERUN]💦HAPPY NEW YEAR💦 !S !RR",
-    "stream_viewer_count": 692,
+    "stream_viewer_count": 688,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
   },
   {
@@ -80,8 +80,50 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦Megamoist New Year💦 LIVE🥳",
-    "stream_viewer_count": 116,
+    "stream_viewer_count": 123,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowsovari-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 64138868,
+    "user_login": "tymwits",
+    "user_display_name": "tymwits",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35505d22-5ba7-4a58-897e-717f4a961f85-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6caa31f-f338-4316-802f-8056d01bf123-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 47723326349,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "happy new year my cuties",
+    "stream_viewer_count": 82,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tymwits-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 609563512,
+    "user_login": "leealiciaplays",
+    "user_display_name": "Leealiciaplays",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ab9b904-4e95-4c62-88b0-6545c1170c16-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a675c051-9e26-4520-9596-734836c1b0e8-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 40269416920,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Happy new year let’s chat come here 🎉🎈🥳 Help me reach my bit goal?🎁!socials !noAds",
+    "stream_viewer_count": 50,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alicialife-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 655439791,
+    "user_login": "liddylune",
+    "user_display_name": "LiddyLune",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/35ba794b-152d-46a9-8e08-ee5a85452a4e-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 40269397080,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "After New Years party  🎉🌠 Fairy lust",
+    "stream_viewer_count": 49,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liddylune-{width}x{height}.jpg"
   },
   {
     "user_id": 228790508,
@@ -94,7 +136,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💙 Mew Mew Tingle Time 💙 !Socials RR",
-    "stream_viewer_count": 0,
+    "stream_viewer_count": 35,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strabawi-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 125387632,
+    "user_login": "amouranth",
+    "user_display_name": "Amouranth",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8aa0b7dc-e4b0-4666-a99f-5d62d9bf168a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2509e087-402b-4d18-a813-d9bd478b92c1-channel_offline_image-1920x1080.png",
+    "stream_id": 47723396909,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "Giving away $1000 to viewers who send me best resolutions --> !enter🔥 Smash or Pass VIEWER PICS --> !discord 🔥",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
   }
 ]
