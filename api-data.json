@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 125387632,
-    "user_login": "amouranth",
-    "user_display_name": "Amouranth",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8aa0b7dc-e4b0-4666-a99f-5d62d9bf168a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2509e087-402b-4d18-a813-d9bd478b92c1-channel_offline_image-1920x1080.png",
-    "stream_id": 47723396909,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔥SMASH OR PASS - viewer pics! send me yours🔥 --> !discord",
-    "stream_viewer_count": 6677,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
-  },
-  {
     "user_id": 161737008,
     "user_login": "kyootbot",
     "user_display_name": "kyootbot",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "SPEED DATING VIEWERS ❤️  DATE OR ELIMINATE? CHAT DECIDES ❤️ COME DATE ME !join",
-    "stream_viewer_count": 4367,
+    "stream_viewer_count": 4719,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyootbot-{width}x{height}.jpg"
   },
   {
@@ -38,36 +24,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[RERUN]💦HAPPY NEW YEAR💦 !S !RR",
-    "stream_viewer_count": 453,
+    "stream_viewer_count": 451,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 836317847,
-    "user_login": "stacy_cherry",
-    "user_display_name": "Stacy_Cherry",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/790687b8-d4cd-4f07-bc71-a2bf31ba733c-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d89534a-b460-4c5b-87be-3bad81be42bf-channel_offline_image-1920x1080.png",
-    "stream_id": 46459580220,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "Bikini stream 😋🔞 Type !s for socials!!!",
-    "stream_viewer_count": 146,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stacy_cherry-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 190140376,
-    "user_login": "connie4u",
-    "user_display_name": "connie4u",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d6295f8-ea15-48cc-a5ea-a70067081bea-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e972f8b4-5d6e-4d8f-81eb-eaec9ac0b639-channel_offline_image-1920x1080.png",
-    "stream_id": 47724559165,
-    "stream_game_id": "518184",
-    "stream_game_name": "Phasmophobia",
-    "stream_title": "GAMER GIRL SCARED PLAYS WITH SPOOKY GHOSTS LF GAMING FRIENDS <3",
-    "stream_viewer_count": 80,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_connie4u-{width}x{height}.jpg"
   },
   {
     "user_id": 172947854,
@@ -80,22 +38,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦Megamoist New Year💦 🔴RERUN🔴 From Today♥️",
-    "stream_viewer_count": 74,
+    "stream_viewer_count": 88,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowsovari-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 407496462,
-    "user_login": "elfherself",
-    "user_display_name": "ElfHerSelf",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c52f150-ff1e-4258-a5df-973499fa955d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f97ebbfc-d40f-4da6-b2f2-797e941d6d44-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 47725516909,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Smash or Pass With Viewers !socials| Come Build an Elf",
-    "stream_viewer_count": 66,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   },
   {
     "user_id": 672383285,
@@ -108,7 +52,35 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "OMG and we're back !tip !selfie !cashapp !venmo",
-    "stream_viewer_count": 63,
+    "stream_viewer_count": 88,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tatumleaminx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 407496462,
+    "user_login": "elfherself",
+    "user_display_name": "ElfHerSelf",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c52f150-ff1e-4258-a5df-973499fa955d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f97ebbfc-d40f-4da6-b2f2-797e941d6d44-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 47725516909,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Debate With Me Monday| !socials| Come Build an Elf",
+    "stream_viewer_count": 69,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 190140376,
+    "user_login": "connie4u",
+    "user_display_name": "connie4u",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d6295f8-ea15-48cc-a5ea-a70067081bea-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e972f8b4-5d6e-4d8f-81eb-eaec9ac0b639-channel_offline_image-1920x1080.png",
+    "stream_id": 47724559165,
+    "stream_game_id": "518184",
+    "stream_game_name": "Phasmophobia",
+    "stream_title": "GAMER GIRL SCARED PLAYS WITH SPOOKY GHOSTS LF GAMING FRIENDS <3",
+    "stream_viewer_count": 60,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_connie4u-{width}x{height}.jpg"
   }
 ]
