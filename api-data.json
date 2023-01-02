@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 161737008,
-    "user_login": "kyootbot",
-    "user_display_name": "kyootbot",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/21d3db3d-4dab-445c-92f7-b0bf474076c6-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9029db2-3ecf-4ac4-968c-54e6de4cee80-channel_offline_image-1920x1080.png",
-    "stream_id": 41673895323,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "SPEED DATING VIEWERS ❤️  DATE OR ELIMINATE? CHAT DECIDES ❤️ COME DATE ME !join",
-    "stream_viewer_count": 4683,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyootbot-{width}x{height}.jpg"
-  },
-  {
     "user_id": 583931625,
     "user_login": "bexuki",
     "user_display_name": "Bexuki",
@@ -24,22 +10,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[RERUN]💦HAPPY NEW YEAR💦 !S !RR",
-    "stream_viewer_count": 371,
+    "stream_viewer_count": 463,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 407496462,
-    "user_login": "elfherself",
-    "user_display_name": "ElfHerSelf",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c52f150-ff1e-4258-a5df-973499fa955d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f97ebbfc-d40f-4da6-b2f2-797e941d6d44-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 47725516909,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Debate With Me Monday| !socials| Come Build an Elf",
-    "stream_viewer_count": 92,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   },
   {
     "user_id": 172947854,
@@ -52,8 +24,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦Megamoist New Year💦 🔴RERUN🔴 From Today♥️",
-    "stream_viewer_count": 92,
+    "stream_viewer_count": 91,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowsovari-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 407496462,
+    "user_login": "elfherself",
+    "user_display_name": "ElfHerSelf",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c52f150-ff1e-4258-a5df-973499fa955d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f97ebbfc-d40f-4da6-b2f2-797e941d6d44-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 47725516909,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Debate With Me Monday| !socials| Come Build an Elf",
+    "stream_viewer_count": 84,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   },
   {
     "user_id": 672383285,
@@ -80,7 +66,7 @@
     "stream_game_id": "518184",
     "stream_game_name": "Phasmophobia",
     "stream_title": "GAMER GIRL SCARED PLAYS WITH SPOOKY GHOSTS LF GAMING FRIENDS <3",
-    "stream_viewer_count": 64,
+    "stream_viewer_count": 61,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_connie4u-{width}x{height}.jpg"
   }
 ]
