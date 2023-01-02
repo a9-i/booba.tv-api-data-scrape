@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 130784874,
-    "user_login": "evaanna",
-    "user_display_name": "evaanna",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1eab6a5-72b6-42e1-8223-55d1c713cbb2-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9a6c4e9-7ec7-4b4f-a5c1-9817fd974cf5-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40271058056,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "🎄HAPPY NEW YEAR 🎄[RERUN] type !s - my social media",
-    "stream_viewer_count": 1608,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evaanna-{width}x{height}.jpg"
-  },
-  {
     "user_id": 583931625,
     "user_login": "bexuki",
     "user_display_name": "Bexuki",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[RERUN]💦HAPPY NEW YEAR💦 !S !RR",
-    "stream_viewer_count": 469,
+    "stream_viewer_count": 460,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 469348555,
+    "user_login": "taylor_jevaux",
+    "user_display_name": "Taylor_Jevaux",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a571012-8dc4-41c2-a850-244a33e3b900-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 41674911067,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "💦TINY STRAPPY BIKINI SQUATS WHEN TIMER ENDS💦 !socials",
+    "stream_viewer_count": 383,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylor_jevaux-{width}x{height}.jpg"
   },
   {
     "user_id": 407496462,
@@ -38,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Debate With Me Monday| !socials| Come Build an Elf",
-    "stream_viewer_count": 97,
+    "stream_viewer_count": 116,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦Megamoist New Year💦 🔴RERUN🔴 From Today♥️",
-    "stream_viewer_count": 77,
+    "stream_viewer_count": 69,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowsovari-{width}x{height}.jpg"
   }
 ]
