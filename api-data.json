@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 198860406,
-    "user_login": "berry0314",
-    "user_display_name": "빛베리",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/548f7e07-dadc-45da-8592-ace8134df660-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/436ab9fb-3884-4056-ae04-5f8e81c2e992-channel_offline_image-1920x1080.png",
-    "stream_id": 40021797991,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG] Hello, it's berry!  !toonation 영어방송입니다.",
-    "stream_viewer_count": 2729,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_berry0314-{width}x{height}.jpg"
-  },
-  {
     "user_id": 492854165,
     "user_login": "kaellyn",
     "user_display_name": "Kaellyn",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "FR/ENG MISSED UUU❤️ !s !wishlist !SOCIALS",
-    "stream_viewer_count": 1551,
+    "stream_viewer_count": 1544,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaellyn-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💗DIRECTO CON MI HERMANA💗",
-    "stream_viewer_count": 1475,
+    "stream_viewer_count": 1350,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "*RERUN*🍑BREAKFAST TIME🍑 !S",
-    "stream_viewer_count": 811,
+    "stream_viewer_count": 793,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bexuki-{width}x{height}.jpg"
   },
   {
@@ -66,7 +52,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN ❤️👅 COZY LOVING ASMR TINGLES !S for Links👅❤️   | EN + FR | New Video !YT",
-    "stream_viewer_count": 777,
+    "stream_viewer_count": 727,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -80,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "hi! :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 689,
+    "stream_viewer_count": 705,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -93,8 +79,8 @@
     "stream_id": 40818240473,
     "stream_game_id": "515025",
     "stream_game_name": "Overwatch 2",
-    "stream_title": "🚨 [DROPS ENABLED] ✅ Candy's first day playing Overwatch (kinda)? !book for info on my new book",
-    "stream_viewer_count": 377,
+    "stream_title": "🚨 [DROPS ENABLED] ✅ Candy's first day playing Overwatch (correctly) !book for info on my new book",
+    "stream_viewer_count": 457,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
@@ -108,7 +94,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "18+🍑🍑LIVE🔴 CHEAT YOUR STREAMER WITH ME , TINY BIKINI LATER",
-    "stream_viewer_count": 376,
+    "stream_viewer_count": 441,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cindy_diamond-{width}x{height}.jpg"
   },
   {
@@ -122,8 +108,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR intense tingles :3 ❤️🖤 !s for links !youtube 🖤❤️",
-    "stream_viewer_count": 199,
+    "stream_viewer_count": 232,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 478846434,
+    "user_login": "sophia",
+    "user_display_name": "SOPHIA",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/872b4659-6669-4c8c-9c9c-948507862069-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 46542179244,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🔗ANSWERING MUCKY QUESTIONS🔗📢GET IN HERE📢 !socials !donate",
+    "stream_viewer_count": 201,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sophia-{width}x{height}.jpg"
   },
   {
     "user_id": 551906487,
@@ -136,7 +136,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋ASMR Sexy Kisses XD!💋!RR !s for links",
-    "stream_viewer_count": 173,
+    "stream_viewer_count": 168,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   },
   {
@@ -150,7 +150,7 @@
     "stream_game_id": "516575",
     "stream_game_name": "VALORANT",
     "stream_title": "경쟁 !시참 / !디코 질문 안받음",
-    "stream_viewer_count": 150,
+    "stream_viewer_count": 146,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
   },
   {
@@ -164,22 +164,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR Let Mama Kitty Pamper you with Lobe Licks!",
-    "stream_viewer_count": 149,
+    "stream_viewer_count": 140,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 478846434,
-    "user_login": "sophia",
-    "user_display_name": "SOPHIA",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/872b4659-6669-4c8c-9c9c-948507862069-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 46542179244,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔗ANSWERING MUCKY QUESTIONS🔗📢GET IN HERE📢 !socials !donate",
-    "stream_viewer_count": 118,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sophia-{width}x{height}.jpg"
   },
   {
     "user_id": 137855775,
@@ -192,7 +178,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "!RR 💗HOT GIRL ASMR- LETS WHISPER ;)💗 RERUN -  Type !s for SOCIALS",
-    "stream_viewer_count": 98,
+    "stream_viewer_count": 107,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_haleybombshell-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 96940137,
+    "user_login": "mizzy",
+    "user_display_name": "Mizzy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac1d971d-57d6-4b94-843e-9d8c85dc5194-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a36f7eca-b1c1-4070-9a42-075523896d15-channel_offline_image-1920x1080.png",
+    "stream_id": 41763537339,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💦Painting water attempt🌊  ||  !Socials  !Sub !Donate !Prime $3 TTS",
+    "stream_viewer_count": 86,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizzy-{width}x{height}.jpg"
   }
 ]
