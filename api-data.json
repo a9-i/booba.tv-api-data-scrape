@@ -1,5 +1,19 @@
 [
   {
+    "user_id": 143917159,
+    "user_login": "jenfoxxx",
+    "user_display_name": "JenFoxxx",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c6dc65b-8229-413e-9e87-570ca2852238-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6120429d-e4cc-4658-816f-0913c0503548-channel_offline_image-1920x1080.png",
+    "stream_id": 42469218587,
+    "stream_game_id": "515024",
+    "stream_game_name": "Diablo IV",
+    "stream_title": "🔥 EGIRL LAN PARTY SEASON 1 COMPETITION 🤍💙 !socials @starforgesystems",
+    "stream_viewer_count": 6033,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jenfoxxx-{width}x{height}.jpg"
+  },
+  {
     "user_id": 435049951,
     "user_login": "thedandangler",
     "user_display_name": "TheDanDangler",
@@ -10,22 +24,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "TWITCH PRINCESS 🎀 THE BEST SPICY SOCIALS 😏👉 !s | !vid !prime",
-    "stream_viewer_count": 2915,
+    "stream_viewer_count": 2467,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thedandangler-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 78513335,
-    "user_login": "blinkx_",
-    "user_display_name": "Blinkx_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c04fb2cb-2411-4dcf-9845-3b367865b943-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 47055914236,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "CHILLING - NEW GAME 💖 !socials !newvid !freesub !confess",
-    "stream_viewer_count": 1080,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blinkx_-{width}x{height}.jpg"
   },
   {
     "user_id": 61974931,
@@ -38,22 +38,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE🔴 EAR LICKING ASMR✨ !Youtube / !social = all my Social Media",
-    "stream_viewer_count": 821,
+    "stream_viewer_count": 852,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leynainu-{width}x{height}.jpg"
   },
   {
-    "user_id": 536906710,
-    "user_login": "ijenz",
-    "user_display_name": "IJenz",
+    "user_id": 215968422,
+    "user_login": "jadethejaguar",
+    "user_display_name": "JadetheJaguar",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b932a44-257f-46ae-aa49-bfe037671067-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
-    "stream_id": 39777746005,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/557b4391-ef4e-41a9-9a01-cbb645cb2ccb-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/707fd048-3a0d-4f51-9c7d-7e386c457877-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42469206571,
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
-    "stream_title": "!RR ASMR DE LA OSITA 🥰 @ijenz",
-    "stream_viewer_count": 559,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
+    "stream_title": "🔥MOMMY DOES VISUALS (only) FOR YOU🔥 | Saving for capture card !dono",
+    "stream_viewer_count": 634,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jadethejaguar-{width}x{height}.jpg"
   },
   {
     "user_id": 132563423,
@@ -66,8 +66,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "DIABLO MOMMY - SEASON 1 IS HERE!! 🤍 !year !socials !cheer",
-    "stream_viewer_count": 515,
+    "stream_viewer_count": 587,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firedancer-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 536906710,
+    "user_login": "ijenz",
+    "user_display_name": "IJenz",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b932a44-257f-46ae-aa49-bfe037671067-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
+    "stream_id": 39777746005,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "!RR ASMR DE LA OSITA 🥰 @ijenz",
+    "stream_viewer_count": 519,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -80,8 +94,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔴Warning⛔ Queen is here!⚠️18+🔞🔴👋 !S  !king  !gifters  !biters  ASMR @SharonQueen #anime #uwu #cosplay #senpai -rerun",
-    "stream_viewer_count": 407,
+    "stream_viewer_count": 448,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 434734417,
+    "user_login": "allecakes",
+    "user_display_name": "allecakes",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3280ac85-6f7a-427f-9ed7-2f9bc82541f7-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/095ae1c9-a571-489d-b347-4f524f54d99c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 42469114363,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "diablo season 1 competition @jenfoxxx lan party| PLAYING WITH MOMMY LILITH |!socials ! youtube",
+    "stream_viewer_count": 386,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_allecakes-{width}x{height}.jpg"
   },
   {
     "user_id": 452985358,
@@ -94,36 +122,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN ASMR❤️TAKING AWAY YOUR TENSION ❤️  !S for Links👅❤️   | EN + FR | New Video !YT",
-    "stream_viewer_count": 380,
+    "stream_viewer_count": 368,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 434734417,
-    "user_login": "allecakes",
-    "user_display_name": "allecakes",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3280ac85-6f7a-427f-9ed7-2f9bc82541f7-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/095ae1c9-a571-489d-b347-4f524f54d99c-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42469114363,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔞🔞🥵🥵 18+ diablo season 1 competition @jenfoxxx lan party| PLAYING WITH MOMMY LILITH |!socials ! youtube",
-    "stream_viewer_count": 380,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_allecakes-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 143917159,
-    "user_login": "jenfoxxx",
-    "user_display_name": "JenFoxxx",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c6dc65b-8229-413e-9e87-570ca2852238-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6120429d-e4cc-4658-816f-0913c0503548-channel_offline_image-1920x1080.png",
-    "stream_id": 42469218587,
-    "stream_game_id": "515024",
-    "stream_game_name": "Diablo IV",
-    "stream_title": "PATCH NOTES FROM HELL 🤍💙 !socials @starforgesystems",
-    "stream_viewer_count": 353,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jenfoxxx-{width}x{height}.jpg"
   },
   {
     "user_id": 70933080,
@@ -136,7 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "THIRSTDAY IS FINALLY HERE - !S FOR LINKS",
-    "stream_viewer_count": 297,
+    "stream_viewer_count": 305,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorastarr-{width}x{height}.jpg"
   },
   {
@@ -150,22 +150,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🎧 𝓐𝓢𝓜𝓡 !𝓡𝓡 💤 𝗡𝗼 𝗧𝗮𝗹𝗸𝗶𝗻𝗴 | 👅 Gentle Mouth Sounds 💦 3𝑫𝒊𝒐 𝑩𝒊𝒏𝒂𝒖𝒓𝒂𝒍 | 💓LIVE ON:Mon/Tue/Thur 8amPDT | !LINKTREE",
-    "stream_viewer_count": 264,
+    "stream_viewer_count": 222,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 215968422,
-    "user_login": "jadethejaguar",
-    "user_display_name": "JadetheJaguar",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/557b4391-ef4e-41a9-9a01-cbb645cb2ccb-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/707fd048-3a0d-4f51-9c7d-7e386c457877-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42469206571,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "🔥MOMMY DOES VISUALS (only) FOR YOU🔥 | Saving for capture card !dono",
-    "stream_viewer_count": 166,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jadethejaguar-{width}x{height}.jpg"
   },
   {
     "user_id": 628967771,
@@ -177,8 +163,8 @@
     "stream_id": 41671241497,
     "stream_game_id": "515024",
     "stream_game_name": "Diablo IV",
-    "stream_title": "Enjoying this game is illegal now because everyone hates the patch :( | Season 1! 💦 | 💫 ORION Streamer! | !s for my 🔥 *SOCIALS* |  18+ 😉",
-    "stream_viewer_count": 154,
+    "stream_title": "Crawling down 'dem tunnels! 😋 🔦 | Season 1 HYPE! 🍻 | 💫 ORION Streamer! | !s for my 🔥 *SOCIALS* |  18+ 😉",
+    "stream_viewer_count": 164,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
@@ -192,8 +178,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Tanning with !Frog !Aurora ❤️!PNS #Ad 🥳 !FAN !S",
-    "stream_viewer_count": 133,
+    "stream_viewer_count": 108,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 405208912,
+    "user_login": "gonsabellla",
+    "user_display_name": "gonsabellla",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9194d5c2-aa2d-4be0-a6d7-6ff86b6ad52f-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/349e638b-9dba-4a43-b51f-064e66683709-channel_offline_image-1920x1080.png",
+    "stream_id": 47056677996,
+    "stream_game_id": "509672",
+    "stream_game_name": "Travel & Outdoors",
+    "stream_title": "💃🏼Extensible día 14: TABLAO FLAMENCO OLE OLE Y TINTOS DE VERANO",
+    "stream_viewer_count": 78,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -206,8 +206,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI! (RERUN) | приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 83,
+    "stream_viewer_count": 74,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 31011227,
+    "user_login": "castaway",
+    "user_display_name": "Castaway",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d86354-107e-44c0-8acd-3fec8d479f26-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/19dcc6dd-ac2d-46fc-874a-311480525b79-channel_offline_image-1920x1080.png",
+    "stream_id": 48900546413,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "RR ASMR :3 ❤️ !s for links !youtube 🖤",
+    "stream_viewer_count": 70,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
     "user_id": 237238176,
@@ -220,7 +234,7 @@
     "stream_game_id": "516575",
     "stream_game_name": "VALORANT",
     "stream_title": "ㅇ_ㅇ)~",
-    "stream_viewer_count": 75,
+    "stream_viewer_count": 69,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seolyihyeon-{width}x{height}.jpg"
   },
   {
@@ -234,21 +248,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋ASMR Earlicks💋!RR !s for links",
-    "stream_viewer_count": 72,
+    "stream_viewer_count": 60,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 31011227,
-    "user_login": "castaway",
-    "user_display_name": "Castaway",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d86354-107e-44c0-8acd-3fec8d479f26-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/19dcc6dd-ac2d-46fc-874a-311480525b79-channel_offline_image-1920x1080.png",
-    "stream_id": 48900546413,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "RR ASMR :3 ❤️ !s for links !youtube 🖤",
-    "stream_viewer_count": 64,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   }
 ]
