@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 237238176,
-    "user_login": "yukitsune72",
-    "user_display_name": "유키츠네",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/47dfdbb0-5e04-4a34-93dc-2aeb3f55878c-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0cb6de47-255b-497e-9727-f61841099a1f-channel_offline_image-1920x1080.png",
-    "stream_id": 40705755175,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "가을타서 친구구함",
-    "stream_viewer_count": 902,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yukitsune72-{width}x{height}.jpg"
-  },
-  {
     "user_id": 559508034,
     "user_login": "lily_off_valley",
     "user_display_name": "Lily_Off_Valley",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🎉Anniversary Today! New iPhone and HOT Tub!💦!socials !inst",
-    "stream_viewer_count": 874,
+    "stream_viewer_count": 1081,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lily_off_valley-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 237238176,
+    "user_login": "yukitsune72",
+    "user_display_name": "유키츠네",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/47dfdbb0-5e04-4a34-93dc-2aeb3f55878c-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0cb6de47-255b-497e-9727-f61841099a1f-channel_offline_image-1920x1080.png",
+    "stream_id": 40705755175,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "가을타서 친구구함",
+    "stream_viewer_count": 840,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yukitsune72-{width}x{height}.jpg"
   },
   {
     "user_id": 536906710,
@@ -38,7 +38,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🥵💦 ENG/ESP !RR ASMR 🧸 💗 @ijenz",
-    "stream_viewer_count": 605,
+    "stream_viewer_count": 483,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔴𝙄'𝙈 𝙇𝙄𝙑𝙀🔴 | 👅Mouth Sounds + Traditional Triggers💦 | 3𝑫𝒊𝒐 𝑩𝒊𝒏𝒂𝒖𝒓𝒂𝒍 |!LINKTREE",
-    "stream_viewer_count": 452,
+    "stream_viewer_count": 427,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN ASMR ❤  COZY ❤  COZY ❤  COZY ❤  !S for Links 👅 ❤ ️ | EN + FR | New Video !YT",
-    "stream_viewer_count": 446,
+    "stream_viewer_count": 423,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -80,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "⛔ UwU 18+🔞🔴👋 !S  !king  !gifters  !biters  ASMR @SharonQueen #anime #uwu #cosplay #senpai -rerun",
-    "stream_viewer_count": 357,
+    "stream_viewer_count": 388,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
@@ -94,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "👩‍🍳 Cooking with Candy! 🔥 | 💫 ORION Streamer! | !s for my 🔥 *SOCIALS*",
-    "stream_viewer_count": 168,
+    "stream_viewer_count": 188,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenwingcandy-{width}x{height}.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR :3 ❤️ !s for links !youtube 🖤",
-    "stream_viewer_count": 81,
+    "stream_viewer_count": 84,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -122,22 +122,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "RERUN 18+ Bikini Pool Party 💜 🌸IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 74,
+    "stream_viewer_count": 64,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 551906487,
-    "user_login": "whitespaa",
-    "user_display_name": "WhiteSpaa",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6846d3b-1a13-456a-ad1f-f95962451914-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/18ad7a55-2385-45d4-bdf0-463b1f8b4c62-channel_offline_image-1920x1080.png",
-    "stream_id": 40706054967,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💋ASMR Earlicks💋!RR !s for links",
-    "stream_viewer_count": 61,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   },
   {
     "user_id": 702449122,
@@ -152,5 +138,19 @@
     "stream_title": "🔥😈MAKE ME HAPPY OR IM TAKING YOUR SOUL!😈🔥 WE MUST MAKE CYPRUS GOAL NOW!🥹👉🏼👈🏼 !cyprus !tip",
     "stream_viewer_count": 58,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beju_xx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 551906487,
+    "user_login": "whitespaa",
+    "user_display_name": "WhiteSpaa",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6846d3b-1a13-456a-ad1f-f95962451914-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/18ad7a55-2385-45d4-bdf0-463b1f8b4c62-channel_offline_image-1920x1080.png",
+    "stream_id": 40706054967,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💋ASMR Earlicks💋!RR !s for links",
+    "stream_viewer_count": 56,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   }
 ]
