@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 198860406,
-    "user_login": "berry0314",
-    "user_display_name": "빛베리",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e98abb5b-555a-4919-8a9c-c105325b1244-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/436ab9fb-3884-4056-ae04-5f8e81c2e992-channel_offline_image-1920x1080.png",
-    "stream_id": 40754677831,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🩵",
-    "stream_viewer_count": 849,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_berry0314-{width}x{height}.jpg"
-  },
-  {
     "user_id": 536906710,
     "user_login": "ijenz",
     "user_display_name": "IJenz",
@@ -24,22 +10,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "!RR ASMR 😝BODY SCRATCHING💗 @ijenz",
-    "stream_viewer_count": 711,
+    "stream_viewer_count": 585,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 237238176,
-    "user_login": "yukitsune72",
-    "user_display_name": "유키츠네",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/47dfdbb0-5e04-4a34-93dc-2aeb3f55878c-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0cb6de47-255b-497e-9727-f61841099a1f-channel_offline_image-1920x1080.png",
-    "stream_id": 40754654471,
-    "stream_game_id": "21779",
-    "stream_game_name": "League of Legends",
-    "stream_title": "오늘은 얌전한 편",
-    "stream_viewer_count": 499,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yukitsune72-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -52,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Goddess ⛔18+🔞🔴👋 !S  !king  !gifters  !biters  ASMR @SharonQueen #anime #uwu #cosplay #senpai -rerun",
-    "stream_viewer_count": 384,
+    "stream_viewer_count": 403,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
@@ -66,8 +38,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN ASMR ❤  COZY ❤  COZY ❤  COZY ❤  !S for Links 👅 ❤ ️ | EN + FR | New Video !YT",
-    "stream_viewer_count": 377,
+    "stream_viewer_count": 382,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 237238176,
+    "user_login": "yukitsune72",
+    "user_display_name": "유키츠네",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/47dfdbb0-5e04-4a34-93dc-2aeb3f55878c-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0cb6de47-255b-497e-9727-f61841099a1f-channel_offline_image-1920x1080.png",
+    "stream_id": 40754654471,
+    "stream_game_id": "21779",
+    "stream_game_name": "League of Legends",
+    "stream_title": "오늘은 얌전한 편",
+    "stream_viewer_count": 369,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yukitsune72-{width}x{height}.jpg"
   },
   {
     "user_id": 753374792,
@@ -80,7 +66,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🎧 𝓐𝓢𝓜𝓡 !𝓡𝓡 💤 𝗡𝗼 𝗧𝗮𝗹𝗸𝗶𝗻𝗴 | 👅 Gentle Mouth Sounds 💦 3𝑫𝒊𝒐 𝑩𝒊𝒏𝒂𝒖𝒓𝒂𝒍 | 💓Back on Nov 6th! | !LINKTREE",
-    "stream_viewer_count": 256,
+    "stream_viewer_count": 263,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -94,7 +80,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "Enjoy the RR Till live ( rerun )  !socials !discord",
-    "stream_viewer_count": 92,
+    "stream_viewer_count": 87,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theita_thebunny-{width}x{height}.jpg"
   },
   {
@@ -122,7 +108,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "💦(-RERUN-)(-LIVE GRAVADA-) I said red 💋 Sabadoouu | Happy Saturday 💦",
-    "stream_viewer_count": 65,
+    "stream_viewer_count": 68,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_giovanabraaz-{width}x{height}.jpg"
   },
   {
@@ -136,7 +122,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "RERUN 18+ Bikini Pool Party 💜 🌸IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 65,
+    "stream_viewer_count": 60,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
@@ -150,7 +136,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI! (RERUN) | приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 58,
+    "stream_viewer_count": 60,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -164,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋ASMR Earlicks💋!RR !s for links",
-    "stream_viewer_count": 51,
+    "stream_viewer_count": 53,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   }
 ]
