@@ -1,33 +1,5 @@
 [
   {
-    "user_id": 70964046,
-    "user_login": "bunnyayu",
-    "user_display_name": "BunnyAyu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f7c77b-85d6-4e08-837b-920d087d843b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8d67e8d-4071-467e-9472-928b1bbc150a-channel_offline_image-1920x1080.png",
-    "stream_id": 49999375677,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "LIVE waifu ASMR 🎁 cozy christmas !s !supps",
-    "stream_viewer_count": 3888,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnyayu-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 448545408,
-    "user_login": "kjanecaron",
-    "user_display_name": "kjanecaron",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4785f41-710f-489d-88ca-d2be968f8769-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa2ffd5f-2e57-45d9-824b-73dd8d7a282e-channel_offline_image-1920x1080.png",
-    "stream_id": 49999058493,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "24 HOUR XMAS STREAM <3 !socials",
-    "stream_viewer_count": 1840,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kjanecaron-{width}x{height}.jpg"
-  },
-  {
     "user_id": 130784874,
     "user_login": "evaanna",
     "user_display_name": "evaanna",
@@ -38,7 +10,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "(18+)🍌OILED UP BODY💦🍑 merry christmas🎄 !s - my socials📍!link !tg !ig [RR]",
-    "stream_viewer_count": 1630,
+    "stream_viewer_count": 2282,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evaanna-{width}x{height}.jpg"
   },
   {
@@ -52,8 +24,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ʕ•ܫ•ʔ !RR --> DIRECTO 9 PM ESPAÑA 🐻🥰  !wishlist @ijenz !redes",
-    "stream_viewer_count": 1626,
+    "stream_viewer_count": 1766,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 448545408,
+    "user_login": "kjanecaron",
+    "user_display_name": "kjanecaron",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f4785f41-710f-489d-88ca-d2be968f8769-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa2ffd5f-2e57-45d9-824b-73dd8d7a282e-channel_offline_image-1920x1080.png",
+    "stream_id": 49999058493,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "24 HOUR XMAS STREAM <3 !socials",
+    "stream_viewer_count": 1445,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kjanecaron-{width}x{height}.jpg"
   },
   {
     "user_id": 184147110,
@@ -66,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🎄!phub !tt 🎄 just chatting with stepsis 🎄",
-    "stream_viewer_count": 927,
+    "stream_viewer_count": 842,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_olesyaliberman-{width}x{height}.jpg"
   },
   {
@@ -77,10 +63,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/628357ab-ea60-428d-a106-903cbffa937e-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a942ea9f-f524-4904-80f5-0dee5e339446-channel_offline_image-1920x1080.jpeg",
     "stream_id": 49994280525,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Merry Christmas Eve - !fish !socials !cm !break",
-    "stream_viewer_count": 695,
+    "stream_game_id": "26936",
+    "stream_game_name": "Music",
+    "stream_title": "Freshwater Fish & Shrimp - !fish !socials !cm !break",
+    "stream_viewer_count": 669,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
@@ -94,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN 💗 COZY AF ASMR DEEP TINGLES 👻 !S💗",
-    "stream_viewer_count": 490,
+    "stream_viewer_count": 454,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -108,36 +94,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🤶🎄Merry Xmas 🔴UwU 💋🟡 18+🔞👋 !S  !king  !gifters  !biters  ASMR @SharonQueen #anime #uwu #Mommy #cosplay #senpai",
-    "stream_viewer_count": 439,
+    "stream_viewer_count": 436,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 798454309,
-    "user_login": "bellaramatv",
-    "user_display_name": "BellaRamaTV",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4482647-7818-4d19-9eec-e61c04525faf-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b746f3e-74c5-4aca-a93f-b1d19a5bf168-channel_offline_image-1920x1080.png",
-    "stream_id": 43279515691,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "SPEND CHRISTMAS EVE WITH UR SANTA BABY😘!s for socials😊 USE CODE FACTORSE44836 #Factor75partner",
-    "stream_viewer_count": 353,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bellaramatv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 74707525,
-    "user_login": "denver_maxx",
-    "user_display_name": "denver_maxx",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/454e81af-4b2b-4381-ba69-c74dc0a7d3a9-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b0d5b60-a4e7-4d5d-9d6b-be602156aa0b-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 49997821453,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Twas' The Night B4 Christmas...  ~ !stocking ~ !sticker ~ !merch ~ !links **WARNING** Flashing Lights!!",
-    "stream_viewer_count": 205,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_denver_maxx-{width}x{height}.jpg"
   },
   {
     "user_id": 753374792,
@@ -150,7 +108,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❄️ Winter Wonderland with Miss Claus 🎄 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 154,
+    "stream_viewer_count": 155,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -164,7 +122,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "PINKY CINDY -rerun live tomorrow",
-    "stream_viewer_count": 115,
+    "stream_viewer_count": 111,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cinderella_tv_-{width}x{height}.jpg"
   },
   {
@@ -178,7 +136,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR :3 !s for links !youtube 🖤",
-    "stream_viewer_count": 78,
+    "stream_viewer_count": 83,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -206,7 +164,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 57,
+    "stream_viewer_count": 59,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -220,7 +178,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "RERUN Bikini Hot Tub Party 💚🎄IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 52,
+    "stream_viewer_count": 44,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
@@ -234,7 +192,7 @@
     "stream_game_id": "32982",
     "stream_game_name": "Grand Theft Auto V",
     "stream_title": "Ginger Ale ⭐ NoPixel 4.0 ⭐ !s",
-    "stream_viewer_count": 47,
+    "stream_viewer_count": 39,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
   },
   {
@@ -248,7 +206,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Merry Xmas with Kiky (3DIO) ❤ VTUBER ❤  !Discord @onlykiky",
-    "stream_viewer_count": 43,
+    "stream_viewer_count": 34,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_onlykiky-{width}x{height}.jpg"
   },
   {
@@ -262,7 +220,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "help blind brain surgery girl Merry Christmas",
-    "stream_viewer_count": 24,
+    "stream_viewer_count": 23,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_connie4u-{width}x{height}.jpg"
   },
   {
@@ -276,7 +234,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Come Say Hi!!",
-    "stream_viewer_count": 23,
+    "stream_viewer_count": 20,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lainielovee-{width}x{height}.jpg"
   },
   {
@@ -290,7 +248,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Excelente fin de semana =D/ cada 300 bits agregamos contenido 18 + en la galeria  !diciembre",
-    "stream_viewer_count": 8,
+    "stream_viewer_count": 6,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hermosuraia-{width}x{height}.jpg"
   }
 ]
