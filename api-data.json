@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 536906710,
-    "user_login": "ijenz",
-    "user_display_name": "IJenz",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45fcecd7-6af2-4f8b-99db-088ba8ae41c0-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
-    "stream_id": 40624223237,
-    "stream_game_id": "511195",
-    "stream_game_name": "DRAGON BALL Z: KAKAROT",
-    "stream_title": "DIFICULTAD MAXIMA😡😡😡😡SI NO ENTRAS ME ENOJO😡😡😡😡",
-    "stream_viewer_count": 1429,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
-  },
-  {
     "user_id": 500906914,
     "user_login": "sandraskins",
     "user_display_name": "SandraSkins",
@@ -24,22 +10,22 @@
     "stream_game_id": "1680554321",
     "stream_game_name": "Just Dance 2024 Edition",
     "stream_title": "+18| JUST DANCE Y SORPRESA !VRising",
-    "stream_viewer_count": 1313,
+    "stream_viewer_count": 1619,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
   },
   {
-    "user_id": 122979652,
-    "user_login": "aikobliss",
-    "user_display_name": "aikobliss",
+    "user_id": 536906710,
+    "user_login": "ijenz",
+    "user_display_name": "IJenz",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae96bef-55b8-4a1b-bd28-4363e9a9a965-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/de8c42d8-dcc2-4abd-b95a-c9847e269d07-channel_offline_image-1920x1080.png",
-    "stream_id": 42304682360,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🤓☝️ Erm 😇🫵 Join 😎🫰 |  !s !discord",
-    "stream_viewer_count": 877,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45fcecd7-6af2-4f8b-99db-088ba8ae41c0-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
+    "stream_id": 40624223237,
+    "stream_game_id": "511195",
+    "stream_game_name": "DRAGON BALL Z: KAKAROT",
+    "stream_title": "DIFICULTAD MAXIMA😡😡😡😡SI NO ENTRAS ME ENOJO😡😡😡😡",
+    "stream_viewer_count": 1451,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
     "user_id": 155874595,
@@ -52,8 +38,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💜 LIVE ASMR EAR LICKS 💜 I LOVE YOU 💜 !S !TIP 💜",
-    "stream_viewer_count": 701,
+    "stream_viewer_count": 782,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elisabetexo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 122979652,
+    "user_login": "aikobliss",
+    "user_display_name": "aikobliss",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cae96bef-55b8-4a1b-bd28-4363e9a9a965-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/de8c42d8-dcc2-4abd-b95a-c9847e269d07-channel_offline_image-1920x1080.png",
+    "stream_id": 42304682360,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🤓☝️ Erm 😇🫵 Join 😎🫰 |  !s !discord",
+    "stream_viewer_count": 761,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
   },
   {
     "user_id": 197406569,
@@ -63,10 +63,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9995fd9-ff5b-46f4-8722-809fbe77798f-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1802330-bc9f-43b4-8ce4-1c37d170236b-channel_offline_image-1920x1080.png",
     "stream_id": 44154324715,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💜good boys welcome💜 !SOCIALS",
-    "stream_viewer_count": 574,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "RERUN💜good boys welcome💜 TAPPING 💜HEARTBEAT 💜 TINGLES💜 !SOCIALS",
+    "stream_viewer_count": 635,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
@@ -80,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🌈🌞🔥👉 DM me at ONLYVIC.COM Enjoy the rerun! See you tmrw at 12PM PT!",
-    "stream_viewer_count": 500,
+    "stream_viewer_count": 503,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
   },
   {
@@ -94,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "I'M LIVE!  !s [ENG]",
-    "stream_viewer_count": 479,
+    "stream_viewer_count": 458,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "!100 !blow LATE NIGHT COW-GIRL HOURS❤️NEW HUNNY DOLLA DONO ALERT❤️PUT UR NAME ON MY HEART ❤️3’ FOOT TALL FUNSIZE ASIAN NPC❤️",
-    "stream_viewer_count": 367,
+    "stream_viewer_count": 430,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
@@ -122,7 +122,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN 💗STAY COZY💗!S💗",
-    "stream_viewer_count": 341,
+    "stream_viewer_count": 354,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -136,7 +136,7 @@
     "stream_game_id": "26936",
     "stream_game_name": "Music",
     "stream_title": "Cute kittens & relaxing music!! - !PP !socials !CM !merch !kitten",
-    "stream_viewer_count": 340,
+    "stream_viewer_count": 335,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
@@ -150,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🧡 Gentle Mouth Sounds 💙 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 298,
+    "stream_viewer_count": 306,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -164,8 +164,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "HAPPY MONDAY 🍒YOUR DAILY DOSE OF BOOBA🍒 🏝️HAWAI’I🏝️ 👉 !D 👈",
-    "stream_viewer_count": 132,
+    "stream_viewer_count": 266,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theoneandonlydragon-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 663877711,
+    "user_login": "ritaglitch",
+    "user_display_name": "ritaglitch",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5caac78d-f2eb-4df6-bc3c-be7982b87b74-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 40623387909,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "OPENING DISNEY LORCANA TRADING CARDS NOW!! DAY 3 - UNCAPPED SUBATHON CUZ IMA 3 YEAR STRIMMER!❤️ 🎉 !throne !tip",
+    "stream_viewer_count": 85,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ritaglitch-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -178,7 +192,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR :3 !s for links !youtube 🖤",
-    "stream_viewer_count": 77,
+    "stream_viewer_count": 78,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -196,34 +210,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theita_thebunny-{width}x{height}.jpg"
   },
   {
-    "user_id": 663877711,
-    "user_login": "ritaglitch",
-    "user_display_name": "ritaglitch",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5caac78d-f2eb-4df6-bc3c-be7982b87b74-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 40623387909,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "OPENING DISNEY LORCANA TRADING CARDS NOW!! DAY 3 - UNCAPPED SUBATHON CUZ IMA 3 YEAR STRIMMER!❤️ 🎉 !throne !tip",
-    "stream_viewer_count": 73,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ritaglitch-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 493076910,
-    "user_login": "ethotti",
-    "user_display_name": "Ethotti",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3f3ca84-0c4b-45f6-ade5-5174a9d35c6d-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 44156073595,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Cooking for my Nan",
-    "stream_viewer_count": 51,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ethotti-{width}x{height}.jpg"
-  },
-  {
     "user_id": 810167170,
     "user_login": "cinderella_tv_",
     "user_display_name": "Cinderella_TV_",
@@ -234,7 +220,7 @@
     "stream_game_id": "509671",
     "stream_game_name": "Fitness & Health",
     "stream_title": "❤❤❤- dm me at my socials-rerun",
-    "stream_viewer_count": 34,
+    "stream_viewer_count": 42,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cinderella_tv_-{width}x{height}.jpg"
   },
   {
@@ -248,7 +234,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR Ear licking & oil massage & mouth sounds✨️  IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 19,
+    "stream_viewer_count": 17,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   }
 ]
