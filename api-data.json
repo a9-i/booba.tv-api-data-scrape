@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 536906710,
-    "user_login": "ijenz",
-    "user_display_name": "IJenz",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45fcecd7-6af2-4f8b-99db-088ba8ae41c0-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
-    "stream_id": 40692768949,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "ENTRA AQUÍ SI NO PUEDES DORMIR",
-    "stream_viewer_count": 1732,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
-  },
-  {
     "user_id": 215968422,
     "user_login": "jadethejaguar",
     "user_display_name": "JadetheJaguar",
@@ -24,8 +10,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🔥(18+) The BEST Live Ear licks!!🔥| !twitter",
-    "stream_viewer_count": 1615,
+    "stream_viewer_count": 1691,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jadethejaguar-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 536906710,
+    "user_login": "ijenz",
+    "user_display_name": "IJenz",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45fcecd7-6af2-4f8b-99db-088ba8ae41c0-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
+    "stream_id": 40692768949,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "ENTRA AQUÍ SI NO PUEDES DORMIR",
+    "stream_viewer_count": 1625,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
     "user_id": 492779169,
@@ -38,7 +38,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "LIVE pool day=] !Throne !socials",
-    "stream_viewer_count": 1453,
+    "stream_viewer_count": 1404,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xoaeriel-{width}x{height}.jpg"
   },
   {
@@ -52,22 +52,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🔴 5'11 Korean Super Model Goddess chats with u bcuz she's bored 🔴rerun💦 !s !yt",
-    "stream_viewer_count": 1093,
+    "stream_viewer_count": 1174,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 197406569,
-    "user_login": "thenicolet",
-    "user_display_name": "TheNicoleT",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9995fd9-ff5b-46f4-8722-809fbe77798f-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1802330-bc9f-43b4-8ce4-1c37d170236b-channel_offline_image-1920x1080.png",
-    "stream_id": 44257889819,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "rerun💜 good boys/losers welcome💜 !throne !SOCIALS",
-    "stream_viewer_count": 736,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
     "user_id": 122979652,
@@ -80,8 +66,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🎰RUST🎰KINGDOMS🎰DROPS🎰ENABLED🎰MONUMENTS🎰PVP🎰GAMBLING🎰 | !s !discord",
-    "stream_viewer_count": 706,
+    "stream_viewer_count": 757,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 197406569,
+    "user_login": "thenicolet",
+    "user_display_name": "TheNicoleT",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d9995fd9-ff5b-46f4-8722-809fbe77798f-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1802330-bc9f-43b4-8ce4-1c37d170236b-channel_offline_image-1920x1080.png",
+    "stream_id": 44257889819,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "rerun💜 good boys/losers welcome💜 !throne !SOCIALS",
+    "stream_viewer_count": 743,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -94,7 +94,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "LETS GET WET 💦💦 👉 DM me at ONLYVIC.COM",
-    "stream_viewer_count": 669,
+    "stream_viewer_count": 627,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "(18+) DANCES AND SQUATS 💘🍒🍑 --- DM me at pnksparkle.com meanwhile enjoy this rerun",
-    "stream_viewer_count": 567,
+    "stream_viewer_count": 523,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pink_sparkles-{width}x{height}.jpg"
   },
   {
@@ -122,8 +122,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "SPRING ROLL NIGHT, EVERYONE IS INVITED!!! !s",
-    "stream_viewer_count": 486,
+    "stream_viewer_count": 489,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tymwits-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 455993452,
+    "user_login": "sharonqueen",
+    "user_display_name": "SharonQueen",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fa82a48-74bd-4428-a89e-fcd27b549e1a-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/414785ad-7ce5-40a3-9621-138181a60245-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 40694859861,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "Purrs, Relaxing, Sleep❤️18+㊗️🔞👋 !S  !king  !gifters  !biters 💋 ASMR @SharonQueen #anime #uwu #Mommy #cosplay #senpai",
+    "stream_viewer_count": 350,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
     "user_id": 452985358,
@@ -136,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN 💗 ASMR  ♡ relax with me  ♡  !S💗",
-    "stream_viewer_count": 322,
+    "stream_viewer_count": 306,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -150,7 +164,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌷 Floral Paradise! 💜 !𝓡𝓡 | @SareneWild@SareneWild",
-    "stream_viewer_count": 314,
+    "stream_viewer_count": 301,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -164,36 +178,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Dancing and having fun 😎 rerun",
-    "stream_viewer_count": 303,
+    "stream_viewer_count": 290,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gavrilka-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 455993452,
-    "user_login": "sharonqueen",
-    "user_display_name": "SharonQueen",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fa82a48-74bd-4428-a89e-fcd27b549e1a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/414785ad-7ce5-40a3-9621-138181a60245-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 40694859861,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "Purrs, Relaxing, Sleep❤️18+㊗️🔞👋 !S  !king  !gifters  !biters 💋 ASMR @SharonQueen #anime #uwu #Mommy #cosplay #senpai",
-    "stream_viewer_count": 302,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 584625730,
-    "user_login": "ivanahyde",
-    "user_display_name": "IvanaHyde",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dae2082e-0036-4f45-bb52-f992e36ed299-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77441d1e-1853-469f-ad5b-21b512c65c00-channel_offline_image-1920x1080.png",
-    "stream_id": 42392403592,
-    "stream_game_id": "499856",
-    "stream_game_name": "Ghost of Tsushima",
-    "stream_title": "Hard | LET THE SLAUGHTER COMMENCE| !ppp | !wishlist | !merch | !completed",
-    "stream_viewer_count": 169,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivanahyde-{width}x{height}.jpg"
   },
   {
     "user_id": 93269531,
@@ -206,8 +192,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Your fav E-girl !yt !s !telegram",
-    "stream_viewer_count": 135,
+    "stream_viewer_count": 202,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_destinyfomo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 584625730,
+    "user_login": "ivanahyde",
+    "user_display_name": "IvanaHyde",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dae2082e-0036-4f45-bb52-f992e36ed299-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77441d1e-1853-469f-ad5b-21b512c65c00-channel_offline_image-1920x1080.png",
+    "stream_id": 42392403592,
+    "stream_game_id": "499856",
+    "stream_game_name": "Ghost of Tsushima",
+    "stream_title": "Hard | LET THE SLAUGHTER COMMENCE| !ppp | !wishlist | !merch | !completed",
+    "stream_viewer_count": 137,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivanahyde-{width}x{height}.jpg"
   },
   {
     "user_id": 445080375,
@@ -220,7 +220,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔥COMMUNITY GAMES BEFORE ROADTRIP TO FLORIDA :)🔥 !social !spicy !dono",
-    "stream_viewer_count": 83,
+    "stream_viewer_count": 107,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carabeanz-{width}x{height}.jpg"
   },
   {
@@ -234,7 +234,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 48,
+    "stream_viewer_count": 69,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -248,7 +248,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR :3 live this weekend (Saturday night??) !s for links !youtube 🖤",
-    "stream_viewer_count": 42,
+    "stream_viewer_count": 46,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -262,7 +262,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Doing my STEP machine cardio -rerun",
-    "stream_viewer_count": 22,
+    "stream_viewer_count": 28,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cinderella_tv_-{width}x{height}.jpg"
   },
   {
@@ -276,7 +276,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR Ear licking & oil massage & mouth sounds✨️  IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 21,
+    "stream_viewer_count": 19,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   }
 ]
