@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 500906914,
-    "user_login": "sandraskins",
-    "user_display_name": "SandraSkins",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a16b82f7-78c7-4ea9-9203-703f2f50dfcf-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6de01593-05a6-4627-a6b4-d5ffa1ce1e86-channel_offline_image-1920x1080.png",
-    "stream_id": 51252575389,
-    "stream_game_id": "512927",
-    "stream_game_name": "Just Dance 2020",
-    "stream_title": "💸STREAMER BAILA POR DINERO FRENTE A HOMBRES VIRGENES💸",
-    "stream_viewer_count": 1913,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sandraskins-{width}x{height}.jpg"
-  },
-  {
     "user_id": 536906710,
     "user_login": "ijenz",
     "user_display_name": "IJenz",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "ASMR VAQUITA KAWAII TE AYUDA A DORMIR 🐮🥰",
-    "stream_viewer_count": 1637,
+    "stream_viewer_count": 1773,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "COOKING CHICKEN SHAWARMA NOT A RERUN YAY!",
-    "stream_viewer_count": 874,
+    "stream_viewer_count": 893,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sereda-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "♡ can i be your egirlfriend? ♡ PATH TO PARTNER PLUS ♡ !socials !donate !wishlist",
-    "stream_viewer_count": 362,
+    "stream_viewer_count": 328,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
@@ -80,7 +66,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Cute Girl Purring❤️18+㊗️🔞👋 !S  !king  !gifters  !biters 💋 ASMR @SharonQueen #anime #uwu #Mommy #cosplay #senpai",
-    "stream_viewer_count": 287,
+    "stream_viewer_count": 303,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
@@ -94,22 +80,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN 💗 ASMR  ♡ relax with me  ♡  !S💗",
-    "stream_viewer_count": 251,
+    "stream_viewer_count": 250,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 663664040,
-    "user_login": "theita_thebunny",
-    "user_display_name": "Theita_theBunny",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf70374f-a819-44ae-97be-b48c36669f25-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 42421705048,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "🐰🔞 ASMR licking and relaxing Triggers! Live Tomorrow (rerun) voy a hacer directo en mi canal en espanol pronto @theitaengel",
-    "stream_viewer_count": 91,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theita_thebunny-{width}x{height}.jpg"
   },
   {
     "user_id": 78985277,
@@ -122,8 +94,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ DANCING!! ❤️ Follow me on my !socials ❤️ enjoy this rerun while I am out",
-    "stream_viewer_count": 84,
+    "stream_viewer_count": 133,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alittlekay-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 663664040,
+    "user_login": "theita_thebunny",
+    "user_display_name": "Theita_theBunny",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf70374f-a819-44ae-97be-b48c36669f25-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 42421705048,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "🐰🔞 ASMR licking and relaxing Triggers! Live Tomorrow (rerun) voy a hacer directo en mi canal en espanol pronto @theitaengel",
+    "stream_viewer_count": 89,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theita_thebunny-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -136,7 +122,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR :3 live this weekend (Saturday night??) !s for links !youtube 🖤",
-    "stream_viewer_count": 66,
+    "stream_viewer_count": 82,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -150,7 +136,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 51,
+    "stream_viewer_count": 52,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -164,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋ASMR RELAX TIME",
-    "stream_viewer_count": 24,
+    "stream_viewer_count": 33,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
   },
   {
@@ -178,7 +164,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Ear Licking💖18+ Come Be W me💖@onlykiky #anime #asmr",
-    "stream_viewer_count": 21,
+    "stream_viewer_count": 17,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_onlykiky-{width}x{height}.jpg"
   },
   {
@@ -192,7 +178,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Doing my STEP machine cardio -rerun",
-    "stream_viewer_count": 19,
+    "stream_viewer_count": 17,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cinderella_tv_-{width}x{height}.jpg"
   }
 ]
