@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 43028909,
-    "user_login": "fandy",
-    "user_display_name": "Fandy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d5f841c-42f7-46b9-81de-ffbae9b1de55-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/27d6c255-ea6e-4fce-9db6-3cb04e34c35d-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 44603883195,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "!s - ☀️ SUNDAY FUNDAY POOL PARTY  💦  FT @amouranth & !guests !!! ♡ | Insta/Twitter - @fandybtw",
-    "stream_viewer_count": 6577,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fandy-{width}x{height}.jpg"
-  },
-  {
     "user_id": 125387632,
     "user_login": "amouranth",
     "user_display_name": "AMOURANTH",
@@ -24,8 +10,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🍑POOL PARTY 💦 at Mizkif’s house with the girls! 💦   !s --> ALL her links",
-    "stream_viewer_count": 5913,
+    "stream_viewer_count": 6059,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 43028909,
+    "user_login": "fandy",
+    "user_display_name": "Fandy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d5f841c-42f7-46b9-81de-ffbae9b1de55-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/27d6c255-ea6e-4fce-9db6-3cb04e34c35d-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 44603883195,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "!s - ☀️ SUNDAY FUNDAY POOL PARTY  💦  FT @amouranth & !guests !!! ♡ | Insta/Twitter - @fandybtw",
+    "stream_viewer_count": 5675,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fandy-{width}x{height}.jpg"
   },
   {
     "user_id": 503369631,
@@ -38,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "(18+) [LIVE]SUNDAY CAT GIRL 0.5 MILES FROM YOU LF YT/ CLIP EDITOR !F  IG: _ASIANBUNNYX_ more of me (Tiếng Việt/English ONLY) | !socials",
-    "stream_viewer_count": 3769,
+    "stream_viewer_count": 3818,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asianbunnyx-{width}x{height}.jpg"
   },
   {
@@ -52,36 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🌈💦",
-    "stream_viewer_count": 2197,
+    "stream_viewer_count": 1765,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 152762898,
-    "user_login": "kristinadaniellexo",
-    "user_display_name": "kristinadaniellexo",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b09ee29-cfc1-4aee-bda3-23b6c462dfbe-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 44600097659,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💦 BRAND NEW YT VIDEO !s 🥵 5'11 KOREAN SUPER MODEL 🔥 rerun",
-    "stream_viewer_count": 1445,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 457124238,
-    "user_login": "adrianachechik_",
-    "user_display_name": "AdrianaChechik_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
-    "stream_id": 42581483678,
-    "stream_game_id": "512953",
-    "stream_game_name": "ELDEN RING",
-    "stream_title": "BACK AT AGAIN W/ @IvanaHyde | ELDEN RING | ALL BOSSES | SEAMLESS CO-OP | FAITH BUILD | IVANA IS ARCANE BUILD",
-    "stream_viewer_count": 1410,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
   },
   {
     "user_id": 93269531,
@@ -94,8 +66,50 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "DANCE PARTY ( CLICK MY PINNED LINK) RERUN",
-    "stream_viewer_count": 1395,
+    "stream_viewer_count": 1446,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_destinyfomo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 152762898,
+    "user_login": "kristinadaniellexo",
+    "user_display_name": "kristinadaniellexo",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b09ee29-cfc1-4aee-bda3-23b6c462dfbe-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 44600097659,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💦 BRAND NEW YT VIDEO !s 🥵 5'11 KOREAN SUPER MODEL 🔥 rerun",
+    "stream_viewer_count": 1439,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinadaniellexo-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 457124238,
+    "user_login": "adrianachechik_",
+    "user_display_name": "AdrianaChechik_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
+    "stream_id": 42581483678,
+    "stream_game_id": "512953",
+    "stream_game_name": "ELDEN RING",
+    "stream_title": "BACK AT AGAIN W/ @IvanaHyde | ELDEN RING | ALL BOSSES | PC SEAMLESS CO-OP | FAITH BUILD | IVANA IS ARCANE BUILD",
+    "stream_viewer_count": 1394,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 562723403,
+    "user_login": "strawberrytabby",
+    "user_display_name": "StrawberryTabby",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53df79d1-6739-4c2b-9b6b-dd9e708aeebd-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 44604508715,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "OH MY GOD IT'S HAPPENING  | !s 💖➜ my links",
+    "stream_viewer_count": 978,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   },
   {
     "user_id": 78513335,
@@ -108,7 +122,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❤️ HI CHAT ❤️ COZY ASMR!!!! !socials !freesub",
-    "stream_viewer_count": 1015,
+    "stream_viewer_count": 976,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blinkx_-{width}x{height}.jpg"
   },
   {
@@ -122,7 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🛥️EGIRL DINGHY PARTY 👉 DM me at ONLYVIC.COM @victoria",
-    "stream_viewer_count": 583,
+    "stream_viewer_count": 573,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
   },
   {
@@ -136,22 +150,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🍒 Delicate Mouth Sounds & Licks 🍒 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 457,
+    "stream_viewer_count": 469,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 562723403,
-    "user_login": "strawberrytabby",
-    "user_display_name": "StrawberryTabby",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53df79d1-6739-4c2b-9b6b-dd9e708aeebd-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 44604508715,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "OH MY GOD IT'S HAPPENING  | !s 💖➜ my links",
-    "stream_viewer_count": 401,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   },
   {
     "user_id": 122979652,
@@ -164,22 +164,8 @@
     "stream_game_id": "1264310518",
     "stream_game_name": "Marvel Rivals",
     "stream_title": "👻DROPS 👻FREE CODE GIVEAWAY AT 8PM EST 👻YIPPEE 👻GAMING 👻WOAH 👻REACTIONS 👻 WOWIEEE 👻CONTENT     I !s !discord",
-    "stream_viewer_count": 298,
+    "stream_viewer_count": 315,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 584625730,
-    "user_login": "ivanahyde",
-    "user_display_name": "IvanaHyde",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cf75f98-b6e8-4388-b4ea-997c603f7906-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77441d1e-1853-469f-ad5b-21b512c65c00-channel_offline_image-1920x1080.png",
-    "stream_id": 40900079797,
-    "stream_game_id": "512953",
-    "stream_game_name": "ELDEN RING",
-    "stream_title": "BACK AT IT AGAIN! W/@adrianachechik_ ALL BOSSES | !ppp | !wishlist | !merch | !completed",
-    "stream_viewer_count": 252,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivanahyde-{width}x{height}.jpg"
   },
   {
     "user_id": 197406569,
@@ -192,7 +178,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "LIVE HYDROPLANE BOAT RACES  💜 !throne !wishlist !socials",
-    "stream_viewer_count": 246,
+    "stream_viewer_count": 288,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
@@ -206,8 +192,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN 💗 ASMR  ♡ relax with me  ♡  !S💗",
-    "stream_viewer_count": 244,
+    "stream_viewer_count": 260,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 584625730,
+    "user_login": "ivanahyde",
+    "user_display_name": "IvanaHyde",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cf75f98-b6e8-4388-b4ea-997c603f7906-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/77441d1e-1853-469f-ad5b-21b512c65c00-channel_offline_image-1920x1080.png",
+    "stream_id": 40900079797,
+    "stream_game_id": "512953",
+    "stream_game_name": "ELDEN RING",
+    "stream_title": "BACK AT IT AGAIN! W/@adrianachechik_ ALL BOSSES | !ppp | !wishlist | !merch | !completed",
+    "stream_viewer_count": 247,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ivanahyde-{width}x{height}.jpg"
   },
   {
     "user_id": 420015559,
@@ -220,7 +220,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔴BE😡MY🍒FRIEND🥵NOW⭕!!!!🔴  |$2/200 bit tts| !socials !donate !ASMR",
-    "stream_viewer_count": 212,
+    "stream_viewer_count": 214,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiarairl-{width}x{height}.jpg"
   },
   {
@@ -234,7 +234,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ DANCE PARTY❤️ FOLLOW ME ON MY !SOCIALS ❤️ enjoy this rerun while I am out",
-    "stream_viewer_count": 97,
+    "stream_viewer_count": 101,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alittlekay-{width}x{height}.jpg"
   },
   {
@@ -248,7 +248,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR :3 !s for links !youtube 🖤",
-    "stream_viewer_count": 57,
+    "stream_viewer_count": 50,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -262,7 +262,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "2 GIRLS 1 BOAT  ~ !socials",
-    "stream_viewer_count": 34,
+    "stream_viewer_count": 39,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylorstarlight-{width}x{height}.jpg"
   },
   {
@@ -290,7 +290,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR Ear licking & oil massage & mouth sounds✨️  IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 19,
+    "stream_viewer_count": 17,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   }
 ]
