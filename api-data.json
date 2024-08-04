@@ -1,17 +1,31 @@
 [
   {
-    "user_id": 503369631,
-    "user_login": "asianbunnyx",
-    "user_display_name": "asianbunnyx",
+    "user_id": 70964046,
+    "user_login": "bunnyayu",
+    "user_display_name": "BunnyAyu",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3816d1df-e349-4cbe-aa1f-64f281d361cb-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39306141844,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f7c77b-85d6-4e08-837b-920d087d843b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f27ef6f2-2082-48df-8582-5c4f14449953-channel_offline_image-1920x1080.png",
+    "stream_id": 42590102222,
+    "stream_game_id": "512953",
+    "stream_game_name": "ELDEN RING",
+    "stream_title": "FIRST TIME PLAYER 🤍 [NOT DLC] | !supps | !discord | !s",
+    "stream_viewer_count": 2215,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnyayu-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 562723403,
+    "user_login": "strawberrytabby",
+    "user_display_name": "StrawberryTabby",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53df79d1-6739-4c2b-9b6b-dd9e708aeebd-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 44628156811,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "(18+) [LIVE]  MOIST STREAM , NO BRAS , YT EDIT NEEDED !F | IG: _ASIANBUNNYX_  SUB FOR more of me (Tiếng Việt/English ONLY) | !socials",
-    "stream_viewer_count": 5021,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asianbunnyx-{width}x{height}.jpg"
+    "stream_title": "NEW YOUTUBE VID CHECK IT OUT! | !s 💖➜ my links",
+    "stream_viewer_count": 1613,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   },
   {
     "user_id": 93269531,
@@ -24,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Dance Party ( CLICK THE PINNED LINK) RERUN",
-    "stream_viewer_count": 1531,
+    "stream_viewer_count": 1461,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_destinyfomo-{width}x{height}.jpg"
   },
   {
@@ -38,36 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️LIVE❤️SOOOOO WHAT'S NEW ☺️☺️☺️ ~ Type !s for socials",
-    "stream_viewer_count": 1049,
+    "stream_viewer_count": 1021,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bellaramatv-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 184147110,
-    "user_login": "olesyaliberman",
-    "user_display_name": "OLESYALIBERMAN",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f73f547c-913d-4565-bde4-3b89d0040745-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8daf5e24-cc88-422f-b405-75fdaa480418-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 41493492487,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔴BIG🔴STREAM🔴 WITH🔴BIG🔴PERSONALITY🔴check my -> Insta !inst",
-    "stream_viewer_count": 716,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_olesyaliberman-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 70964046,
-    "user_login": "bunnyayu",
-    "user_display_name": "BunnyAyu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f7c77b-85d6-4e08-837b-920d087d843b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f27ef6f2-2082-48df-8582-5c4f14449953-channel_offline_image-1920x1080.png",
-    "stream_id": 42590102222,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "FIRST TIME PLAYER 🤍 [NOT DLC] | !supps | !discord | !s",
-    "stream_viewer_count": 688,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnyayu-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -80,8 +66,22 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "ITS SO HOT OUTSIDE 🥵🔥👉 DM me at ONLYVIC.COM",
-    "stream_viewer_count": 675,
+    "stream_viewer_count": 659,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 184147110,
+    "user_login": "olesyaliberman",
+    "user_display_name": "OLESYALIBERMAN",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f73f547c-913d-4565-bde4-3b89d0040745-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8daf5e24-cc88-422f-b405-75fdaa480418-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 41493492487,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🔴BIG🔴STREAM🔴 WITH🔴BIG🔴PERSONALITY🔴check my -> Insta !inst",
+    "stream_viewer_count": 624,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_olesyaliberman-{width}x{height}.jpg"
   },
   {
     "user_id": 753374792,
@@ -94,7 +94,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋 Leather Love 🖤 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 521,
+    "stream_viewer_count": 606,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -107,8 +107,8 @@
     "stream_id": 39306205732,
     "stream_game_id": "737987407",
     "stream_game_name": "Enshrouded",
-    "stream_title": "🔎 Top 500 Marvel Rivals Today 🔎 Pink Names in the Chat Box? 🔎 Mod Spam 🔎 Day Off Soon 🔎Games With Friends Later 🔎 I !s !discord",
-    "stream_viewer_count": 475,
+    "stream_title": "GAMING WITH @disismeg 🔎 Top 500 Marvel Rivals Today 🔎 Pink Names in the Chat Box? 🔎 Mod Spam 🔎 Day Off Soon 🔎 I !s !discord",
+    "stream_viewer_count": 456,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
   },
   {
@@ -122,7 +122,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❤️Strawberry Or Cherry ?㊗️18+🔞👋 !S  !king",
-    "stream_viewer_count": 456,
+    "stream_viewer_count": 391,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
@@ -136,7 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️SPECIAL DANCE STRIM UNLOCK❤️LOVELY DANCING ALL NIGHT❤️3’ FOOT TALL FUNSIZE ASIAN NPC❤️",
-    "stream_viewer_count": 361,
+    "stream_viewer_count": 379,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
@@ -150,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "LIVE LIVE LIVE FEEL GOOD WITH ME !dance !qotd",
-    "stream_viewer_count": 356,
+    "stream_viewer_count": 363,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kthxsai-{width}x{height}.jpg"
   },
   {
@@ -164,36 +164,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RERUN 💗 ASMR  ♡ relax with me  ♡  !S💗",
-    "stream_viewer_count": 271,
+    "stream_viewer_count": 274,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
-    "user_id": 420015559,
-    "user_login": "kiarairl",
-    "user_display_name": "KiaraIRL",
+    "user_id": 544502795,
+    "user_login": "ibabyrainbow",
+    "user_display_name": "ibabyrainbow",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/72fb69d1-4364-47ad-8970-619020d5645e-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 39306151556,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cce08c5-7c4a-48d0-94ca-29b877f8c5a7-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1aad7f9b-5c3e-4d0f-80ec-6bf190898cc3-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 51682641069,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "💦EGIRL PJ PARTY (of 1)💦COME JOIN U SEXY BEAST 💦  |$2/200 bit tts| !socials !donate !ASMR",
-    "stream_viewer_count": 232,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiarairl-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 663877711,
-    "user_login": "ritaglitch",
-    "user_display_name": "ritaglitch",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5caac78d-f2eb-4df6-bc3c-be7982b87b74-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 40920984069,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "KARAOKE BAR in Portugal 🎉❤️  !tip !throne",
-    "stream_viewer_count": 115,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ritaglitch-{width}x{height}.jpg"
+    "stream_title": "I <3 KYOTO",
+    "stream_viewer_count": 127,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ibabyrainbow-{width}x{height}.jpg"
   },
   {
     "user_id": 78985277,
@@ -206,7 +192,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ DANCE PARTY!!! ❤️ FOLLOW ME ON MY !SOCIALS ❤️ enjoy this rerun while I am out",
-    "stream_viewer_count": 112,
+    "stream_viewer_count": 93,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alittlekay-{width}x{height}.jpg"
   },
   {
@@ -220,7 +206,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 69,
+    "stream_viewer_count": 58,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -234,7 +220,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR :3 i'll be back soon!! !s for links !youtube 🖤",
-    "stream_viewer_count": 50,
+    "stream_viewer_count": 43,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -248,21 +234,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💋ASMR RELAX TIME",
-    "stream_viewer_count": 32,
+    "stream_viewer_count": 24,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whitespaa-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 562723403,
-    "user_login": "strawberrytabby",
-    "user_display_name": "StrawberryTabby",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53df79d1-6739-4c2b-9b6b-dd9e708aeebd-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 44628156811,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "NEW YOUTUBE VID CHECK IT OUT! | !s 💖➜ my links",
-    "stream_viewer_count": 19,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   }
 ]
