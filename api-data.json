@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 43028909,
-    "user_login": "fandy",
-    "user_display_name": "Fandy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4afdfc42-5dd0-4dda-bd44-c49bc3806e83-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/27d6c255-ea6e-4fce-9db6-3cb04e34c35d-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 42762993310,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "!s - 🎈BIRTHDAY STREAM!! :^) 🎁 TWITCH FRONT PAGE TODAY OH MY | ONLYFANGS STARTS NOV 21ST!! - TEAM TAUREN 🐮 !gs | Insta/Twitter - @fandybtw",
-    "stream_viewer_count": 2437,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fandy-{width}x{height}.jpg"
-  },
-  {
     "user_id": 798454309,
     "user_login": "bellaramatv",
     "user_display_name": "BellaRamaTV",
@@ -24,7 +10,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "rerun❤️WHO'S THIS GIRL??? WHAT HAPPENED TO BELLA???❤️!s for socials",
-    "stream_viewer_count": 1621,
+    "stream_viewer_count": 1556,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bellaramatv-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "LIVE ASMR Emptying Wallets 🧡 !SOCIALS🧡",
-    "stream_viewer_count": 1069,
+    "stream_viewer_count": 1250,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "ROLEPLAY SOY TU NOVIA @ijenzlive",
-    "stream_viewer_count": 901,
+    "stream_viewer_count": 876,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -66,7 +52,7 @@
     "stream_game_id": "32399",
     "stream_game_name": "Counter-Strike",
     "stream_title": "🌴 BACK IN ORLANDO 🌴🦩 | !insta",
-    "stream_viewer_count": 743,
+    "stream_viewer_count": 755,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   },
   {
@@ -80,22 +66,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "CAN I BE YOUR PRINCESS? 👉 DM me at ONLYVIC.COM",
-    "stream_viewer_count": 543,
+    "stream_viewer_count": 545,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 492779169,
-    "user_login": "xoaeriel",
-    "user_display_name": "xoAeriel",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93fc3849-d67b-476b-9083-26dbf936e79d-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e26b60a9-7e23-41ab-b91e-b1130e47798a-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 45039339259,
-    "stream_game_id": "1672324422",
-    "stream_game_name": "Call of Duty: Black Ops 6",
-    "stream_title": "financially ruining betas !socials !Throne !fight",
-    "stream_viewer_count": 446,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xoaeriel-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -108,8 +80,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Soldier girl♣😍🥵💛18+🔞👋 !S  !king #Cosplay",
-    "stream_viewer_count": 428,
+    "stream_viewer_count": 430,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 492779169,
+    "user_login": "xoaeriel",
+    "user_display_name": "xoAeriel",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93fc3849-d67b-476b-9083-26dbf936e79d-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e26b60a9-7e23-41ab-b91e-b1130e47798a-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 45039339259,
+    "stream_game_id": "1672324422",
+    "stream_game_name": "Call of Duty: Black Ops 6",
+    "stream_title": "financially ruining betas !socials !Throne !fight",
+    "stream_viewer_count": 425,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xoaeriel-{width}x{height}.jpg"
   },
   {
     "user_id": 635001460,
@@ -122,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "CLICK ONLY IF UR CUTE❤️FIT CHECKS GO CRAZY❤️3’ FOOT TALL FUNSIZE ASIAN NPC❤️",
-    "stream_viewer_count": 339,
+    "stream_viewer_count": 346,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
@@ -136,22 +122,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW FASHION SHOW ❤️ ! -> !insta !rerun",
-    "stream_viewer_count": 305,
+    "stream_viewer_count": 325,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
-    "user_id": 108504505,
-    "user_login": "kichike",
-    "user_display_name": "kichike",
+    "user_id": 148114007,
+    "user_login": "rayrachel",
+    "user_display_name": "RayRachel",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/73b49d49-8670-4286-ab95-c14f2b926b2e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/19dcbda6-a9c9-46fa-8090-7897470b65ae-channel_offline_image-1920x1080.png",
-    "stream_id": 45039889211,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Lets dance!!!!",
-    "stream_viewer_count": 260,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kichike-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/628357ab-ea60-428d-a106-903cbffa937e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a942ea9f-f524-4904-80f5-0dee5e339446-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 39486712996,
+    "stream_game_id": "26936",
+    "stream_game_name": "Music",
+    "stream_title": "Relax with me and the fishes - !socials !fish !tiktok",
+    "stream_viewer_count": 184,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
     "user_id": 160538649,
@@ -160,11 +146,11 @@
     "user_broadcaster_type": "partner",
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d0a3d57-2087-4f4e-b4cf-fa8cd7602f8b-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
-    "stream_id": 42759751342,
+    "stream_id": 42764300222,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW 👀❤️ | !s (no !ig rn sry)",
-    "stream_viewer_count": 247,
+    "stream_viewer_count": 139,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -178,7 +164,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🔴 BIKINI DANCING 🟩 BIRTHDAY SUBATHON NOV 21ST 🟩  [RERUN] 🔴 !SOCIALS",
-    "stream_viewer_count": 103,
+    "stream_viewer_count": 129,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alittlekay-{width}x{height}.jpg"
   },
   {
@@ -192,22 +178,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🧟 ZOMBIES ZOMBIES ZOMBIES 🧟  ~ !leaf ~ !links ~ !wishlist ~ !merch",
-    "stream_viewer_count": 83,
+    "stream_viewer_count": 90,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_denver_maxx-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 810167170,
-    "user_login": "cinderella_tv_",
-    "user_display_name": "Cinderella_TV_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c215d0ad-442f-4b0e-a1d9-24170d6b62d0-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef047c68-38fc-412b-8f5a-9fbca9a114f8-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 43205251272,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "Maid is here to clean your room :) -rr",
-    "stream_viewer_count": 71,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cinderella_tv_-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -220,8 +192,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 54,
+    "stream_viewer_count": 59,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 810167170,
+    "user_login": "cinderella_tv_",
+    "user_display_name": "Cinderella_TV_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c215d0ad-442f-4b0e-a1d9-24170d6b62d0-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef047c68-38fc-412b-8f5a-9fbca9a114f8-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 43205251272,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "Maid is here to clean your room :) -rr",
+    "stream_viewer_count": 58,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cinderella_tv_-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -234,7 +220,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR ^_^ live tonight !s for links !youtube 🖤",
-    "stream_viewer_count": 27,
+    "stream_viewer_count": 23,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   }
 ]
