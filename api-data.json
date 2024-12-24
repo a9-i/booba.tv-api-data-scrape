@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 798454309,
-    "user_login": "bellaramatv",
-    "user_display_name": "BellaRamaTV",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4482647-7818-4d19-9eec-e61c04525faf-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b746f3e-74c5-4aca-a93f-b1d19a5bf168-channel_offline_image-1920x1080.png",
-    "stream_id": 45219276427,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "❤️RERUN❤️RELAXING ASMR... WILL BE BACK FOR CHRISTMAS☺️☺️☺️ ~ Type !s for socials",
-    "stream_viewer_count": 1399,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bellaramatv-{width}x{height}.jpg"
-  },
-  {
     "user_id": 433889576,
     "user_login": "corneliusthecat",
     "user_display_name": "corneliusthecat",
@@ -24,8 +10,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗LIVE ASMR Meow + Merry Christmas & Happy holidays :3 !KICK AFTER O_O :3  !S  <3  !discord !twitter !YT O_o !S  ^.^ !S",
-    "stream_viewer_count": 1335,
+    "stream_viewer_count": 1411,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_corneliusthecat-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 798454309,
+    "user_login": "bellaramatv",
+    "user_display_name": "BellaRamaTV",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4482647-7818-4d19-9eec-e61c04525faf-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b746f3e-74c5-4aca-a93f-b1d19a5bf168-channel_offline_image-1920x1080.png",
+    "stream_id": 45219276427,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "❤️RERUN❤️RELAXING ASMR... WILL BE BACK FOR CHRISTMAS☺️☺️☺️ ~ Type !s for socials",
+    "stream_viewer_count": 1395,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bellaramatv-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -38,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "OMG CHRISTMAS IS COMING 👉 DM me at ONLYVIC.COM",
-    "stream_viewer_count": 1244,
+    "stream_viewer_count": 1216,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "TENGO 3 CANALES, ESTE, @ijenzlive y @ijenzvod 💖",
-    "stream_viewer_count": 923,
+    "stream_viewer_count": 893,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR RERUN TINGLES Merry Chrimuh!🎄🎅 !SOCIALS",
-    "stream_viewer_count": 754,
+    "stream_viewer_count": 798,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
@@ -80,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE ASMR 🎄❄️ X-MAS SEASON ❄️ - MOMMY MUCHOS BESOS Y LAMETONES 😳🎄 !PRIME !redes",
-    "stream_viewer_count": 568,
+    "stream_viewer_count": 687,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   },
   {
@@ -94,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "!RR Out & About 🙈| !insta ➜ link in bio 💖",
-    "stream_viewer_count": 559,
+    "stream_viewer_count": 591,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "MERRY CHRISTMAS! !s [ENG]",
-    "stream_viewer_count": 475,
+    "stream_viewer_count": 473,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
   },
   {
@@ -122,8 +122,22 @@
     "stream_game_id": "1804231074",
     "stream_game_name": "MapleStory Worlds",
     "stream_title": "merry christmas!~",
-    "stream_viewer_count": 397,
+    "stream_viewer_count": 458,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaise-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 122979652,
+    "user_login": "aikobliss",
+    "user_display_name": "aikobliss",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6524fd80-e752-4638-b83c-4f377d599611-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ebe0541-9c5b-43c6-a1c1-17ba556f09af-channel_offline_image-1920x1080.png",
+    "stream_id": 43430308056,
+    "stream_game_id": "1264310518",
+    "stream_game_name": "Marvel Rivals",
+    "stream_title": "🔔 REACTS 🔔 DROPS 🔔 DIAMOND 2 MARVEL RIVALS GAMEPLAY 🔔 PROBABLY A SMALL FILLER GAME 🔔 | !discord !competition",
+    "stream_viewer_count": 437,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -136,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Mrs. Claus ♣😍🥵💛18+🔞👋 !S  !king #Cosplay #Anime Sharon Goddess UwU Massage",
-    "stream_viewer_count": 391,
+    "stream_viewer_count": 392,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
   },
   {
@@ -150,22 +164,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🎄 Under the Mistletoe 💋 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 356,
+    "stream_viewer_count": 332,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
-    "user_id": 122979652,
-    "user_login": "aikobliss",
-    "user_display_name": "aikobliss",
+    "user_id": 593860034,
+    "user_login": "thewildlatina",
+    "user_display_name": "thewildlatina",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6524fd80-e752-4638-b83c-4f377d599611-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ebe0541-9c5b-43c6-a1c1-17ba556f09af-channel_offline_image-1920x1080.png",
-    "stream_id": 43430308056,
-    "stream_game_id": "1264310518",
-    "stream_game_name": "Marvel Rivals",
-    "stream_title": "🔔 REACTS 🔔 DROPS 🔔 DIAMOND 2 MARVEL RIVALS GAMEPLAY 🔔 PROBABLY A SMALL FILLER GAME 🔔 | !discord !competition",
-    "stream_viewer_count": 308,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d76d7fe2-54c7-41ea-bae4-3a60b3aca432-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0515478-8451-41ba-bdd1-9d360388448c-channel_offline_image-1920x1080.png",
+    "stream_id": 52761221533,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "♡ 2 days till LATINA-MAS ... !wishlist ♡ !SONG !LINKS ♡",
+    "stream_viewer_count": 285,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
     "user_id": 452985358,
@@ -178,7 +192,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗 JUST CALL ME MOTHER 💗 ASMR  ♡ relax with me  ♡  !S💗",
-    "stream_viewer_count": 198,
+    "stream_viewer_count": 206,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -192,7 +206,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | NEW IG: FAITHTTV_",
-    "stream_viewer_count": 174,
+    "stream_viewer_count": 191,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -206,22 +220,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW FASHION SHOW ❤️ ! -> !insta !rerun",
-    "stream_viewer_count": 162,
+    "stream_viewer_count": 145,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 593860034,
-    "user_login": "thewildlatina",
-    "user_display_name": "thewildlatina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d76d7fe2-54c7-41ea-bae4-3a60b3aca432-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0515478-8451-41ba-bdd1-9d360388448c-channel_offline_image-1920x1080.png",
-    "stream_id": 52761221533,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "♡ 2 days till LATINA-MAS ... !wishlist ♡ !SONG !LINKS ♡",
-    "stream_viewer_count": 127,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
     "user_id": 430642455,
@@ -234,7 +234,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Enjoy this stream , is a RERUN !! See you tomorrow LIVE !! ❤️   !youtube !insta !socials",
-    "stream_viewer_count": 58,
+    "stream_viewer_count": 65,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
@@ -248,7 +248,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Ear licking & mouth sounds🎄ASMR [Merry Christmas] IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 57,
+    "stream_viewer_count": 48,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
@@ -262,7 +262,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR ^_^  !s for links !youtube 🖤",
-    "stream_viewer_count": 37,
+    "stream_viewer_count": 32,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   }
 ]
