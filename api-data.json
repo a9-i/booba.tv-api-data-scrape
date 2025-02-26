@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 265053976,
-    "user_login": "sereda",
-    "user_display_name": "Sereda",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3c34b17-4a6d-4ff8-9220-9053b51dab09-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e1692c7-9384-4617-967a-f9ebcd17d40a-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316836405500,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "REBELS AND ROYALS RELEASE! AYE !youtube",
-    "stream_viewer_count": 1198,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sereda-{width}x{height}.jpg"
-  },
-  {
     "user_id": 593860034,
     "user_login": "thewildlatina",
     "user_display_name": "thewildlatina",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "♡ ANNOUNCEMENT NEW SONG!! PRE-SAVE \"Heart Eyes\" NOW !SONG ♡  “It Kills Me\" OUT NOW !song !links !donate !wishlist",
-    "stream_viewer_count": 678,
+    "stream_viewer_count": 659,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
@@ -38,22 +24,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "SUPER HOT DANCE !s [ENG] rerun",
-    "stream_viewer_count": 520,
+    "stream_viewer_count": 543,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 531990402,
-    "user_login": "popazik",
-    "user_display_name": "popazik",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ba8f806-945b-4caf-ae17-c2535e8460b3-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316340851705,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "°˖✧◝(„• ᴗ •„)◜✧˖° | !socials",
-    "stream_viewer_count": 494,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
   },
   {
     "user_id": 468630073,
@@ -66,22 +38,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Why are men mean 2 me",
-    "stream_viewer_count": 333,
+    "stream_viewer_count": 347,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deathlyill-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 753374792,
-    "user_login": "sarenewild",
-    "user_display_name": "SareneWild",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e40e27f-9724-40f5-8f8a-dbcbb191b824-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c5d65e-745a-461a-9723-3e0d80eac8ef-channel_offline_image-1920x1080.png",
-    "stream_id": 316791371388,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💚 Shego watches you lose! 🖤 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 300,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
     "user_id": 604187751,
@@ -94,8 +52,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ʚ🍓ɞ˚‧👅｡⋆☀️♡ 🐱 🤤mouthsounds & music🌙🖤CATS MANSION 🐱👑🧚🏻‍♀️❤️‍🔥 !tip !vip1 SUSCRIBE ⬇️ =😚🥰",
-    "stream_viewer_count": 279,
+    "stream_viewer_count": 299,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 753374792,
+    "user_login": "sarenewild",
+    "user_display_name": "SareneWild",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e40e27f-9724-40f5-8f8a-dbcbb191b824-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c5d65e-745a-461a-9723-3e0d80eac8ef-channel_offline_image-1920x1080.png",
+    "stream_id": 316791371388,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💚 Shego watches you lose! 🖤 !𝓡𝓡 | @SareneWild",
+    "stream_viewer_count": 290,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
     "user_id": 688580706,
@@ -108,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "籌阿武生日禮物錢<3",
-    "stream_viewer_count": 198,
+    "stream_viewer_count": 259,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inugami1023-{width}x{height}.jpg"
   },
   {
@@ -122,7 +94,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗 EAR LOVING 💗 ASMR  ♡ relax with me  ♡  !S💗",
-    "stream_viewer_count": 176,
+    "stream_viewer_count": 186,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -136,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | NEW IG: FAITHTTV_",
-    "stream_viewer_count": 173,
+    "stream_viewer_count": 148,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -150,7 +122,7 @@
     "stream_game_id": "26936",
     "stream_game_name": "Music",
     "stream_title": "Relax with me!! !socials",
-    "stream_viewer_count": 111,
+    "stream_viewer_count": 117,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
@@ -164,7 +136,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "StreamVi.ru live stream",
-    "stream_viewer_count": 95,
+    "stream_viewer_count": 108,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
@@ -178,7 +150,7 @@
     "stream_game_id": "509672",
     "stream_game_name": "IRL",
     "stream_title": "get ready with me",
-    "stream_viewer_count": 65,
+    "stream_viewer_count": 66,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_josyutopia-{width}x{height}.jpg"
   },
   {
@@ -192,7 +164,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Demon Ear licking & mouth sounds✨️ASMR [cosplay] IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 54,
+    "stream_viewer_count": 56,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
@@ -206,7 +178,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 45,
+    "stream_viewer_count": 30,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   }
 ]
