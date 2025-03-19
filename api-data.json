@@ -1,33 +1,5 @@
 [
   {
-    "user_id": 562723403,
-    "user_login": "strawberrytabby",
-    "user_display_name": "StrawberryTabby",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53df79d1-6739-4c2b-9b6b-dd9e708aeebd-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 318086249724,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "I KEEP WAKING UP AT 4 AM | !ig !yt ➜ link in bio 💖",
-    "stream_viewer_count": 1239,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 430551896,
-    "user_login": "kdrkitten",
-    "user_display_name": "KDRkitten",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94f256ad-e3fd-4754-93d0-ad3e25652123-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1241b258-f383-4ba4-bba2-1a0b94381f80-channel_offline_image-1920x1080.png",
-    "stream_id": 317421866233,
-    "stream_game_id": "255298418",
-    "stream_game_name": "FINAL FANTASY VII REBIRTH",
-    "stream_title": "AHH ICH BIN ZURÜCK I HAB GESCHENKE !ff7 I SPÄTER NINJABIM l !März mit Herz l !prepmymeal !holzkern #werbung",
-    "stream_viewer_count": 1030,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdrkitten-{width}x{height}.jpg"
-  },
-  {
     "user_id": 137909053,
     "user_login": "ms_tricky",
     "user_display_name": "Ms_Tricky",
@@ -38,8 +10,36 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE 💖 draining wallets ✨ !socials",
-    "stream_viewer_count": 975,
+    "stream_viewer_count": 1148,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ms_tricky-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 430551896,
+    "user_login": "kdrkitten",
+    "user_display_name": "KDRkitten",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/94f256ad-e3fd-4754-93d0-ad3e25652123-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1241b258-f383-4ba4-bba2-1a0b94381f80-channel_offline_image-1920x1080.png",
+    "stream_id": 317421866233,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "AHH ICH BIN ZURÜCK I HAB GESCHENKE I SPÄTER NINJABIM l !März mit Herz l !prepmymeal !holzkern #werbung",
+    "stream_viewer_count": 1088,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdrkitten-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 562723403,
+    "user_login": "strawberrytabby",
+    "user_display_name": "StrawberryTabby",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53df79d1-6739-4c2b-9b6b-dd9e708aeebd-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 318086249724,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I KEEP WAKING UP AT 4 AM | !ig !yt ➜ link in bio 💖",
+    "stream_viewer_count": 1063,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
   },
   {
     "user_id": 628967771,
@@ -52,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "I'm here what are your other two wishes?  || !s = socials",
-    "stream_viewer_count": 649,
+    "stream_viewer_count": 763,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buccatax-{width}x{height}.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "hola jeje",
-    "stream_viewer_count": 598,
+    "stream_viewer_count": 636,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
   },
   {
@@ -80,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🖤 Latex Obsessed! 🎀 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 501,
+    "stream_viewer_count": 522,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -94,22 +94,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔴LIVE🔴FR/ENG COOKING SPECIAL❤️ADD ME INSTA❤️!S !WISHLIST",
-    "stream_viewer_count": 402,
+    "stream_viewer_count": 481,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaellyn-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 658070925,
-    "user_login": "zazoge",
-    "user_display_name": "zazoge",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adda3a04-c769-4880-939c-5073f2463941-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 317411666937,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "♥ COME HANG OUT ♥ !links !discord",
-    "stream_viewer_count": 351,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -122,8 +108,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Queen is back! ♣😍🥵💛18+🔞👋 !S  !king #Cosplay #Anime Sharon Goddess UwU Massage",
-    "stream_viewer_count": 333,
+    "stream_viewer_count": 346,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 658070925,
+    "user_login": "zazoge",
+    "user_display_name": "zazoge",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adda3a04-c769-4880-939c-5073f2463941-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 317411666937,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "♥ COME HANG OUT ♥ !links !discord",
+    "stream_viewer_count": 314,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
   },
   {
     "user_id": 452985358,
@@ -136,7 +136,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 296,
+    "stream_viewer_count": 307,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -150,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "(ENG/ESP)  @ijenzlive y @ijenzvod 💖",
-    "stream_viewer_count": 232,
+    "stream_viewer_count": 235,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -164,7 +164,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 217,
+    "stream_viewer_count": 201,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -178,7 +178,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR kisses con glosss 🥰 🐱😛😻🩷si te suscribes te doy besitos 🐱🧚🏻‍♀️❤️‍🔥SUSCRIBE 🔥⬇️ NUEVO YT EN MI PERFIL!! ❤️😳 !mommy !tip",
-    "stream_viewer_count": 208,
+    "stream_viewer_count": 197,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
   },
   {
@@ -192,22 +192,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW FASHION SHOW ❤️ ! -> !insta !rerun",
-    "stream_viewer_count": 156,
+    "stream_viewer_count": 155,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 78985277,
-    "user_login": "kaystryder",
-    "user_display_name": "Kaystryder",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b21304e-606b-4824-8a1b-9b3fc36aac96-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/98e69dcd-1031-4cda-a59e-92125a035b78-channel_offline_image-1920x1080.png",
-    "stream_id": 317996082812,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "🔴 BIKINI DANCING! 🔴 Kaystryder on all !SOCIALS [rerun]",
-    "stream_viewer_count": 135,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
   },
   {
     "user_id": 655439791,
@@ -220,7 +206,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Full spicy inspirational package 🔥🍋💃",
-    "stream_viewer_count": 135,
+    "stream_viewer_count": 151,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_liddylune-{width}x{height}.jpg"
   },
   {
@@ -234,7 +220,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💖Chilling Girl 💖 !s",
-    "stream_viewer_count": 135,
+    "stream_viewer_count": 144,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirakyox-{width}x{height}.jpg"
   },
   {
@@ -248,8 +234,22 @@
     "stream_game_id": "272263131",
     "stream_game_name": "Animals, Aquariums, and Zoos",
     "stream_title": "Relax with me!! !socials",
-    "stream_viewer_count": 131,
+    "stream_viewer_count": 127,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 78985277,
+    "user_login": "kaystryder",
+    "user_display_name": "Kaystryder",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b21304e-606b-4824-8a1b-9b3fc36aac96-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/98e69dcd-1031-4cda-a59e-92125a035b78-channel_offline_image-1920x1080.png",
+    "stream_id": 317996082812,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "🔴 BIKINI DANCING! 🔴 Kaystryder on all !SOCIALS [rerun]",
+    "stream_viewer_count": 121,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
   },
   {
     "user_id": 192786074,
@@ -262,7 +262,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌸 𝘾𝙝𝙞𝙡𝙡 𝙬𝙞𝙩𝙝 𝙢𝙚 𝙛𝙤𝙧 𝙨𝙤𝙢𝙚 𝘼𝙎𝙈𝙍 🌸 🌚 [𝙍𝙚𝙧𝙪𝙣] 🌚 🥵 𝙄'𝙢 𝙖𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 -> !socials 🥵",
-    "stream_viewer_count": 82,
+    "stream_viewer_count": 97,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
@@ -276,7 +276,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 80,
+    "stream_viewer_count": 64,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -290,8 +290,22 @@
     "stream_game_id": "33214",
     "stream_game_name": "Fortnite",
     "stream_title": "WIFEY IS HERE  FOR GAMING !!❤️🥰 ❤️  !youtube !insta !socials",
-    "stream_viewer_count": 43,
+    "stream_viewer_count": 45,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 149461209,
+    "user_login": "bunnydollxo",
+    "user_display_name": "bunnydollxo",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53240ee2-0ae1-4c9f-a299-6832ccba195d-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 319283599229,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "Heartbeat Licks Kisses & Moreeee ૮꒰ ˶• ༝ •˶꒱ა ♡ !Socials !Wishlist {rr for now}",
+    "stream_viewer_count": 23,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnydollxo-{width}x{height}.jpg"
   },
   {
     "user_id": 173319589,
@@ -306,19 +320,5 @@
     "stream_title": "술먹방 쫄비",
     "stream_viewer_count": 21,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jjolbi1987-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 149461209,
-    "user_login": "bunnydollxo",
-    "user_display_name": "bunnydollxo",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/53240ee2-0ae1-4c9f-a299-6832ccba195d-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 319283599229,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "Heartbeat Licks Kisses & Moreeee ૮꒰ ˶• ༝ •˶꒱ა ♡ !Socials !Wishlist {rr for now}",
-    "stream_viewer_count": 9,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnydollxo-{width}x{height}.jpg"
   }
 ]
