@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 153497051,
-    "user_login": "yoon_froggy",
-    "user_display_name": "윤개굴이",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/725b766f-caf5-4167-980d-dc53f3ceb556-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 314192499054,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Black Sporty ( •̀ ω •́ )y❤️ (kr/eng)",
-    "stream_viewer_count": 4416,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoon_froggy-{width}x{height}.jpg"
-  },
-  {
     "user_id": 198860406,
     "user_login": "beatberry_314",
     "user_display_name": "빛베리",
@@ -24,22 +10,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "hello",
-    "stream_viewer_count": 2748,
+    "stream_viewer_count": 2425,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beatberry_314-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 446325991,
-    "user_login": "pekeasmr",
-    "user_display_name": "pekeasmr",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b135fba8-aaf1-481f-95b1-1189983ee5f1-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f85a92c-812b-495a-8f8e-f369db530c1a-channel_offline_image-1920x1080.png",
-    "stream_id": 314638180341,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "LIVE ASMR 💗 🔞PEKE SHINOBU IS HERE MORE THICCC-POWERFUL THAN EVER READY TO HUNT DEMONS :3 | Kimetsu no Yaiba 🔥 💖 📢!Prime",
-    "stream_viewer_count": 1613,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   },
   {
     "user_id": 798454309,
@@ -56,6 +28,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bellaramatv-{width}x{height}.jpg"
   },
   {
+    "user_id": 446325991,
+    "user_login": "pekeasmr",
+    "user_display_name": "pekeasmr",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b135fba8-aaf1-481f-95b1-1189983ee5f1-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f85a92c-812b-495a-8f8e-f369db530c1a-channel_offline_image-1920x1080.png",
+    "stream_id": 314638180341,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "LIVE ASMR 💗 🔞PEKE SHINOBU IS HERE MORE THICCC-POWERFUL THAN EVER READY TO HUNT DEMONS :3 | Kimetsu no Yaiba 🔥 💖 📢!Prime",
+    "stream_viewer_count": 1199,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
+  },
+  {
     "user_id": 604187751,
     "user_login": "aurorafractubela_uwu",
     "user_display_name": "Aurorafractubela_uwu",
@@ -63,25 +49,11 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0bad757-0f28-4bca-b15a-70adf1abc564-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/501e0950-3901-46be-a262-8387c291b0bc-channel_offline_image-1920x1080.png",
     "stream_id": 320485054461,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "LIVE MEOW🩷THE BEST KISSES N ASMRRR AWWWR🩷 YA ESTOY AQUI CACHORRITO  UwU AURORA 🩷💖🫧♡ 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼mommy 💜",
-    "stream_viewer_count": 357,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 536906710,
-    "user_login": "ijenz",
-    "user_display_name": "IJenz",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/45fcecd7-6af2-4f8b-99db-088ba8ae41c0-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3668b504-8985-4352-9afd-c016c8c49e97-channel_offline_image-1920x1080.png",
-    "stream_id": 318139933049,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "QUIERES MIMITOS=💖",
-    "stream_viewer_count": 297,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
+    "stream_title": "RR🩷THE BEST KISSES N ASMRRR🩷 YA ESTOY AQUI CACHORRITO  UwU AURORA 🩷💖🫧♡ 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼mommy 💜",
+    "stream_viewer_count": 291,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
   },
   {
     "user_id": 160538649,
@@ -94,8 +66,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 171,
+    "stream_viewer_count": 204,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 112907244,
+    "user_login": "anastasia_lexmur",
+    "user_display_name": "Anastasia_Lexmur",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 318210677369,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "[ENG] 🌷WEEKENDS CHILL🌷🌱 COME AND SAY HI🌱 for support use !donate please🌱 !links !sub !ig",
+    "stream_viewer_count": 124,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   },
   {
     "user_id": 78985277,
@@ -108,7 +94,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🔥💖BIKINI DANCING💖🔥Kaystryder on all !SOCIALS [rerun]",
-    "stream_viewer_count": 98,
+    "stream_viewer_count": 103,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
   },
   {
@@ -122,22 +108,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌸 𝘾𝙝𝙞𝙡𝙡 𝙬𝙞𝙩𝙝 𝙢𝙚 𝙛𝙤𝙧 𝙨𝙤𝙢𝙚 𝘼𝙎𝙈𝙍 🌸 🌚 [𝙍𝙚𝙧𝙪𝙣] 🌚 🥵 𝙄'𝙢 𝙖𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 -> !socials 🥵",
-    "stream_viewer_count": 80,
+    "stream_viewer_count": 93,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
-    "user_id": 248388278,
-    "user_login": "malinkaa98",
-    "user_display_name": "Malinkaa98",
+    "user_id": 702449122,
+    "user_login": "beju_xx",
+    "user_display_name": "beju_xx",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd8037ea-3c53-44a3-aacf-686c8d26f3d3-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
-    "stream_id": 318208488441,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 76,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ecb771d1-a7fa-4b45-8e4a-35be10f1f7c9-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 318209509753,
+    "stream_game_id": "1256782967",
+    "stream_game_name": "Y2K",
+    "stream_title": "🌞IT'S A BEAUTIFUL DAY! 🌞SHOWER ME WITH ROSES? 🥹🥰 !tip !cheer",
+    "stream_viewer_count": 68,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beju_xx-{width}x{height}.jpg"
   },
   {
     "user_id": 429614703,
@@ -150,8 +136,36 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Devil Ear licking & mouth sounds✨️ASMR [cosplay] IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 64,
+    "stream_viewer_count": 67,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd8037ea-3c53-44a3-aacf-686c8d26f3d3-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
+    "stream_id": 318208488441,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
+    "stream_viewer_count": 47,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 103397701,
+    "user_login": "varvaria",
+    "user_display_name": "Varvaria",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/942c9da7-fdc6-4def-8674-71b65f18d42b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d408a78-a345-43d7-bd32-32bfbf91d618-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 318210170873,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Talk and Dance",
+    "stream_viewer_count": 46,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varvaria-{width}x{height}.jpg"
   },
   {
     "user_id": 777628590,
@@ -164,21 +178,7 @@
     "stream_game_id": "509672",
     "stream_game_name": "IRL",
     "stream_title": "Thailand 🇹🇭 | Bangkok Chinatown Riverside",
-    "stream_viewer_count": 50,
+    "stream_viewer_count": 42,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milolantana-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 112907244,
-    "user_login": "anastasia_lexmur",
-    "user_display_name": "Anastasia_Lexmur",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb65f1b0-2daa-4b13-bf77-54d777abed56-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 318208481401,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "[ENG] 🌷WEEKENDS CHILL🌷🌱 COME AND SAY HI🌱 for support use !donate please🌱 !links !sub !ig",
-    "stream_viewer_count": 14,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anastasia_lexmur-{width}x{height}.jpg"
   }
 ]
