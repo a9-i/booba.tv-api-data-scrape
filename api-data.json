@@ -1,5 +1,19 @@
 [
   {
+    "user_id": 562723403,
+    "user_login": "strawberrytabby",
+    "user_display_name": "StrawberryTabby",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a20b3279-e0e6-4464-a803-3a08167e7721-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 322071773820,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "I REGRET GERMANY 🇩🇪 | !ig !yt ➜ link in bio 💖!throne",
+    "stream_viewer_count": 2094,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
+  },
+  {
     "user_id": 446325991,
     "user_login": "pekeasmr",
     "user_display_name": "pekeasmr",
@@ -9,8 +23,8 @@
     "stream_id": 315104175348,
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
-    "stream_title": "LIVE ASMR 💗 🔞🦋 PEKE KOCHÕ, SISTER KOCHÕ FROM ANOTHER UNIVERSE|FRONT & REAR POISON, LETHAL BUT SOFT AS A BUTTERFLY @Pekeasmr 🔥💖📢 !Prime",
-    "stream_viewer_count": 1184,
+    "stream_title": "LIVE, BREAK TIME ASMR 💗 🔞🦋 PEKE KOCHÕ, SISTER KOCHÕ FROM ANOTHER UNIVERSE|FRONT & REAR POISON, LETHAL BUT SOFT @Pekeasmr 🔥💖📢 !Prime",
+    "stream_viewer_count": 1599,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   },
   {
@@ -24,7 +38,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "WAITING FOR SWITCH 2 🕒30 HOURS 🕒 👉 ONLYVIC.COM",
-    "stream_viewer_count": 1071,
+    "stream_viewer_count": 1050,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
   },
   {
@@ -38,36 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "♡ 3 DAYS UNTIL MY NEW SONG COMES OUT! PRE-SAVE MY NEW SONG \"Somebody's Son\" !SONG♡ !links !donate !wishlist",
-    "stream_viewer_count": 644,
+    "stream_viewer_count": 670,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 562723403,
-    "user_login": "strawberrytabby",
-    "user_display_name": "StrawberryTabby",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a20b3279-e0e6-4464-a803-3a08167e7721-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 322071773820,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "I REGRET GERMANY 🇩🇪 | !ig !yt ➜ link in bio 💖!throne",
-    "stream_viewer_count": 537,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 604187751,
-    "user_login": "aurorafractubela_uwu",
-    "user_display_name": "Aurorafractubela_uwu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/219311b3-a277-4c1d-beae-ea4740b45bae-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/501e0950-3901-46be-a262-8387c291b0bc-channel_offline_image-1920x1080.png",
-    "stream_id": 325450783741,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "EN VIVO LIVE 🎀🥰ASMR 🌸 ven 💘 A MIMIR BONITO 🥰 🥳 558/ 600 leoncitos 😍🖤 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 🥰",
-    "stream_viewer_count": 376,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
   },
   {
     "user_id": 536906710,
@@ -80,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🌟TU STREAMER DE DAILY CONTENT FAVORITA🌟 SIGUEME EN IG: @ijennz",
-    "stream_viewer_count": 351,
+    "stream_viewer_count": 350,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ijenz-{width}x{height}.jpg"
   },
   {
@@ -94,8 +80,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Date night now! ♣😍🥵💛18+🔞👋 !S  !king #Cosplay #Anime Sharon Goddess UwU Massage",
-    "stream_viewer_count": 256,
+    "stream_viewer_count": 247,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 604187751,
+    "user_login": "aurorafractubela_uwu",
+    "user_display_name": "Aurorafractubela_uwu",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/219311b3-a277-4c1d-beae-ea4740b45bae-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/501e0950-3901-46be-a262-8387c291b0bc-channel_offline_image-1920x1080.png",
+    "stream_id": 325455135357,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "EN VIVO LIVE 🎀🥰ASMR 🌸 ven 💘 A MIMIR BONITO 🥰 🥳 558/ 600 leoncitos 😍🖤 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 🥰",
+    "stream_viewer_count": 222,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
   },
   {
     "user_id": 452985358,
@@ -108,7 +108,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 200,
+    "stream_viewer_count": 189,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -122,7 +122,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ FASHION SHOW - a day with me ❤️  -> !insta !rerun",
-    "stream_viewer_count": 162,
+    "stream_viewer_count": 145,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
@@ -136,7 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 116,
+    "stream_viewer_count": 134,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -150,22 +150,8 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🔥BIKINI DANCING ❤️❤️Kaystryder on all !socials !merch [rerun]",
-    "stream_viewer_count": 102,
+    "stream_viewer_count": 79,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 248388278,
-    "user_login": "malinkaa98",
-    "user_display_name": "Malinkaa98",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd8037ea-3c53-44a3-aacf-686c8d26f3d3-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
-    "stream_id": 325302076285,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 90,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 192786074,
@@ -178,8 +164,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌸 𝘾𝙝𝙞𝙡𝙡 𝙬𝙞𝙩𝙝 𝙢𝙚 𝙛𝙤𝙧 𝙨𝙤𝙢𝙚 𝘼𝙎𝙈𝙍 🌸 🌚 [𝙍𝙚𝙧𝙪𝙣] 🌚 🥵 𝙄'𝙢 𝙖𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 -> !socials 🥵",
-    "stream_viewer_count": 78,
+    "stream_viewer_count": 72,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd8037ea-3c53-44a3-aacf-686c8d26f3d3-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
+    "stream_id": 325302076285,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
+    "stream_viewer_count": 65,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -192,7 +192,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR ^_^ missed you!!! <3  !s for links !youtube 🖤",
-    "stream_viewer_count": 54,
+    "stream_viewer_count": 59,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -206,7 +206,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Devil Ear licking & mouth sounds✨️ASMR [cosplay] IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 37,
+    "stream_viewer_count": 41,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   }
 ]
