@@ -1,33 +1,5 @@
 [
   {
-    "user_id": 70964046,
-    "user_login": "bunnyayu",
-    "user_display_name": "BunnyAyu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f7c77b-85d6-4e08-837b-920d087d843b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f27ef6f2-2082-48df-8582-5c4f14449953-channel_offline_image-1920x1080.png",
-    "stream_id": 322218695036,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "LIVE WAIFU ASMR 🤍✨ !s for my socials",
-    "stream_viewer_count": 3818,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnyayu-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 503369631,
-    "user_login": "asianbunnyx",
-    "user_display_name": "asianbunnyx",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3816d1df-e349-4cbe-aa1f-64f281d361cb-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 325683588861,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "!YT[LIVE]  emo maid IG: _ASIANBUNNYX_ (Tiếng Việt/English ONLY) | !socials !supps !update",
-    "stream_viewer_count": 3809,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asianbunnyx-{width}x{height}.jpg"
-  },
-  {
     "user_id": 604187751,
     "user_login": "aurorafractubela_uwu",
     "user_display_name": "Aurorafractubela_uwu",
@@ -38,8 +10,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🥰 vaquita uwu ASMR |~ven a relajarte 💘 Kisses 🥰 🥳 558/ 600 leoncitos 😍🖤 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 🥰ฅ^>⩊<^ ฅ RERUN",
-    "stream_viewer_count": 310,
+    "stream_viewer_count": 316,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 593860034,
+    "user_login": "thewildlatina",
+    "user_display_name": "thewildlatina",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d76d7fe2-54c7-41ea-bae4-3a60b3aca432-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75da7b9c-f0bc-48b6-b942-6003af68b475-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 325683127805,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "♡ MY NEW SONG IS FINALLY OUT! +  DRINKS!!! \"Somebody's Son\" !SONG♡ !links !donate !wishlist",
+    "stream_viewer_count": 309,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
     "user_id": 613182071,
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔞🍁I misheard Vader when he said to get the rebel scum. |  🔥 !s for links 🔥",
-    "stream_viewer_count": 250,
+    "stream_viewer_count": 299,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bayesianash-{width}x{height}.jpg"
   },
   {
@@ -66,22 +52,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 224,
+    "stream_viewer_count": 212,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 593860034,
-    "user_login": "thewildlatina",
-    "user_display_name": "thewildlatina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d76d7fe2-54c7-41ea-bae4-3a60b3aca432-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75da7b9c-f0bc-48b6-b942-6003af68b475-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 325683127805,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "♡ MY NEW SONG IS FINALLY OUT! +  DRINKS!!! \"Somebody's Son\" !SONG♡ !links !donate !wishlist",
-    "stream_viewer_count": 204,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
     "user_id": 122979652,
@@ -94,8 +66,22 @@
     "stream_game_id": "982348888",
     "stream_game_name": "Elden Ring: Nightreign",
     "stream_title": "REACT -> GAMES  | !discord !gamersupps",
-    "stream_viewer_count": 167,
+    "stream_viewer_count": 149,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 609871961,
+    "user_login": "taylorstarlight",
+    "user_display_name": "TaylorStarlight",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8afd8eae-76fc-424b-bc70-299b73083373-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 325688372477,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "TGIF! DILLY DILLY!",
+    "stream_viewer_count": 144,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylorstarlight-{width}x{height}.jpg"
   },
   {
     "user_id": 224200688,
@@ -108,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ FASHION SHOW - a day with me ❤️  -> !insta !rerun",
-    "stream_viewer_count": 114,
+    "stream_viewer_count": 103,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
@@ -122,7 +108,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🌸 𝘾𝙝𝙞𝙡𝙡 𝙬𝙞𝙩𝙝 𝙢𝙚 𝙛𝙤𝙧 𝙨𝙤𝙢𝙚 𝘼𝙎𝙈𝙍 🌸 🌚 [𝙍𝙚𝙧𝙪𝙣] 🌚 🥵 𝙄'𝙢 𝙖𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 -> !socials 🥵",
-    "stream_viewer_count": 74,
+    "stream_viewer_count": 72,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
@@ -136,7 +122,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 67,
+    "stream_viewer_count": 64,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -150,7 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Did you miss me?? Maybe games later..- !socials",
-    "stream_viewer_count": 65,
+    "stream_viewer_count": 60,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
@@ -164,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "RR ASMR ^_^ live later tonight !s for links !youtube 🖤",
-    "stream_viewer_count": 55,
+    "stream_viewer_count": 57,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -192,7 +178,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Devil Ear licking & mouth sounds✨️ASMR [cosplay] IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 27,
+    "stream_viewer_count": 33,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 503369631,
+    "user_login": "asianbunnyx",
+    "user_display_name": "asianbunnyx",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3816d1df-e349-4cbe-aa1f-64f281d361cb-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 325688658557,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "!YT[LIVE]  emo maid IG: _ASIANBUNNYX_ (Tiếng Việt/English ONLY) | !socials !supps !update",
+    "stream_viewer_count": 0,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asianbunnyx-{width}x{height}.jpg"
   }
 ]
