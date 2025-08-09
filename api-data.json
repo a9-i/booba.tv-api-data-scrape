@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 161737008,
-    "user_login": "kyootbot",
-    "user_display_name": "kyootbot",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/69b69433-e9ce-4ab0-8615-0fd468cdf454-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9029db2-3ecf-4ac4-968c-54e6de4cee80-channel_offline_image-1920x1080.png",
-    "stream_id": 325557715836,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💕 LOOKIN 4 LOVE 💕 600K FOLLOWERS 🥳 !join the show 💕",
-    "stream_viewer_count": 4435,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyootbot-{width}x{height}.jpg"
-  },
-  {
     "user_id": 138593293,
     "user_login": "peachjars",
     "user_display_name": "PeachJars",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔥SLUMBER PARTY🔥 GIRLS NEXT DOOR SEASON 4 💦 ft @RlrunescapeGF @Cyr ✨",
-    "stream_viewer_count": 3316,
+    "stream_viewer_count": 2810,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_peachjars-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🚨🚨CONSPIRACY HOUR🚨🚨 !s for socials🚨🚨",
-    "stream_viewer_count": 868,
+    "stream_viewer_count": 965,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
   },
   {
@@ -52,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 637,
+    "stream_viewer_count": 731,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -66,8 +52,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Hottest streamer on twitch !s [ENG] LIVE",
-    "stream_viewer_count": 424,
+    "stream_viewer_count": 547,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 592410758,
+    "user_login": "misspbj",
+    "user_display_name": "MISSPBJ",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d8f4307-f2a7-471e-81ed-ecb01240f34f-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/124f4f05-2a0b-4615-a5d4-fd5868f78dd3-channel_offline_image-1920x1080.png",
+    "stream_id": 331136559485,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "hi c:",
+    "stream_viewer_count": 536,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_misspbj-{width}x{height}.jpg"
   },
   {
     "user_id": 604187751,
@@ -80,8 +80,36 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR 🥰MIS LICKS de fondo🤤 RRpasa gatito🐾🧸💌🌸😍 ☁︎⋆🥰 🦁UwU !vods !ahegao !t no es live 🐾",
-    "stream_viewer_count": 410,
+    "stream_viewer_count": 448,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 132563423,
+    "user_login": "firedancer",
+    "user_display_name": "firedancer",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/898c7d03-f2e8-4b14-9db1-2d15dd5379c7-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6be0f0c0-3cbb-4eb5-b5ff-5e418169b7f4-channel_offline_image-1920x1080.png",
+    "stream_id": 331092945149,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "5YR STREAMAVERSARY ILY FIRE FAM!! 🤍 !RAFFLE !TOP3 !WATERGUN💦 🤍 !THRONE !SOCIALS !BLERP🤍",
+    "stream_viewer_count": 413,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firedancer-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 613182071,
+    "user_login": "bayesianash",
+    "user_display_name": "BayesiaNash",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3200952-2464-4811-b215-af33aeee6e3e-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 331125604477,
+    "stream_game_id": "575269630",
+    "stream_game_name": "Just Dance 2025 Edition",
+    "stream_title": "🔞 I got this outfit half off. || 💦 !s for links 💦",
+    "stream_viewer_count": 389,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bayesianash-{width}x{height}.jpg"
   },
   {
     "user_id": 635001460,
@@ -94,7 +122,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️QUICKIE BED STRIM IN DUBAI BCOS ITS NICE❤️SENIOR CITIZENS ONLY❤️3’ FOOT TALL FUNSIZE ASIAN NPC❤️NATURAL JIGGLE GYAAAAT❤️",
-    "stream_viewer_count": 383,
+    "stream_viewer_count": 387,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
@@ -108,36 +136,8 @@
     "stream_game_id": "168648543",
     "stream_game_name": "BATTLEFIELD 6",
     "stream_title": "battle field QUEEN❤️",
-    "stream_viewer_count": 376,
+    "stream_viewer_count": 374,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carabeanz-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 613182071,
-    "user_login": "bayesianash",
-    "user_display_name": "BayesiaNash",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3200952-2464-4811-b215-af33aeee6e3e-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 331125604477,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔞 I got this outfit half off. || 💦 !s for links 💦",
-    "stream_viewer_count": 359,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bayesianash-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 132563423,
-    "user_login": "firedancer",
-    "user_display_name": "firedancer",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/898c7d03-f2e8-4b14-9db1-2d15dd5379c7-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6be0f0c0-3cbb-4eb5-b5ff-5e418169b7f4-channel_offline_image-1920x1080.png",
-    "stream_id": 331092945149,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "5YR STREAMAVERSARY ILY FIRE FAM!! 🤍 !RAFFLE !TOP3 !WATERGUN💦 🤍 !THRONE !SOCIALS !BLERP🤍",
-    "stream_viewer_count": 342,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firedancer-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -150,22 +150,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Latex MEAN queen ♣😍🥵💛18+🔞👋 !S  !king #Cosplay #Anime Sharon Goddess UwU Massage",
-    "stream_viewer_count": 340,
+    "stream_viewer_count": 370,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 592410758,
-    "user_login": "misspbj",
-    "user_display_name": "MISSPBJ",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d8f4307-f2a7-471e-81ed-ecb01240f34f-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/124f4f05-2a0b-4615-a5d4-fd5868f78dd3-channel_offline_image-1920x1080.png",
-    "stream_id": 331136559485,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "hi c:",
-    "stream_viewer_count": 279,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_misspbj-{width}x{height}.jpg"
   },
   {
     "user_id": 61335991,
@@ -178,7 +164,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🇸🇬🔴LIVE🔴RED OUTFIT to celebrate Singapore 60th BIRTHDAY !! time for FIREWORKS🔴!donate !partner",
-    "stream_viewer_count": 263,
+    "stream_viewer_count": 288,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiaraakitty-{width}x{height}.jpg"
   },
   {
@@ -192,7 +178,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 201,
+    "stream_viewer_count": 192,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -206,7 +192,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️- a day with me !insta !rerun ❤️",
-    "stream_viewer_count": 148,
+    "stream_viewer_count": 167,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
@@ -234,21 +220,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "catgirl ASMR ❤️❤️❤️❤️❤️ not live",
-    "stream_viewer_count": 38,
+    "stream_viewer_count": 45,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 407496462,
-    "user_login": "elfherself",
-    "user_display_name": "ElfHerSelf",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/50def92c-ae56-4ca7-b753-550c6abb8cbd-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05e54786-c1c6-4939-86bc-0305aea4462e-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 325549158396,
-    "stream_game_id": "1081998272",
-    "stream_game_name": "PEAK",
-    "stream_title": "SHES BACK WITH A NEW PSU",
-    "stream_viewer_count": 12,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfherself-{width}x{height}.jpg"
   }
 ]
