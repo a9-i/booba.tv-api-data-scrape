@@ -1,5 +1,19 @@
 [
   {
+    "user_id": 197406569,
+    "user_login": "thenicolet",
+    "user_display_name": "TheNicoleT",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/47949c63-a841-4a79-9dea-ff64e427f30c-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cf6375e-d739-4340-8ea2-e815f9be124a-channel_offline_image-1920x1080.png",
+    "stream_id": 314838432856,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "🍑ASMR PAYDAY DRAIN!?!",
+    "stream_viewer_count": 1610,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
+  },
+  {
     "user_id": 798454309,
     "user_login": "bellaramatv",
     "user_display_name": "BellaRamaTV",
@@ -10,7 +24,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "LIVE❤️DRAMA| GOSSIP | GAMING | WITH UR INTERNET GIRLFRIEND❤️Type !s for socials",
-    "stream_viewer_count": 1200,
+    "stream_viewer_count": 1173,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bellaramatv-{width}x{height}.jpg"
   },
   {
@@ -23,23 +37,37 @@
     "stream_id": 332038770685,
     "stream_game_id": "509672",
     "stream_game_name": "IRL",
-    "stream_title": "🥵IRL TRY ON SHOPPING🍑 !s for socials🍑",
-    "stream_viewer_count": 1198,
+    "stream_title": "💕IRL DATE NIGHT🍑 !s for socials🍑",
+    "stream_viewer_count": 1085,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
   },
   {
-    "user_id": 132563423,
-    "user_login": "firedancer",
-    "user_display_name": "firedancer",
+    "user_id": 562723403,
+    "user_login": "strawberrytabby",
+    "user_display_name": "StrawberryTabby",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/898c7d03-f2e8-4b14-9db1-2d15dd5379c7-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/6be0f0c0-3cbb-4eb5-b5ff-5e418169b7f4-channel_offline_image-1920x1080.png",
-    "stream_id": 332029892861,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a20b3279-e0e6-4464-a803-3a08167e7721-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 332052694525,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "SXY SUKUNA VIBES 🤍 DO U MISS ME??? 🤍 !THRONE !SOCIALS !BLERP🤍 RERUN",
-    "stream_viewer_count": 444,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firedancer-{width}x{height}.jpg"
+    "stream_title": "MOMMYS HOME | !ig !yt ➜ link in bio 💖!throne",
+    "stream_viewer_count": 967,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 539685432,
+    "user_login": "winndago",
+    "user_display_name": "winndago",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/975d3d38-8300-4246-955c-3d9938e78ce0-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cd8712b-9c2a-4ab7-8c17-20f5fac57405-channel_offline_image-1920x1080.png",
+    "stream_id": 325946116092,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "whats up gang ଘ(੭*ˊᵕˋ)੭* ̀ˋ",
+    "stream_viewer_count": 418,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_winndago-{width}x{height}.jpg"
   },
   {
     "user_id": 753374792,
@@ -52,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "😇 Heaven for Your Ears! 💙 !𝓡𝓡 !Patreon | @SareneWild",
-    "stream_viewer_count": 364,
+    "stream_viewer_count": 299,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -66,50 +94,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 229,
+    "stream_viewer_count": 208,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
-    "user_id": 539685432,
-    "user_login": "winndago",
-    "user_display_name": "winndago",
+    "user_id": 420015559,
+    "user_login": "kiarairl",
+    "user_display_name": "KiaraIRL",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/975d3d38-8300-4246-955c-3d9938e78ce0-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cd8712b-9c2a-4ab7-8c17-20f5fac57405-channel_offline_image-1920x1080.png",
-    "stream_id": 325946116092,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/72fb69d1-4364-47ad-8970-619020d5645e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/43c3b132-d6ba-41c1-b2f0-fc2fc9482bc4-channel_offline_image-1920x1080.png",
+    "stream_id": 314712795358,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "whats up gang ଘ(੭*ˊᵕˋ)੭* ̀ˋ",
-    "stream_viewer_count": 214,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_winndago-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 663877711,
-    "user_login": "ritaglitch",
-    "user_display_name": "ritaglitch",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5caac78d-f2eb-4df6-bc3c-be7982b87b74-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 324699127417,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "a summer night with fam and friends 🟥 !tip !throne",
-    "stream_viewer_count": 123,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ritaglitch-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 49953078,
-    "user_login": "gillianaprils",
-    "user_display_name": "GillianAprils",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5489310a-8bad-47f4-b844-0bedcf3a5998-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/01df217b-22e6-4fb1-b61e-aec98c0ef959-channel_offline_image-1920x1080.png",
-    "stream_id": 332044533245,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "<3 we yapping :) !Stacked <3 ! !s !skits !tip",
-    "stream_viewer_count": 111,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gillianaprils-{width}x{height}.jpg"
+    "stream_title": "❗HOT WOMAN TALKS 2 U❗OMG CLICK NOW ❗  | !socials !donate",
+    "stream_viewer_count": 202,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiarairl-{width}x{height}.jpg"
   },
   {
     "user_id": 192786074,
@@ -122,22 +122,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🥵 𝘾𝙝𝙞𝙡𝙡 𝙬𝙞𝙩𝙝 𝙨𝙤𝙢𝙚 𝙎𝙪𝙢𝙢𝙚𝙧 𝘼𝙎𝙈𝙍 🥵 😺 [𝙍𝙚𝙧𝙪𝙣] 😺 🔥 𝙄'𝙢 𝙖𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 -> !socials 🔥",
-    "stream_viewer_count": 94,
+    "stream_viewer_count": 116,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 600275018,
-    "user_login": "milliesmayhem",
-    "user_display_name": "MilliesMayhem",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46101cd0-0aef-45a3-86fc-4d33d5b466e7-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 325943447420,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Who's hungry??? 😋  !s",
-    "stream_viewer_count": 63,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_milliesmayhem-{width}x{height}.jpg"
   },
   {
     "user_id": 96940137,
@@ -150,36 +136,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "fav artistttt <3 !Wishlist !Socials !Sub !Donate !Prime",
-    "stream_viewer_count": 58,
+    "stream_viewer_count": 64,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mizzy-{width}x{height}.jpg"
   },
   {
-    "user_id": 468630073,
-    "user_login": "deathlyill",
-    "user_display_name": "deathlyill",
+    "user_id": 148114007,
+    "user_login": "rayrachel",
+    "user_display_name": "RayRachel",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/efbf5307-9d69-427e-986c-365d33304851-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e1e307-e5b7-498f-8b77-e209fd57cffa-channel_offline_image-1920x1080.png",
-    "stream_id": 314875228887,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/628357ab-ea60-428d-a106-903cbffa937e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/18253d72-fb3b-4318-b6d3-f8d80eee0114-channel_offline_image-1920x1080.png",
+    "stream_id": 332051040253,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "CANADA’S VERSION OF DISNEYLAND",
-    "stream_viewer_count": 49,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deathlyill-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 31011227,
-    "user_login": "castaway",
-    "user_display_name": "Castaway",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d86354-107e-44c0-8acd-3fec8d479f26-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/19dcc6dd-ac2d-46fc-874a-311480525b79-channel_offline_image-1920x1080.png",
-    "stream_id": 331964041725,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "catgirl ASMR ❤️❤️❤️❤️❤️ not live",
-    "stream_viewer_count": 32,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
+    "stream_title": "Happy Pre Friday! ;)  !socials",
+    "stream_viewer_count": 52,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -192,7 +164,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 27,
+    "stream_viewer_count": 50,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 31011227,
+    "user_login": "castaway",
+    "user_display_name": "Castaway",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a7d86354-107e-44c0-8acd-3fec8d479f26-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/19dcc6dd-ac2d-46fc-874a-311480525b79-channel_offline_image-1920x1080.png",
+    "stream_id": 331964041725,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "catgirl ASMR ❤️❤️❤️❤️❤️ not live",
+    "stream_viewer_count": 21,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   }
 ]
