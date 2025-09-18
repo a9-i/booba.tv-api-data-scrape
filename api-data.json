@@ -1,17 +1,45 @@
 [
   {
-    "user_id": 531990402,
-    "user_login": "popazik",
-    "user_display_name": "popazik",
+    "user_id": 688580706,
+    "user_login": "inugami1023",
+    "user_display_name": "犬神いぬがみ",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee84a11e-b5a8-4f10-a17d-75287537babb-channel_offline_image-1920x1080.png",
-    "stream_id": 314333921621,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3a31d72-395e-4c61-bf22-0593710ab326-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 314781096938,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "Гуляю по Кирову (ﾉ◕ヮ◕)ﾉ | !socials",
-    "stream_viewer_count": 432,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
+    "stream_title": "今天跳舞台",
+    "stream_viewer_count": 644,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inugami1023-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 405208912,
+    "user_login": "gonsabellla",
+    "user_display_name": "Gonsabellla",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d6e9106-d9fa-4b13-8fd0-b5282ac7e7a5-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/349e638b-9dba-4a43-b51f-064e66683709-channel_offline_image-1920x1080.png",
+    "stream_id": 315066178016,
+    "stream_game_id": "509672",
+    "stream_game_name": "IRL",
+    "stream_title": "PLAYA Y SOL Y FELICIDAD",
+    "stream_viewer_count": 531,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 61335991,
+    "user_login": "kiaraakitty",
+    "user_display_name": "Kiaraakitty",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e727cf1b-f60a-4648-a6e7-1b985a939582-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ae0140c-325d-4552-bf3b-2610ee88a986-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 315142318296,
+    "stream_game_id": "1713183937",
+    "stream_game_name": "Prison Escape Simulator: Dig Out",
+    "stream_title": "🇸🇬🔴LIVE🔴TRYIN' TO ESCAPE FROM PRISON, will I make it?🔴!subtember !partner",
+    "stream_viewer_count": 333,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiaraakitty-{width}x{height}.jpg"
   },
   {
     "user_id": 604187751,
@@ -24,7 +52,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMRbesitos😽❤️‍🔥heartbeats   ❤️‍🩹💗   mmh, oh Angel of the night 💘🎶   EARKISSES❤️‍🔥😍💖🎀 70K 😭 🫣  !angulo !ahegao RERRRUUUUN",
-    "stream_viewer_count": 361,
+    "stream_viewer_count": 318,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
   },
   {
@@ -38,36 +66,8 @@
     "stream_game_id": "29452",
     "stream_game_name": "Virtual Casino",
     "stream_title": "I needa max wiin #rainbet",
-    "stream_viewer_count": 329,
+    "stream_viewer_count": 260,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_deathlyill-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 61335991,
-    "user_login": "kiaraakitty",
-    "user_display_name": "Kiaraakitty",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e727cf1b-f60a-4648-a6e7-1b985a939582-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ae0140c-325d-4552-bf3b-2610ee88a986-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 315142318296,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🇸🇬🔴LIVE🔴TRYIN' TO ESCAPE FROM PRISON, will I make it?🔴!subtember !partner",
-    "stream_viewer_count": 316,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiaraakitty-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 688580706,
-    "user_login": "inugami1023",
-    "user_display_name": "犬神いぬがみ",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3a31d72-395e-4c61-bf22-0593710ab326-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 314781096938,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "今天跳舞台",
-    "stream_viewer_count": 312,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inugami1023-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -80,22 +80,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "Goddess ♣😍🥵💛18+🔞👋 !S  !king #Cosplay #Anime Sharon Goddess UwU Massage",
-    "stream_viewer_count": 268,
+    "stream_viewer_count": 243,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 405208912,
-    "user_login": "gonsabellla",
-    "user_display_name": "Gonsabellla",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d6e9106-d9fa-4b13-8fd0-b5282ac7e7a5-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/349e638b-9dba-4a43-b51f-064e66683709-channel_offline_image-1920x1080.png",
-    "stream_id": 315066178016,
-    "stream_game_id": "509672",
-    "stream_game_name": "IRL",
-    "stream_title": "PLAYA Y SOL Y FELICIDAD",
-    "stream_viewer_count": 239,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
   },
   {
     "user_id": 593860034,
@@ -122,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🌴 Tropical Spa ASMR 💦 !𝓡𝓡 | @SareneWild",
-    "stream_viewer_count": 183,
+    "stream_viewer_count": 190,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -136,7 +122,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 142,
+    "stream_viewer_count": 160,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -150,22 +136,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️- a day with me !insta !rerun ❤️",
-    "stream_viewer_count": 135,
+    "stream_viewer_count": 151,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 248388278,
-    "user_login": "malinkaa98",
-    "user_display_name": "Malinkaa98",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
-    "stream_id": 314338949078,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 98,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 452985358,
@@ -178,8 +150,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 95,
+    "stream_viewer_count": 114,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
+    "stream_id": 314338949078,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
+    "stream_viewer_count": 96,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 192786074,
@@ -192,7 +178,21 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🥰 𝙍𝙚𝙧𝙪𝙣𝙨 𝙖𝙧𝙚 𝙗𝙖𝙘𝙠 🥰 🌀 𝙅𝙤𝙞𝙣 𝙢𝙚 𝙖𝙣𝙙 𝙧𝙚𝙡𝙖𝙭 🌀",
-    "stream_viewer_count": 71,
+    "stream_viewer_count": 67,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 250502765,
+    "user_login": "mistressmord",
+    "user_display_name": "MistressMord",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
+    "stream_id": 314626023655,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🍑💦 Professional Internet Beggar Goddess! | Trolls Welcome | Goals: Daily: $3.50/$50, Sub: 1/40, furnish my AirBNB:$350.07/$900 🍑💦",
+    "stream_viewer_count": 56,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   }
 ]
