@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 531990402,
-    "user_login": "popazik",
-    "user_display_name": "popazik",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee84a11e-b5a8-4f10-a17d-75287537babb-channel_offline_image-1920x1080.png",
-    "stream_id": 315296418022,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "ТОП ДНЯ ЗАБРИАЕТ ШАРФ И БОКС ОТ МЕНЯ °˖✧◝(„• ᴗ •„)◜✧˖° | !socials",
-    "stream_viewer_count": 591,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
-  },
-  {
     "user_id": 405208912,
     "user_login": "gonsabellla",
     "user_display_name": "Gonsabellla",
@@ -24,22 +10,8 @@
     "stream_game_id": "509672",
     "stream_game_name": "IRL",
     "stream_title": "special Halloween Dia 4-5/5: disfraces, tarta y mas cosis",
-    "stream_viewer_count": 430,
+    "stream_viewer_count": 655,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 627310906,
-    "user_login": "onlykiky",
-    "user_display_name": "OnlyKiky",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/086ae96b-c6c7-47aa-b21f-7fff1698cb70-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 315078564707,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💜 👉 RERUN ASMR 🔮OnlyKiky 🕯️ Whispers in the Dark ✨ Soft Touch, Tingles & Enchanting Vibes ❤‍🔥 Let Me Haunt Your Mi",
-    "stream_viewer_count": 161,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_onlykiky-{width}x{height}.jpg"
   },
   {
     "user_id": 753374792,
@@ -52,8 +24,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🎃 Lady Dimitrescu Cosplay! 🩸 !𝓡𝓡 !Patreon | @SareneWild",
-    "stream_viewer_count": 161,
+    "stream_viewer_count": 203,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 688580706,
+    "user_login": "inugami1023",
+    "user_display_name": "犬神いぬがみ",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1a939a5-7735-4dff-8a22-4336dc5a9391-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfdbd6cd-ba6c-4efc-98b4-b842accbe5a1-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 314892164840,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "小笨狗 還敢遲到阿",
+    "stream_viewer_count": 189,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inugami1023-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 627310906,
+    "user_login": "onlykiky",
+    "user_display_name": "OnlyKiky",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/086ae96b-c6c7-47aa-b21f-7fff1698cb70-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 315078564707,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💜 👉 RERUN ASMR 🔮OnlyKiky 🕯️ Whispers in the Dark ✨ Soft Touch, Tingles & Enchanting Vibes ❤‍🔥 Let Me Haunt Your Mi",
+    "stream_viewer_count": 178,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_onlykiky-{width}x{height}.jpg"
   },
   {
     "user_id": 224200688,
@@ -66,8 +66,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ spend a day with me ❤️ !insta !rerun",
-    "stream_viewer_count": 148,
+    "stream_viewer_count": 173,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 658070925,
+    "user_login": "zazoge",
+    "user_display_name": "zazoge",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adda3a04-c769-4880-939c-5073f2463941-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 315192875109,
+    "stream_game_id": "750120111",
+    "stream_game_name": "Fright Fest",
+    "stream_title": "🤠 HOWDY PARTNER 🤠 HAPPY HALLOWEEN 🤠 !discord !wishlist",
+    "stream_viewer_count": 154,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
   },
   {
     "user_id": 61335991,
@@ -80,7 +94,7 @@
     "stream_game_id": "843600651",
     "stream_game_name": "Tiny Bookshop",
     "stream_title": "🌸LIVE🌸The Kiara Show🌸Running my own tiny bookshop🌸!partner",
-    "stream_viewer_count": 137,
+    "stream_viewer_count": 142,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiaraakitty-{width}x{height}.jpg"
   },
   {
@@ -94,7 +108,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ CLICK HERE IF YOU DARE :) ❤️ 👉!socials ❤️ enjoy the rerun :)",
-    "stream_viewer_count": 133,
+    "stream_viewer_count": 122,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
   },
   {
@@ -108,36 +122,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 120,
+    "stream_viewer_count": 121,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 688580706,
-    "user_login": "inugami1023",
-    "user_display_name": "犬神いぬがみ",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1a939a5-7735-4dff-8a22-4336dc5a9391-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dfdbd6cd-ba6c-4efc-98b4-b842accbe5a1-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 314892164840,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "小笨狗 還敢遲到阿",
-    "stream_viewer_count": 115,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inugami1023-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 658070925,
-    "user_login": "zazoge",
-    "user_display_name": "zazoge",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/adda3a04-c769-4880-939c-5073f2463941-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 315192875109,
-    "stream_game_id": "750120111",
-    "stream_game_name": "Fright Fest",
-    "stream_title": "🤠 HOWDY PARTNER 🤠 HAPPY HALLOWEEN 🤠 !discord !wishlist",
-    "stream_viewer_count": 113,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zazoge-{width}x{height}.jpg"
   },
   {
     "user_id": 192786074,
@@ -154,6 +140,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
+    "user_id": 184309664,
+    "user_login": "foxperry",
+    "user_display_name": "Foxperry",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/277a8a73-d8bd-4afe-aa2c-f86ae2376807-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/49dccf8e-d6f5-4ba1-8361-930fdcd4bc21-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 315298647398,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "сладость или гадость?",
+    "stream_viewer_count": 87,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxperry-{width}x{height}.jpg"
+  },
+  {
     "user_id": 148114007,
     "user_login": "rayrachel",
     "user_display_name": "RayRachel",
@@ -164,7 +164,7 @@
     "stream_game_id": "272263131",
     "stream_game_name": "Animals, Aquariums, and Zoos",
     "stream_title": "(SLEEPING!) Happy Halloween • 24/7 Stream • Name on Pumpkin !socials",
-    "stream_viewer_count": 19,
+    "stream_viewer_count": 16,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   }
 ]
