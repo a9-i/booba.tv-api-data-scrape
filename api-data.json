@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 414507208,
-    "user_login": "azra",
-    "user_display_name": "AZRA",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe353354-5f38-455d-ab00-0844c4e42fe4-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7555e72a-e21e-493f-974d-96f53cace183-channel_offline_image-1920x1080.png",
-    "stream_id": 315297696247,
-    "stream_game_id": "498566",
-    "stream_game_name": "Slots",
-    "stream_title": "GAMBA 💖 !socials",
-    "stream_viewer_count": 1445,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azra-{width}x{height}.jpg"
-  },
-  {
     "user_id": 635001460,
     "user_login": "littleaznchat",
     "user_display_name": "LittleAznChat",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "!of I FINALLY DID IT !links ❤️DANCE THE NIGHT AWAY WITH ME",
-    "stream_viewer_count": 583,
+    "stream_viewer_count": 609,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_littleaznchat-{width}x{height}.jpg"
   },
   {
@@ -38,22 +24,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔵GENIUS🔵OF FASHION🔵COOKING🔵LEGO🔵MORE >>> !X @olesyaliberman",
-    "stream_viewer_count": 426,
+    "stream_viewer_count": 409,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_olesyaliberman-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 445080375,
-    "user_login": "carabeanz",
-    "user_display_name": "carabeanz",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd644bdd-05a3-4898-ba33-f6607fe92f41-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/05f6a9ba-f5d6-4f8b-9d59-816c41877df2-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316063061594,
-    "stream_game_id": "2012789438",
-    "stream_game_name": "Call of Duty: Black Ops 7",
-    "stream_title": "let me be your favorite gamer girl🤍 ALL NATURAL ;)",
-    "stream_viewer_count": 327,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carabeanz-{width}x{height}.jpg"
   },
   {
     "user_id": 192376620,
@@ -65,8 +37,8 @@
     "stream_id": 315016409194,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "SPILLING THE TEA STREAM !s [ENG] LIVE",
-    "stream_viewer_count": 276,
+    "stream_title": "HIGH ENERGY STREAM !s [ENG] LIVE",
+    "stream_viewer_count": 339,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_valeria7k-{width}x{height}.jpg"
   },
   {
@@ -80,7 +52,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "LIVE📍GOTH MOMMY!!!|Text me (917) 809- 2026(!S !TELEGRAM)",
-    "stream_viewer_count": 206,
+    "stream_viewer_count": 240,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_destinyfomo-{width}x{height}.jpg"
   },
   {
@@ -94,8 +66,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 200,
+    "stream_viewer_count": 211,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 442650263,
+    "user_login": "tiffy",
+    "user_display_name": "Tiffy",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/835e0c47-37ed-4959-be03-beb3a33653bc-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 315666479064,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "{LIVE ASMR} Am I floating, or are you in Heaven? uwu Socials --> !s",
+    "stream_viewer_count": 182,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
   },
   {
     "user_id": 688580706,
@@ -108,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "WF現場 攤位位置在10號",
-    "stream_viewer_count": 196,
+    "stream_viewer_count": 176,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inugami1023-{width}x{height}.jpg"
   },
   {
@@ -122,7 +108,7 @@
     "stream_game_id": "464339927",
     "stream_game_name": "ARC Raiders",
     "stream_title": "🍂CHATTING🧸REACTS🥐REVAMP DISCORD☕GAMES🍪 | !discord",
-    "stream_viewer_count": 139,
+    "stream_viewer_count": 149,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
   },
   {
@@ -136,7 +122,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ NEW SPICY FASHION SHOW ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 118,
+    "stream_viewer_count": 113,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -149,8 +135,8 @@
     "stream_id": 315916254558,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "FLOW ✨$5 Song Request -  (tts 100bits) ~ !links ~ !sub ~ !donate",
-    "stream_viewer_count": 94,
+    "stream_title": "FLOW ✨-  (tts 100bits) ~ !links ~ !sub ~ !donate",
+    "stream_viewer_count": 107,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_denver_maxx-{width}x{height}.jpg"
   },
   {
@@ -164,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "🍂 𝙒𝙞𝙣𝙩𝙚𝙧 𝙑𝙞𝙗𝙚𝙨 𝘼𝙎𝙈𝙍 🍂 💕 𝙍𝙚𝙧𝙪𝙣 💕",
-    "stream_viewer_count": 75,
+    "stream_viewer_count": 78,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
@@ -178,7 +164,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "BDAY SUBATHON!! 12 hour cap!  !pizookie to see raffle prizes",
-    "stream_viewer_count": 73,
+    "stream_viewer_count": 72,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_missleemalee-{width}x{height}.jpg"
   },
   {
@@ -192,7 +178,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❤ Ear licking & mouth sounds✨️ASMR IG: RhinoSpiritXASMR",
-    "stream_viewer_count": 57,
+    "stream_viewer_count": 70,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rhinospiritx-{width}x{height}.jpg"
   },
   {
@@ -206,22 +192,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ CLICK HERE IF YOU DARE :)❤️ 👉!socials ❤️ I'm sick! enjoy the rerun! :)",
-    "stream_viewer_count": 45,
+    "stream_viewer_count": 50,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 609871961,
-    "user_login": "taylorstarlight",
-    "user_display_name": "TaylorStarlight",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8afd8eae-76fc-424b-bc70-299b73083373-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 315700272087,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "WE PARTY! HAPPY SATURDAY ~ !socials",
-    "stream_viewer_count": 33,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylorstarlight-{width}x{height}.jpg"
   },
   {
     "user_id": 149461209,
@@ -234,7 +206,7 @@
     "stream_game_id": "1264310518",
     "stream_game_name": "Marvel Rivals",
     "stream_title": "GUZZLIN IT UP LIKE TRUMP🩷DROPS ૮꒰ ˶• ༝ •˶꒱ა  ♡ !LINKS !YOUTUBE !tiktok",
-    "stream_viewer_count": 8,
+    "stream_viewer_count": 13,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnydollxo-{width}x{height}.jpg"
   }
 ]
