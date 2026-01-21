@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 70964046,
-    "user_login": "bunnyayu",
-    "user_display_name": "BunnyAyu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/71f7c77b-85d6-4e08-837b-920d087d843b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcdeb0ab-bdc9-4a11-b208-b8451967da6d-channel_offline_image-1920x1080.png",
-    "stream_id": 317183208793,
-    "stream_game_id": "1003606006",
-    "stream_game_name": "Hytale",
-    "stream_title": "NEW MODEL 🌲🧡 EXPLORING HYTALE 🌲🧡 GETTING LOST IN NEW BLOCK GAME 🌲🧡 !s",
-    "stream_viewer_count": 933,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bunnyayu-{width}x{height}.jpg"
-  },
-  {
     "user_id": 154028091,
     "user_login": "novaruu",
     "user_display_name": "novaruu",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "BIRTHDAY STREAM <3 ❤️🤭!socials",
-    "stream_viewer_count": 735,
+    "stream_viewer_count": 792,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaruu-{width}x{height}.jpg"
   },
   {
@@ -38,8 +24,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "[!Rerun] Come Chill With Me~  | 🍑 !ig ➜ link in bio 💖!throne",
-    "stream_viewer_count": 597,
+    "stream_viewer_count": 585,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 125387632,
+    "user_login": "amouranth",
+    "user_display_name": "AMOURANTH",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f349bf3-ada7-4486-a0f1-a6e055b68fca-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcce2d51-b394-4a7f-b19d-71ef21682b6e-channel_offline_image-1920x1080.png",
+    "stream_id": 317372934363,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "UFO  CONFERENCE + CHILE DRAMA??✨ !s for my links",
+    "stream_viewer_count": 377,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
   },
   {
     "user_id": 10180554,
@@ -52,7 +52,7 @@
     "stream_game_id": "18122",
     "stream_game_name": "World of Warcraft",
     "stream_title": "[DROPS] 🤑 GAMING GODDESS 💸 !WALLETDRAIN 👉 DM ME ONLYVIC.COM",
-    "stream_viewer_count": 332,
+    "stream_viewer_count": 335,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
   },
   {
@@ -66,22 +66,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Good boy?? ♣😍🥵💛18+🔞👋 !S  !king #Cosplay #Anime Sharon Goddess UwU Massage",
-    "stream_viewer_count": 319,
+    "stream_viewer_count": 274,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 125387632,
-    "user_login": "amouranth",
-    "user_display_name": "AMOURANTH",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7f349bf3-ada7-4486-a0f1-a6e055b68fca-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcce2d51-b394-4a7f-b19d-71ef21682b6e-channel_offline_image-1920x1080.png",
-    "stream_id": 317372934363,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "UFO  CONFERENCE + CHILE DRAMA??✨ !s for my links",
-    "stream_viewer_count": 298,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-{width}x{height}.jpg"
   },
   {
     "user_id": 160538649,
@@ -94,7 +80,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 227,
+    "stream_viewer_count": 222,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -108,7 +94,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "GOIN UP ON A TUESDAY🥳 PHOTOSHOOTS GALORE👉 !D",
-    "stream_viewer_count": 178,
+    "stream_viewer_count": 201,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theoneandonlydragon-{width}x{height}.jpg"
   },
   {
@@ -122,7 +108,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 139,
+    "stream_viewer_count": 145,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
@@ -136,7 +122,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️a day with me❤️ !insta !s !rerun",
-    "stream_viewer_count": 95,
+    "stream_viewer_count": 98,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
@@ -150,36 +136,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "☃️🎄 𝘾𝙝𝙧𝙞𝙨𝙩𝙢𝙖𝙨 𝙑𝙞𝙗𝙚𝙨 𝘼𝙎𝙈𝙍 🎄☃️ 💕 𝙍𝙚𝙧𝙪𝙣 💕",
-    "stream_viewer_count": 87,
+    "stream_viewer_count": 91,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 137909053,
-    "user_login": "ms_tricky",
-    "user_display_name": "Ms_Tricky",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03e174c0-de80-4c2a-990c-77fc9454663e-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2367d5b7-2c4d-4124-ac7b-357488884bb5-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316455690199,
-    "stream_game_id": "490147",
-    "stream_game_name": "Hollow Knight",
-    "stream_title": "gaming Goddesses ✨ !throne !tip !socials",
-    "stream_viewer_count": 70,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ms_tricky-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 148114007,
-    "user_login": "rayrachel",
-    "user_display_name": "RayRachel",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/628357ab-ea60-428d-a106-903cbffa937e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/99ff346d-08a4-45aa-a89c-4381db481f30-channel_offline_image-1920x1080.png",
-    "stream_id": 317247100122,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Insert Title Here• !socials",
-    "stream_viewer_count": 63,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rayrachel-{width}x{height}.jpg"
   },
   {
     "user_id": 78985277,
@@ -192,21 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️CLICK HERE IF YOU DARE <3 ❤️👉!socials ❤️Enjoy rerun! Check schedule in discord",
-    "stream_viewer_count": 47,
+    "stream_viewer_count": 49,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 609871961,
-    "user_login": "taylorstarlight",
-    "user_display_name": "TaylorStarlight",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8afd8eae-76fc-424b-bc70-299b73083373-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 316455875159,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Cumfy Model Chats with You!!!~ !socials",
-    "stream_viewer_count": 33,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylorstarlight-{width}x{height}.jpg"
   }
 ]
