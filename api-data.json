@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 446325991,
-    "user_login": "pekeasmr",
-    "user_display_name": "pekeasmr",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b135fba8-aaf1-481f-95b1-1189983ee5f1-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f85a92c-812b-495a-8f8e-f369db530c1a-channel_offline_image-1920x1080.png",
-    "stream_id": 316992253046,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "LIVE ASMR 🔞 🍑 VENTE YA WITH MAMI KITTEN  & ENJOY THE WEEKEND 👅 📢 !pull | Temp. 2026 - E12",
-    "stream_viewer_count": 1652,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
-  },
-  {
     "user_id": 430551896,
     "user_login": "kdrkitten",
     "user_display_name": "KDRkitten",
@@ -24,22 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "DIE EREIGNISSE ÜBERSCHLAGEN SICH l !holzkern !sennheiser !prepmymeal #werbung",
-    "stream_viewer_count": 1602,
+    "stream_viewer_count": 1598,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdrkitten-{width}x{height}.jpg"
   },
   {
-    "user_id": 160538649,
-    "user_login": "faith",
-    "user_display_name": "Faith",
+    "user_id": 446325991,
+    "user_login": "pekeasmr",
+    "user_display_name": "pekeasmr",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d0a3d57-2087-4f4e-b4cf-fa8cd7602f8b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
-    "stream_id": 316871754716,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 499,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b135fba8-aaf1-481f-95b1-1189983ee5f1-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f85a92c-812b-495a-8f8e-f369db530c1a-channel_offline_image-1920x1080.png",
+    "stream_id": 316992253046,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "LIVE ASMR 🔞 🍑 VENTE YA WITH MAMI KITTEN  & ENJOY THE WEEKEND 👅 📢 !pull | Temp. 2026 - E12",
+    "stream_viewer_count": 1218,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   },
   {
     "user_id": 593860034,
@@ -52,8 +38,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "♡ ur fav latina !RAINBET ❤️ !wishlist !links ♡ \"Somebody's Son\" OUT !song ♡ !donate",
-    "stream_viewer_count": 479,
+    "stream_viewer_count": 562,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 160538649,
+    "user_login": "faith",
+    "user_display_name": "Faith",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d0a3d57-2087-4f4e-b4cf-fa8cd7602f8b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
+    "stream_id": 316871754716,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
+    "stream_viewer_count": 513,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 505413205,
+    "user_login": "lewnabun",
+    "user_display_name": "Lewnabun",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78471de3-f22f-45c5-9b77-c47b2281f4eb-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/352b249e-d6cd-4d7f-b68a-1dbb008fffe8-channel_offline_image-1920x1080.png",
+    "stream_id": 315196900584,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "puppygirl melts your ears..♥ 🌸 !patreon !kofi !throne",
+    "stream_viewer_count": 363,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lewnabun-{width}x{height}.jpg"
   },
   {
     "user_id": 604187751,
@@ -66,7 +80,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "LIVE ❤️ 🥰😻 🥰 CUTE GENGAR girl-asmr 👅🥰👑 follow me insta Aurorafractubela_uwu",
-    "stream_viewer_count": 273,
+    "stream_viewer_count": 293,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
   },
   {
@@ -94,7 +108,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "☃️🎄 𝘾𝙝𝙧𝙞𝙨𝙩𝙢𝙖𝙨 𝙑𝙞𝙗𝙚𝙨 𝘼𝙎𝙈𝙍 🎄☃️ 💕 𝙍𝙚𝙧𝙪𝙣 💕",
-    "stream_viewer_count": 97,
+    "stream_viewer_count": 96,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
@@ -108,8 +122,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️a day with me❤️ !insta !s !rerun",
-    "stream_viewer_count": 93,
+    "stream_viewer_count": 94,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 250502765,
+    "user_login": "mistressmord",
+    "user_display_name": "MistressMord",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
+    "stream_id": 317430010459,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "🍑💦 Come worship your African Leopard Goddess! | Trolls Welcome | Goals: Daily: $80.07/$50, Sub: 0/20, Lawyer fees Goal: $187.14/$500 🍑💦",
+    "stream_viewer_count": 87,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -122,7 +150,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 70,
+    "stream_viewer_count": 74,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
@@ -140,20 +168,6 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
   },
   {
-    "user_id": 250502765,
-    "user_login": "mistressmord",
-    "user_display_name": "MistressMord",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
-    "stream_id": 317430010459,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "🍑💦 Come worship your Princess Goddess! | Trolls Welcome | Goals: Daily: $80.07/$50, Sub: 0/20, Lawyer fees Goal: $187.14/$500 🍑💦",
-    "stream_viewer_count": 64,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
-  },
-  {
     "user_id": 609871961,
     "user_login": "taylorstarlight",
     "user_display_name": "TaylorStarlight",
@@ -164,21 +178,7 @@
     "stream_game_id": "498592",
     "stream_game_name": "I'm Only Sleeping",
     "stream_title": "WE PARTAAAAAY! Get in here ~ !socials",
-    "stream_viewer_count": 24,
+    "stream_viewer_count": 21,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylorstarlight-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 505413205,
-    "user_login": "lewnabun",
-    "user_display_name": "Lewnabun",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/78471de3-f22f-45c5-9b77-c47b2281f4eb-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/352b249e-d6cd-4d7f-b68a-1dbb008fffe8-channel_offline_image-1920x1080.png",
-    "stream_id": 315196900584,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "puppygirl melts your ears..♥ 🌸 !patreon !kofi !throne",
-    "stream_viewer_count": 0,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lewnabun-{width}x{height}.jpg"
   }
 ]
