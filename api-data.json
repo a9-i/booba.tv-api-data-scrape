@@ -1,5 +1,19 @@
 [
   {
+    "user_id": 443307935,
+    "user_login": "athnessa",
+    "user_display_name": "athnessa",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93e8b27c-0036-4cc3-8a45-4bdafef72cf5-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 316225736408,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "DEMON TIME",
+    "stream_viewer_count": 474,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_athnessa-{width}x{height}.jpg"
+  },
+  {
     "user_id": 604187751,
     "user_login": "aurorafractubela_uwu",
     "user_display_name": "Aurorafractubela_uwu",
@@ -10,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "❤️ 🥰😻 🥰 CUTE GENGAR girl-asmr 👅🥰👑 follow me insta Aurorafractubela_uwu 115/200 subs!! :o",
-    "stream_viewer_count": 463,
+    "stream_viewer_count": 473,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
   },
   {
@@ -24,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 427,
+    "stream_viewer_count": 366,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -38,7 +52,7 @@
     "stream_game_id": "18122",
     "stream_game_name": "World of Warcraft",
     "stream_title": "YOUR FAVORITE GODDESS💸 !WALLETDRAIN 👉 DM ME ONLYVIC.COM",
-    "stream_viewer_count": 268,
+    "stream_viewer_count": 285,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_victoria-{width}x{height}.jpg"
   },
   {
@@ -52,7 +66,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️LIVE❤️ draining all the...wallets 💸",
-    "stream_viewer_count": 112,
+    "stream_viewer_count": 187,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -66,22 +80,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️a day with me❤️ !insta !s !rerun",
-    "stream_viewer_count": 84,
+    "stream_viewer_count": 97,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 248388278,
-    "user_login": "malinkaa98",
-    "user_display_name": "Malinkaa98",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
-    "stream_id": 316067692645,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 71,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 192786074,
@@ -94,8 +94,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "☃️🎄 𝘾𝙝𝙧𝙞𝙨𝙩𝙢𝙖𝙨 𝙑𝙞𝙗𝙚𝙨 𝘼𝙎𝙈𝙍 🎄☃️ 💕 𝙍𝙚𝙧𝙪𝙣 💕",
-    "stream_viewer_count": 69,
+    "stream_viewer_count": 80,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
+    "stream_id": 316067692645,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
+    "stream_viewer_count": 80,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 78985277,
@@ -108,22 +122,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ DANCE + CHAT ❤️👉!socials ❤️ Enjoy rerun! Check schedule in discord",
-    "stream_viewer_count": 61,
+    "stream_viewer_count": 63,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 443307935,
-    "user_login": "athnessa",
-    "user_display_name": "athnessa",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93e8b27c-0036-4cc3-8a45-4bdafef72cf5-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 316225516632,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "DEMON TIME",
-    "stream_viewer_count": 38,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_athnessa-{width}x{height}.jpg"
   },
   {
     "user_id": 475171674,
@@ -136,21 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔥SEXY SATURDAY EDUCATION🔥",
-    "stream_viewer_count": 26,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_befitpilatesgal-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 442650263,
-    "user_login": "tiffy",
-    "user_display_name": "Tiffy",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/835e0c47-37ed-4959-be03-beb3a33653bc-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 316508367063,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "{Live} !s Saturday Night ASMR Waowwww",
     "stream_viewer_count": 25,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_befitpilatesgal-{width}x{height}.jpg"
   }
 ]
