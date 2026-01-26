@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 154028091,
-    "user_login": "novaruu",
-    "user_display_name": "novaruu",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/644fe5f1-966f-49ec-8920-b065d747c3b0-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0be40732-31a4-47b2-811b-c3ac3977e70e-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 317343121114,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "WE ARE STUCK IN A SNOW STORM <3 ❤️🤭!socials",
-    "stream_viewer_count": 857,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_novaruu-{width}x{height}.jpg"
-  },
-  {
     "user_id": 604187751,
     "user_login": "aurorafractubela_uwu",
     "user_display_name": "Aurorafractubela_uwu",
@@ -23,9 +9,23 @@
     "stream_id": 317267830873,
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
-    "stream_title": "❤️ 🥰😻 🥰 girl-asmr 👅🥰👑 follow me insta Aurorafractubela_uwu S3xy gengar 💜",
-    "stream_viewer_count": 474,
+    "stream_title": "ASMR CUTE ❤️ 🥰😻 🥰 girl-asmr 👅🥰👑 follow me insta Aurorafractubela_uwu S3xy gengar 💜",
+    "stream_viewer_count": 495,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aurorafractubela_uwu-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 443307935,
+    "user_login": "athnessa",
+    "user_display_name": "athnessa",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93e8b27c-0036-4cc3-8a45-4bdafef72cf5-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 316520274263,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "DEMON TIME",
+    "stream_viewer_count": 460,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_athnessa-{width}x{height}.jpg"
   },
   {
     "user_id": 160538649,
@@ -38,7 +38,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 308,
+    "stream_viewer_count": 352,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
@@ -52,22 +52,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🔞 Got a cold front moving through. Might get nippy | 💦 !s for links 💦",
-    "stream_viewer_count": 303,
+    "stream_viewer_count": 291,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bayesianash-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 443307935,
-    "user_login": "athnessa",
-    "user_display_name": "athnessa",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93e8b27c-0036-4cc3-8a45-4bdafef72cf5-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 316520274263,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "DEMON TIME",
-    "stream_viewer_count": 279,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_athnessa-{width}x{height}.jpg"
   },
   {
     "user_id": 122979652,
@@ -77,10 +63,10 @@
     "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40b059b8-bd2d-452d-91ac-fb7caad4f3eb-profile_image-300x300.png",
     "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ebe0541-9c5b-43c6-a1c1-17ba556f09af-channel_offline_image-1920x1080.png",
     "stream_id": 316975176926,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "☢️ FALLOUT 4 ☢️ FIRST TIME EVER ☢️ DONT SPOIL ☢️ | !discord",
-    "stream_viewer_count": 252,
+    "stream_game_id": "818633916",
+    "stream_game_name": "Backseat Drivers",
+    "stream_title": "☢️ GAMES WITH @DISISMEG ☢️ FALLOUT 4 ☢️ FIRST TIME EVER ☢️ DONT SPOIL ☢️ | !discord",
+    "stream_viewer_count": 162,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
   },
   {
@@ -98,6 +84,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
+    "user_id": 753374792,
+    "user_login": "sarenewild",
+    "user_display_name": "SareneWild",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e40e27f-9724-40f5-8f8a-dbcbb191b824-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c5d65e-745a-461a-9723-3e0d80eac8ef-channel_offline_image-1920x1080.png",
+    "stream_id": 316231076312,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "💋 Mommy Dimitrescu ASMR 🩸 !𝓡𝓡 !Patreon | @SareneWild",
+    "stream_viewer_count": 93,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
+  },
+  {
     "user_id": 192786074,
     "user_login": "asmr_kotya",
     "user_display_name": "asmr_kotya",
@@ -108,22 +108,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "☃️🎄 𝘾𝙝𝙧𝙞𝙨𝙩𝙢𝙖𝙨 𝙑𝙞𝙗𝙚𝙨 𝘼𝙎𝙈𝙍 🎄☃️ 💕 𝙍𝙚𝙧𝙪𝙣 💕",
-    "stream_viewer_count": 86,
+    "stream_viewer_count": 83,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 248388278,
-    "user_login": "malinkaa98",
-    "user_display_name": "Malinkaa98",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
-    "stream_id": 316067692645,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 82,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 224200688,
@@ -140,32 +126,18 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
-    "user_id": 753374792,
-    "user_login": "sarenewild",
-    "user_display_name": "SareneWild",
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e40e27f-9724-40f5-8f8a-dbcbb191b824-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c5d65e-745a-461a-9723-3e0d80eac8ef-channel_offline_image-1920x1080.png",
-    "stream_id": 316231076312,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "💋 Mommy Dimitrescu ASMR 🩸 !𝓡𝓡 !Patreon | @SareneWild",
-    "stream_viewer_count": 77,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 250502765,
-    "user_login": "mistressmord",
-    "user_display_name": "MistressMord",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
-    "stream_id": 317269409881,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "🍑💦 Dono for House for Mistress Goddess! | Trolls Welcome | Goals: House: $525.31/$3,000 🍑",
-    "stream_viewer_count": 55,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
+    "stream_id": 316067692645,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
+    "stream_viewer_count": 72,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 78985277,
@@ -178,7 +150,21 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ DANCE + CHAT ❤️👉!socials ❤️ Enjoy rerun! Check schedule in discord",
-    "stream_viewer_count": 52,
+    "stream_viewer_count": 68,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 250502765,
+    "user_login": "mistressmord",
+    "user_display_name": "MistressMord",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/96952b5a-821c-4654-a1d4-137589e4092e-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9e18a81-22be-40f8-a7e3-761c2a61355b-channel_offline_image-1920x1080.png",
+    "stream_id": 317269409881,
+    "stream_game_id": "116747788",
+    "stream_game_name": "Pools, Hot Tubs, and Beaches",
+    "stream_title": "🍑💦 Dono for House for Mistress Goddess! | Trolls Welcome | Goals: House: $525.31/$3,000 🍑",
+    "stream_viewer_count": 56,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   }
 ]
