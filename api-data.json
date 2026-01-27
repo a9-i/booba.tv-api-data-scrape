@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 224200688,
-    "user_login": "mellooow_",
-    "user_display_name": "Mellooow_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ba20793-acfb-4647-831d-d302d260b4a5-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03a99b77-0ed1-460c-97df-3f3ba3551eaf-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 315924699623,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❤️a day with me❤️ !insta !s !rerun",
-    "stream_viewer_count": 2453,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
-  },
-  {
     "user_id": 153497051,
     "user_login": "yoon_froggy",
     "user_display_name": "윤개굴이",
@@ -24,8 +10,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "MAID IN KOREA 🔴 Cooking 🔥 maybe highguard later? | Live [en/kr] !dance 🎶",
-    "stream_viewer_count": 2047,
+    "stream_viewer_count": 2999,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoon_froggy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 224200688,
+    "user_login": "mellooow_",
+    "user_display_name": "Mellooow_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ba20793-acfb-4647-831d-d302d260b4a5-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/03a99b77-0ed1-460c-97df-3f3ba3551eaf-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 315924699623,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❤️a day with me❤️ !insta !s !rerun",
+    "stream_viewer_count": 2405,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
     "user_id": 446325991,
@@ -37,8 +37,8 @@
     "stream_id": 317096140021,
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
-    "stream_title": "LIVE ASMR 🔞 🍑  EL PODER VIRTUAL FULLY UNLEASHED. ARE YOU READY TO EXPLORE YOUR IMAGINATION? 📢 !pull | Temp. 2026 - E13",
-    "stream_viewer_count": 1316,
+    "stream_title": "ASMR 🔞 🍑  EL PODER VIRTUAL FULLY UNLEASHED. ARE YOU READY TO EXPLORE YOUR IMAGINATION? 📢 !pull | Temp. 2026 - E13",
+    "stream_viewer_count": 1343,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pekeasmr-{width}x{height}.jpg"
   },
   {
@@ -52,22 +52,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 393,
+    "stream_viewer_count": 379,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
-    "user_id": 122979652,
-    "user_login": "aikobliss",
-    "user_display_name": "aikobliss",
+    "user_id": 531990402,
+    "user_login": "popazik",
+    "user_display_name": "popazik",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40b059b8-bd2d-452d-91ac-fb7caad4f3eb-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ebe0541-9c5b-43c6-a1c1-17ba556f09af-channel_offline_image-1920x1080.png",
-    "stream_id": 316994442590,
-    "stream_game_id": "21779",
-    "stream_game_name": "League of Legends",
-    "stream_title": "☢️ ENDING WITH SOME LEAGUE ☢️ | !discord",
-    "stream_viewer_count": 243,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4028b29e-4c53-4a51-8add-e828aeff69d1-channel_offline_image-1920x1080.png",
+    "stream_id": 315229970389,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "Собираю LEGO 🧩 °˖✧◝(„• ᴗ •„)◜✧˖° | !socials",
+    "stream_viewer_count": 376,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 593860034,
+    "user_login": "thewildlatina",
+    "user_display_name": "thewildlatina",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d76d7fe2-54c7-41ea-bae4-3a60b3aca432-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75da7b9c-f0bc-48b6-b942-6003af68b475-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 316942454748,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "♡ ur fav Latina !RAINBET ❤️ !wishlist !links ♡ \"Somebody's Son\" OUT !song ♡ !donate",
+    "stream_viewer_count": 257,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -79,23 +93,9 @@
     "stream_id": 317003824734,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "❤️LIVE❤️ pay up wallets 💸💸💸",
-    "stream_viewer_count": 210,
+    "stream_title": "❤️are you a good boy for goth goddess??? ❤️💸💸💸 Rerun live tonight",
+    "stream_viewer_count": 194,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 452985358,
-    "user_login": "foxenkin",
-    "user_display_name": "FoxenKin",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a4e7871-9fe2-40be-b040-8edf32a2818c-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/561d6052-b99c-4961-aeac-f1dcc49ac4fc-channel_offline_image-1920x1080.png",
-    "stream_id": 316523717847,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
-    "stream_viewer_count": 153,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
     "user_id": 430642455,
@@ -108,22 +108,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "VIBE WITH WIFEY , COOKING BREAKFAST ✨❤️ !YOUTUBE !SOCIALS !TWITTER",
-    "stream_viewer_count": 113,
+    "stream_viewer_count": 188,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kristinemaia-{width}x{height}.jpg"
   },
   {
-    "user_id": 248388278,
-    "user_login": "malinkaa98",
-    "user_display_name": "Malinkaa98",
+    "user_id": 122979652,
+    "user_login": "aikobliss",
+    "user_display_name": "aikobliss",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
-    "stream_id": 315928163431,
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/40b059b8-bd2d-452d-91ac-fb7caad4f3eb-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ebe0541-9c5b-43c6-a1c1-17ba556f09af-channel_offline_image-1920x1080.png",
+    "stream_id": 316994442590,
+    "stream_game_id": "21779",
+    "stream_game_name": "League of Legends",
+    "stream_title": "☢️ ENDING WITH SOME LEAGUE ☢️ | !discord",
+    "stream_viewer_count": 186,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 452985358,
+    "user_login": "foxenkin",
+    "user_display_name": "FoxenKin",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a4e7871-9fe2-40be-b040-8edf32a2818c-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/561d6052-b99c-4961-aeac-f1dcc49ac4fc-channel_offline_image-1920x1080.png",
+    "stream_id": 316523717847,
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
-    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 79,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
+    "stream_title": "💗 RERUN 💗SQUISH SQUISH💗ASMR !S for links 💗",
+    "stream_viewer_count": 154,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_foxenkin-{width}x{height}.jpg"
   },
   {
     "user_id": 753374792,
@@ -140,6 +154,20 @@
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
+    "stream_id": 315928163431,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
+    "stream_viewer_count": 72,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
+  },
+  {
     "user_id": 192786074,
     "user_login": "asmr_kotya",
     "user_display_name": "asmr_kotya",
@@ -150,7 +178,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "☃️🎄 𝘾𝙝𝙧𝙞𝙨𝙩𝙢𝙖𝙨 𝙑𝙞𝙗𝙚𝙨 𝘼𝙎𝙈𝙍 🎄☃️ 💕 𝙍𝙚𝙧𝙪𝙣 💕",
-    "stream_viewer_count": 71,
+    "stream_viewer_count": 65,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
   },
   {
@@ -164,22 +192,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ DANCE AND CHILL <3 ❤️👉!socials ❤️ Enjoy rerun! Check schedule in discord",
-    "stream_viewer_count": 65,
+    "stream_viewer_count": 55,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 593860034,
-    "user_login": "thewildlatina",
-    "user_display_name": "thewildlatina",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d76d7fe2-54c7-41ea-bae4-3a60b3aca432-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/75da7b9c-f0bc-48b6-b942-6003af68b475-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316942454748,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "♡ ur fav Latina !RAINBET ❤️ !wishlist !links ♡ \"Somebody's Son\" OUT !song ♡ !donate",
-    "stream_viewer_count": 54,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thewildlatina-{width}x{height}.jpg"
   },
   {
     "user_id": 250502765,
@@ -192,21 +206,7 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🍑💦 Rerun: Come worship your Goddess! | Trolls Welcome 🍑",
-    "stream_viewer_count": 45,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 531990402,
-    "user_login": "popazik",
-    "user_display_name": "popazik",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7eede703-a9f8-4b08-af8f-0dc3034d2626-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4028b29e-4c53-4a51-8add-e828aeff69d1-channel_offline_image-1920x1080.png",
-    "stream_id": 315229970389,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Собираю LEGO 🧩 °˖✧◝(„• ᴗ •„)◜✧˖° | !socials",
     "stream_viewer_count": 44,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_popazik-{width}x{height}.jpg"
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   }
 ]
