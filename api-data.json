@@ -1,33 +1,5 @@
 [
   {
-    "user_id": 457124238,
-    "user_login": "adrianachechik_",
-    "user_display_name": "AdrianaChechik_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/da3337d3-5d28-4e7e-9d24-5ee9a4cbb222-channel_offline_image-1920x1080.png",
-    "stream_id": 316619193687,
-    "stream_game_id": "110758",
-    "stream_game_name": "The Legend of Zelda: Breath of the Wild",
-    "stream_title": "ZELDA BREATH OF THE WILD | FIRST PLAY THROUGH | LEGO BUILDS | THE MIGHTY BOWSER",
-    "stream_viewer_count": 816,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adrianachechik_-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 562723403,
-    "user_login": "strawberrytabby",
-    "user_display_name": "StrawberryTabby",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a20b3279-e0e6-4464-a803-3a08167e7721-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/91ab9cee-4e48-4793-9a46-ca0775a5fe13-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316308824024,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Hi FRIEND. | 🍑 !ig ➜ link in bio 💖!throne",
-    "stream_viewer_count": 764,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strawberrytabby-{width}x{height}.jpg"
-  },
-  {
     "user_id": 31011227,
     "user_login": "castaway",
     "user_display_name": "Castaway",
@@ -38,36 +10,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️Mommy needs good boys!!❤️💸💸💸 RR live on Tuesday !wheels !socials",
-    "stream_viewer_count": 448,
+    "stream_viewer_count": 456,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 160538649,
-    "user_login": "faith",
-    "user_display_name": "Faith",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d0a3d57-2087-4f4e-b4cf-fa8cd7602f8b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
-    "stream_id": 317109727582,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 263,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 613182071,
-    "user_login": "bayesianash",
-    "user_display_name": "BayesiaNash",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e3200952-2464-4811-b215-af33aeee6e3e-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 317194605792,
-    "stream_game_id": "481086259",
-    "stream_game_name": "The Alters",
-    "stream_title": "🔞We can fix everything with a bit of beer pong #TheAlters | 💦 !s for links 💦",
-    "stream_viewer_count": 262,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bayesianash-{width}x{height}.jpg"
   },
   {
     "user_id": 442650263,
@@ -80,8 +24,22 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "{Live} Hey sweetheart, Mama's here! !s",
-    "stream_viewer_count": 188,
+    "stream_viewer_count": 382,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiffy-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 160538649,
+    "user_login": "faith",
+    "user_display_name": "Faith",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d0a3d57-2087-4f4e-b4cf-fa8cd7602f8b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
+    "stream_id": 317109727582,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❤️ SPICY FASHION SHOW SOON ❤️ | !s | IG: FAITHTTV_",
+    "stream_viewer_count": 276,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
     "user_id": 122979652,
@@ -94,22 +52,22 @@
     "stream_game_id": "489776",
     "stream_game_name": "Fallout 4",
     "stream_title": "⚠️  FALLOUT 4  ⚠️  FIRST TIME EVER  ⚠️  FULL BLIND PLAY THROUGH  ⚠️  PLEASE DONT SPOIL  ⚠️  | !discord",
-    "stream_viewer_count": 176,
+    "stream_viewer_count": 144,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikobliss-{width}x{height}.jpg"
   },
   {
-    "user_id": 78985277,
-    "user_login": "kaystryder",
-    "user_display_name": "Kaystryder",
+    "user_id": 248388278,
+    "user_login": "malinkaa98",
+    "user_display_name": "Malinkaa98",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1d11966-8392-4ab2-a220-1501d8f4c733-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61ba827b-7245-4076-9b3b-30c7720cbecc-channel_offline_image-1920x1080.png",
-    "stream_id": 317052091740,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❤️ DANCE AND CHILL <3 ❤️👉!socials ❤️ enjoy rerun :) check discord for schedule",
-    "stream_viewer_count": 48,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f77504c8-50af-4ed2-8be9-7781d1045087-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f402651b-2e64-4a42-9e28-38655a370e16-channel_offline_image-1920x1080.png",
+    "stream_id": 316029820135,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
+    "stream_viewer_count": 60,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
     "user_id": 250502765,
@@ -122,21 +80,21 @@
     "stream_game_id": "116747788",
     "stream_game_name": "Pools, Hot Tubs, and Beaches",
     "stream_title": "🍑💦 Mistress Goddess! | Trolls Welcome | Goals: House: $525.31/$3,000 🍑",
-    "stream_viewer_count": 30,
+    "stream_viewer_count": 52,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mistressmord-{width}x{height}.jpg"
   },
   {
-    "user_id": 249716432,
-    "user_login": "scrimxo",
-    "user_display_name": "ScrimXo",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cd8f6c7-f368-4bb9-8d78-cb2fa007649b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e1d8322-b836-45c2-a957-a1093199a6fc-channel_offline_image-1920x1080.jpg",
-    "stream_id": 316310212312,
+    "user_id": 78985277,
+    "user_login": "kaystryder",
+    "user_display_name": "Kaystryder",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d1d11966-8392-4ab2-a220-1501d8f4c733-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/61ba827b-7245-4076-9b3b-30c7720cbecc-channel_offline_image-1920x1080.png",
+    "stream_id": 317052091740,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "FLOWER BOY IS BLOCKED  !linktree !discord",
-    "stream_viewer_count": 19,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_scrimxo-{width}x{height}.jpg"
+    "stream_title": "❤️ DANCE AND CHILL <3 ❤️👉!socials ❤️ enjoy rerun :) check discord for schedule",
+    "stream_viewer_count": 49,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
   }
 ]
