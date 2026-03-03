@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 503369631,
-    "user_login": "asianbunnyx",
-    "user_display_name": "asianbunnyx",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3816d1df-e349-4cbe-aa1f-64f281d361cb-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 316069842167,
-    "stream_game_id": "116747788",
-    "stream_game_name": "Pools, Hot Tubs, and Beaches",
-    "stream_title": "NYEOW in korea cause im cooked IG:asianbunnyx",
-    "stream_viewer_count": 4991,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asianbunnyx-{width}x{height}.jpg"
-  },
-  {
     "user_id": 649885352,
     "user_login": "kattpaccino",
     "user_display_name": "kattpaccino",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "IRL Thrifting! | Sub for the support <3 !socials !gg",
-    "stream_viewer_count": 1463,
+    "stream_viewer_count": 1357,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kattpaccino-{width}x{height}.jpg"
   },
   {
@@ -38,7 +24,7 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "ASMR RERUN TINGLES !s",
-    "stream_viewer_count": 733,
+    "stream_viewer_count": 796,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenicolet-{width}x{height}.jpg"
   },
   {
@@ -52,36 +38,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "‼️Lots of new stuff ‼️Mommy Ear Licks / !social = all my Social Media",
-    "stream_viewer_count": 660,
+    "stream_viewer_count": 718,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leynainu-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 234992096,
-    "user_login": "nomadi_",
-    "user_display_name": "Nomadi_",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/247b8f30-dff7-4127-adde-c65850b61691-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0005d886-dc80-4259-a0ed-ba92e945e9c7-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 315511445077,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "METAL RADIO",
-    "stream_viewer_count": 560,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nomadi_-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 160538649,
-    "user_login": "faith",
-    "user_display_name": "Faith",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d0a3d57-2087-4f4e-b4cf-fa8cd7602f8b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
-    "stream_id": 318127506395,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "❤️ GINGER GODDESS DRAINING?? ❤️ | !s | IG: FAITHTTV_",
-    "stream_viewer_count": 403,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
     "user_id": 252393390,
@@ -94,8 +52,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "GONFIA COME UN DIRIGIBILE🥴 !reel",
-    "stream_viewer_count": 238,
+    "stream_viewer_count": 674,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imviolet_-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 234992096,
+    "user_login": "nomadi_",
+    "user_display_name": "Nomadi_",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/247b8f30-dff7-4127-adde-c65850b61691-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0005d886-dc80-4259-a0ed-ba92e945e9c7-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 315511445077,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "METAL RADIO",
+    "stream_viewer_count": 557,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nomadi_-{width}x{height}.jpg"
   },
   {
     "user_id": 445080375,
@@ -108,22 +80,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "LET ME BE YOUR FAVORITE FITNESS MOMMY😍",
-    "stream_viewer_count": 230,
+    "stream_viewer_count": 442,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_carabeanz-{width}x{height}.jpg"
   },
   {
-    "user_id": 168251674,
-    "user_login": "gavrilka",
-    "user_display_name": "Gavrilka",
+    "user_id": 160538649,
+    "user_login": "faith",
+    "user_display_name": "Faith",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/90531b062846dd9a-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46fc503d-e12c-40dd-bb69-ad23f8a3813f-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316348213991,
-    "stream_game_id": "1597660489",
-    "stream_game_name": "RESIDENT EVIL: requiem",
-    "stream_title": "Gavrilka is here! 🌸 !RE9 !screamer !love !fun",
-    "stream_viewer_count": 207,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gavrilka-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d0a3d57-2087-4f4e-b4cf-fa8cd7602f8b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2c83db9-c8ea-4462-ae06-1aeddcc4b1a1-channel_offline_image-1920x1080.png",
+    "stream_id": 318127506395,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "❤️ GINGER GODDESS DRAINING?? ❤️ | !s | IG: FAITHTTV_",
+    "stream_viewer_count": 410,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_faith-{width}x{height}.jpg"
   },
   {
     "user_id": 108504505,
@@ -136,8 +108,22 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Studying for nursing test, then PC building",
-    "stream_viewer_count": 158,
+    "stream_viewer_count": 196,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kichike-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 168251674,
+    "user_login": "gavrilka",
+    "user_display_name": "Gavrilka",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/90531b062846dd9a-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/46fc503d-e12c-40dd-bb69-ad23f8a3813f-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 316348213991,
+    "stream_game_id": "1597660489",
+    "stream_game_name": "RESIDENT EVIL: requiem",
+    "stream_title": "Gavrilka is here! 🌸 !RE9 !screamer !love !fun",
+    "stream_viewer_count": 178,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gavrilka-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -150,7 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️are you a good boy or a loser.......❤️💸 RR live on Tuesday !wheels !socials",
-    "stream_viewer_count": 108,
+    "stream_viewer_count": 122,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
@@ -164,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "🌟Wonder Woman Cosplay!💥 ASMR !𝓡𝓡 !Patreon | @SareneWild",
-    "stream_viewer_count": 106,
+    "stream_viewer_count": 98,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
@@ -178,7 +164,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️a day with me❤️ !insta !s !rerun",
-    "stream_viewer_count": 88,
+    "stream_viewer_count": 97,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
@@ -192,22 +178,8 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "😻 𝘾𝙝𝙞𝙡𝙡 𝙒𝙞𝙩𝙝 𝙈𝙚 😻 💜  𝙍𝙚𝙧𝙪𝙣 𝘼𝙎𝙈𝙍 💜 😎 𝘼𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙥𝙞𝙘𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 😎",
-    "stream_viewer_count": 81,
+    "stream_viewer_count": 78,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 627310906,
-    "user_login": "onlykiky",
-    "user_display_name": "OnlyKiky",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/086ae96b-c6c7-47aa-b21f-7fff1698cb70-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 316567661798,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "🏅RERUN🏅 Ear licking 😈 Sleepy Cozy Vibes 🌙 Soft-Spoken Gentle Sounds & Calming Triggers🔹!LINKS",
-    "stream_viewer_count": 67,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_onlykiky-{width}x{height}.jpg"
   },
   {
     "user_id": 78985277,
@@ -220,22 +192,8 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️CLICK HERE IF YOU DARE <3 ❤️ !throne 👉!socials ❤️ rerun! Next stream is Wednesday!",
-    "stream_viewer_count": 63,
+    "stream_viewer_count": 55,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 228986406,
-    "user_login": "marinavalmont",
-    "user_display_name": "marinavalmont",
-    "user_broadcaster_type": "affiliate",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf3b0536-b28f-43e0-a749-765f5ceadeff-profile_image-300x300.png",
-    "user_offline_image_url": "",
-    "stream_id": 317951181017,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "Chill Cooking chats & Positivity in Mexico",
-    "stream_viewer_count": 40,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marinavalmont-{width}x{height}.jpg"
   },
   {
     "user_id": 248388278,
@@ -248,21 +206,35 @@
     "stream_game_id": "509659",
     "stream_game_name": "ASMR",
     "stream_title": "💕HI!| приветик :3 !s !socials !donate !rules !yt !instagram !about #english #cutegirl",
-    "stream_viewer_count": 33,
+    "stream_viewer_count": 49,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_malinkaa98-{width}x{height}.jpg"
   },
   {
-    "user_id": 173319589,
-    "user_login": "jjolbi1987",
-    "user_display_name": "쫄비",
-    "user_broadcaster_type": "",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/fabb58ae-01a9-49f1-91f2-80589adb450d-profile_image-300x300.jpg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d45a9cd-a640-426f-82e4-7426143c76c1-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 315566313202,
+    "user_id": 627310906,
+    "user_login": "onlykiky",
+    "user_display_name": "OnlyKiky",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/086ae96b-c6c7-47aa-b21f-7fff1698cb70-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 316567661798,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "🏅RERUN🏅 Ear licking 😈 Sleepy Cozy Vibes 🌙 Soft-Spoken Gentle Sounds & Calming Triggers🔹!LINKS",
+    "stream_viewer_count": 47,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_onlykiky-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 228986406,
+    "user_login": "marinavalmont",
+    "user_display_name": "marinavalmont",
+    "user_broadcaster_type": "affiliate",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf3b0536-b28f-43e0-a749-765f5ceadeff-profile_image-300x300.png",
+    "user_offline_image_url": "",
+    "stream_id": 317951181017,
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
-    "stream_title": "술먹방 쫄비 (트위치 오류시 치지직으로 ㄱㄱ)",
-    "stream_viewer_count": 13,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jjolbi1987-{width}x{height}.jpg"
+    "stream_title": "Chill Cooking chats & Positivity in Mexico",
+    "stream_viewer_count": 35,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marinavalmont-{width}x{height}.jpg"
   }
 ]
