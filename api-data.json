@@ -1,19 +1,5 @@
 [
   {
-    "user_id": 505413205,
-    "user_login": "lewnabun",
-    "user_display_name": "Lewnabun",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e34d54f0-0be0-4d7e-81f8-29b53bed9f4a-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/352b249e-d6cd-4d7f-b68a-1dbb008fffe8-channel_offline_image-1920x1080.png",
-    "stream_id": 315455513961,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "Jirai Slime Bunny Squishing 🩷  ASMR LIVE 3DIO ~🌸 !patreon !kofi !throne !uwu",
-    "stream_viewer_count": 1257,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lewnabun-{width}x{height}.jpg"
-  },
-  {
     "user_id": 188614162,
     "user_login": "gloriamatvien",
     "user_display_name": "GloriaMatvien",
@@ -24,7 +10,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "💗Im Back🔥POST ON !boosty !Patreon",
-    "stream_viewer_count": 986,
+    "stream_viewer_count": 1096,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gloriamatvien-{width}x{height}.jpg"
   },
   {
@@ -38,50 +24,8 @@
     "stream_game_id": "509672",
     "stream_game_name": "IRL",
     "stream_title": "👀👀 domingo de playita y sol en rr, nos vemos el martes",
-    "stream_viewer_count": 610,
+    "stream_viewer_count": 827,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gonsabellla-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 257140862,
-    "user_login": "karna",
-    "user_display_name": "Karna",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1dabff7-f85f-4599-a1b7-b662f243ced4-profile_image-300x300.jpeg",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7f3d4eb-27a3-490a-a317-3c7fc869001c-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 315726055126,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "151 POKEMON OPENING  !S",
-    "stream_viewer_count": 220,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 61335991,
-    "user_login": "kiaraakitty",
-    "user_display_name": "Kiaraakitty",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac572f94-56e1-4da1-a070-290bbf1eb1eb-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/31492c55-fa38-4abe-845d-f3da023c4187-channel_offline_image-1920x1080.png",
-    "stream_id": 315413966696,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🇸🇬🌸LIVE🌸The Kiara Show🌸Gartic Show, Guess what Im drawin' & win a free sub :D 🌸 !tip !discord",
-    "stream_viewer_count": 215,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiaraakitty-{width}x{height}.jpg"
-  },
-  {
-    "user_id": 753374792,
-    "user_login": "sarenewild",
-    "user_display_name": "SareneWild",
-    "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e40e27f-9724-40f5-8f8a-dbcbb191b824-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c5d65e-745a-461a-9723-3e0d80eac8ef-channel_offline_image-1920x1080.png",
-    "stream_id": 317240391639,
-    "stream_game_id": "509658",
-    "stream_game_name": "Just Chatting",
-    "stream_title": "🔥 Starfire Ignites Tingles 💜 ASMR !𝓡𝓡 !Patreon | @SareneWild",
-    "stream_viewer_count": 199,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
     "user_id": 31011227,
@@ -94,22 +38,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️are you a good boy????❤️ goddess ASMR 💸 RR live at 12pm EST :) !wheels",
-    "stream_viewer_count": 159,
+    "stream_viewer_count": 272,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_castaway-{width}x{height}.jpg"
   },
   {
-    "user_id": 192786074,
-    "user_login": "asmr_kotya",
-    "user_display_name": "asmr_kotya",
+    "user_id": 257140862,
+    "user_login": "karna",
+    "user_display_name": "Karna",
     "user_broadcaster_type": "partner",
-    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eda2f47a-7e3b-45fb-9ae9-cdaf05e4286b-profile_image-300x300.png",
-    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eac6f163-5cf1-4467-a564-c7edf39a657c-channel_offline_image-1920x1080.jpeg",
-    "stream_id": 316611149287,
-    "stream_game_id": "509659",
-    "stream_game_name": "ASMR",
-    "stream_title": "😻 𝘾𝙝𝙞𝙡𝙡 𝙒𝙞𝙩𝙝 𝙈𝙚 😻 💜  𝙍𝙚𝙧𝙪𝙣 𝘼𝙎𝙈𝙍 💜 😎 𝘼𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙥𝙞𝙘𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 😎",
-    "stream_viewer_count": 136,
-    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1dabff7-f85f-4599-a1b7-b662f243ced4-profile_image-300x300.jpeg",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7f3d4eb-27a3-490a-a317-3c7fc869001c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 315726055126,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "151 POKEMON OPENING  !S",
+    "stream_viewer_count": 244,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_karna-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 753374792,
+    "user_login": "sarenewild",
+    "user_display_name": "SareneWild",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e40e27f-9724-40f5-8f8a-dbcbb191b824-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0c5d65e-745a-461a-9723-3e0d80eac8ef-channel_offline_image-1920x1080.png",
+    "stream_id": 317240391639,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🔥 Starfire Ignites Tingles 💜 ASMR !𝓡𝓡 !Patreon | @SareneWild",
+    "stream_viewer_count": 206,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarenewild-{width}x{height}.jpg"
   },
   {
     "user_id": 455993452,
@@ -122,8 +80,36 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "Cat queen ♣😍🥵💛18+🔞👋 !S  !king #Cosplay #Anime Sharon Goddess UwU Massage Latex",
-    "stream_viewer_count": 99,
+    "stream_viewer_count": 179,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sharonqueen-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 192786074,
+    "user_login": "asmr_kotya",
+    "user_display_name": "asmr_kotya",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eda2f47a-7e3b-45fb-9ae9-cdaf05e4286b-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/eac6f163-5cf1-4467-a564-c7edf39a657c-channel_offline_image-1920x1080.jpeg",
+    "stream_id": 316611149287,
+    "stream_game_id": "509659",
+    "stream_game_name": "ASMR",
+    "stream_title": "😻 𝘾𝙝𝙞𝙡𝙡 𝙒𝙞𝙩𝙝 𝙈𝙚 😻 💜  𝙍𝙚𝙧𝙪𝙣 𝘼𝙎𝙈𝙍 💜 😎 𝘼𝙘𝙩𝙞𝙫𝙚 𝙤𝙣 𝙢𝙮 𝙎𝙥𝙞𝙘𝙮 𝙎𝙤𝙘𝙞𝙖𝙡𝙨 😎",
+    "stream_viewer_count": 145,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asmr_kotya-{width}x{height}.jpg"
+  },
+  {
+    "user_id": 195459994,
+    "user_login": "aheliana",
+    "user_display_name": "Aheliana",
+    "user_broadcaster_type": "partner",
+    "user_profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e4a918c-cdf4-46d1-b097-44b937db6a89-profile_image-300x300.png",
+    "user_offline_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93ec6af4-3b9f-4d19-a447-d393fe9a9600-channel_offline_image-1920x1080.png",
+    "stream_id": 318484534106,
+    "stream_game_id": "509658",
+    "stream_game_name": "Just Chatting",
+    "stream_title": "🔴LIVE Dance mode: On ⚡🔋",
+    "stream_viewer_count": 101,
+    "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aheliana-{width}x{height}.jpg"
   },
   {
     "user_id": 224200688,
@@ -136,7 +122,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️a day with me❤️ !insta !s !rerun",
-    "stream_viewer_count": 85,
+    "stream_viewer_count": 93,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mellooow_-{width}x{height}.jpg"
   },
   {
@@ -150,7 +136,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "❤️ CLICK HERE IF YOU DARE <3 ❤️ !throne 👉!socials ❤️ RERUN! Next stream is Monday! Check discord.",
-    "stream_viewer_count": 63,
+    "stream_viewer_count": 65,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaystryder-{width}x{height}.jpg"
   },
   {
@@ -164,7 +150,7 @@
     "stream_game_id": "509658",
     "stream_game_name": "Just Chatting",
     "stream_title": "GET IN HERE, PLS (917)809-2026 (RERUN)",
-    "stream_viewer_count": 31,
+    "stream_viewer_count": 36,
     "stream_thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_destinyfomo-{width}x{height}.jpg"
   }
 ]
